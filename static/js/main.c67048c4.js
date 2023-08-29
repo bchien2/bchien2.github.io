@@ -60,7 +60,7 @@
 /******/ 	__webpack_require__.p = "/";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 13);
+/******/ 	return __webpack_require__(__webpack_require__.s = 15);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -71,7 +71,7 @@
 
 
 if (true) {
-  module.exports = __webpack_require__(21);
+  module.exports = __webpack_require__(23);
 } else {
   module.exports = require('./cjs/react.development.js');
 }
@@ -82,465 +82,465 @@ if (true) {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__AcademicCapIcon_js__ = __webpack_require__(37);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__AcademicCapIcon_js__ = __webpack_require__(39);
 /* unused harmony reexport AcademicCapIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__AdjustmentsIcon_js__ = __webpack_require__(38);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__AdjustmentsIcon_js__ = __webpack_require__(40);
 /* unused harmony reexport AdjustmentsIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__AnnotationIcon_js__ = __webpack_require__(39);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__AnnotationIcon_js__ = __webpack_require__(41);
 /* unused harmony reexport AnnotationIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ArchiveIcon_js__ = __webpack_require__(40);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ArchiveIcon_js__ = __webpack_require__(42);
 /* unused harmony reexport ArchiveIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ArrowCircleDownIcon_js__ = __webpack_require__(41);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ArrowCircleDownIcon_js__ = __webpack_require__(43);
 /* unused harmony reexport ArrowCircleDownIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ArrowCircleLeftIcon_js__ = __webpack_require__(42);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ArrowCircleLeftIcon_js__ = __webpack_require__(44);
 /* unused harmony reexport ArrowCircleLeftIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__ArrowCircleRightIcon_js__ = __webpack_require__(43);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__ArrowCircleRightIcon_js__ = __webpack_require__(45);
 /* unused harmony reexport ArrowCircleRightIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__ArrowCircleUpIcon_js__ = __webpack_require__(44);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__ArrowCircleUpIcon_js__ = __webpack_require__(46);
 /* unused harmony reexport ArrowCircleUpIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__ArrowDownIcon_js__ = __webpack_require__(45);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__ArrowDownIcon_js__ = __webpack_require__(47);
 /* unused harmony reexport ArrowDownIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__ArrowLeftIcon_js__ = __webpack_require__(46);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__ArrowLeftIcon_js__ = __webpack_require__(48);
 /* unused harmony reexport ArrowLeftIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__ArrowNarrowDownIcon_js__ = __webpack_require__(47);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__ArrowNarrowDownIcon_js__ = __webpack_require__(49);
 /* unused harmony reexport ArrowNarrowDownIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__ArrowNarrowLeftIcon_js__ = __webpack_require__(48);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__ArrowNarrowLeftIcon_js__ = __webpack_require__(50);
 /* unused harmony reexport ArrowNarrowLeftIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__ArrowNarrowRightIcon_js__ = __webpack_require__(49);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__ArrowNarrowRightIcon_js__ = __webpack_require__(51);
 /* unused harmony reexport ArrowNarrowRightIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__ArrowNarrowUpIcon_js__ = __webpack_require__(50);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__ArrowNarrowUpIcon_js__ = __webpack_require__(52);
 /* unused harmony reexport ArrowNarrowUpIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__ArrowRightIcon_js__ = __webpack_require__(51);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__ArrowRightIcon_js__ = __webpack_require__(53);
 /* unused harmony reexport ArrowRightIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__ArrowSmDownIcon_js__ = __webpack_require__(52);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__ArrowSmDownIcon_js__ = __webpack_require__(54);
 /* unused harmony reexport ArrowSmDownIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__ArrowSmLeftIcon_js__ = __webpack_require__(53);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__ArrowSmLeftIcon_js__ = __webpack_require__(55);
 /* unused harmony reexport ArrowSmLeftIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__ArrowSmRightIcon_js__ = __webpack_require__(54);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__ArrowSmRightIcon_js__ = __webpack_require__(56);
 /* unused harmony reexport ArrowSmRightIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__ArrowSmUpIcon_js__ = __webpack_require__(55);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__ArrowSmUpIcon_js__ = __webpack_require__(57);
 /* unused harmony reexport ArrowSmUpIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__ArrowUpIcon_js__ = __webpack_require__(56);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__ArrowUpIcon_js__ = __webpack_require__(58);
 /* unused harmony reexport ArrowUpIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__ArrowsExpandIcon_js__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__ArrowsExpandIcon_js__ = __webpack_require__(59);
 /* unused harmony reexport ArrowsExpandIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__AtSymbolIcon_js__ = __webpack_require__(58);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__AtSymbolIcon_js__ = __webpack_require__(60);
 /* unused harmony reexport AtSymbolIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__BackspaceIcon_js__ = __webpack_require__(59);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__BackspaceIcon_js__ = __webpack_require__(61);
 /* unused harmony reexport BackspaceIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__BadgeCheckIcon_js__ = __webpack_require__(60);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__BadgeCheckIcon_js__ = __webpack_require__(62);
 /* unused harmony reexport BadgeCheckIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__BanIcon_js__ = __webpack_require__(61);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__BanIcon_js__ = __webpack_require__(63);
 /* unused harmony reexport BanIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__BeakerIcon_js__ = __webpack_require__(62);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__BeakerIcon_js__ = __webpack_require__(64);
 /* unused harmony reexport BeakerIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__BellIcon_js__ = __webpack_require__(63);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__BellIcon_js__ = __webpack_require__(65);
 /* unused harmony reexport BellIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__BookOpenIcon_js__ = __webpack_require__(64);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__BookOpenIcon_js__ = __webpack_require__(66);
 /* unused harmony reexport BookOpenIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__BookmarkAltIcon_js__ = __webpack_require__(65);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__BookmarkAltIcon_js__ = __webpack_require__(67);
 /* unused harmony reexport BookmarkAltIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__BookmarkIcon_js__ = __webpack_require__(66);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__BookmarkIcon_js__ = __webpack_require__(68);
 /* unused harmony reexport BookmarkIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__BriefcaseIcon_js__ = __webpack_require__(67);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__BriefcaseIcon_js__ = __webpack_require__(69);
 /* unused harmony reexport BriefcaseIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__CakeIcon_js__ = __webpack_require__(68);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__CakeIcon_js__ = __webpack_require__(70);
 /* unused harmony reexport CakeIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__CalculatorIcon_js__ = __webpack_require__(69);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__CalculatorIcon_js__ = __webpack_require__(71);
 /* unused harmony reexport CalculatorIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__CalendarIcon_js__ = __webpack_require__(70);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__CalendarIcon_js__ = __webpack_require__(72);
 /* unused harmony reexport CalendarIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__CameraIcon_js__ = __webpack_require__(71);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__CameraIcon_js__ = __webpack_require__(73);
 /* unused harmony reexport CameraIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__CashIcon_js__ = __webpack_require__(72);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__CashIcon_js__ = __webpack_require__(74);
 /* unused harmony reexport CashIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_36__ChartBarIcon_js__ = __webpack_require__(73);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_36__ChartBarIcon_js__ = __webpack_require__(75);
 /* unused harmony reexport ChartBarIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_37__ChartPieIcon_js__ = __webpack_require__(74);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_37__ChartPieIcon_js__ = __webpack_require__(76);
 /* unused harmony reexport ChartPieIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_38__ChartSquareBarIcon_js__ = __webpack_require__(75);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_38__ChartSquareBarIcon_js__ = __webpack_require__(77);
 /* unused harmony reexport ChartSquareBarIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_39__ChatAlt2Icon_js__ = __webpack_require__(76);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_39__ChatAlt2Icon_js__ = __webpack_require__(78);
 /* unused harmony reexport ChatAlt2Icon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_40__ChatAltIcon_js__ = __webpack_require__(77);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_40__ChatAltIcon_js__ = __webpack_require__(79);
 /* unused harmony reexport ChatAltIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_41__ChatIcon_js__ = __webpack_require__(78);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_41__ChatIcon_js__ = __webpack_require__(80);
 /* unused harmony reexport ChatIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_42__CheckCircleIcon_js__ = __webpack_require__(79);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_42__CheckCircleIcon_js__ = __webpack_require__(81);
 /* unused harmony reexport CheckCircleIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_43__CheckIcon_js__ = __webpack_require__(80);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_43__CheckIcon_js__ = __webpack_require__(82);
 /* unused harmony reexport CheckIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_44__ChevronDoubleDownIcon_js__ = __webpack_require__(81);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_44__ChevronDoubleDownIcon_js__ = __webpack_require__(83);
 /* unused harmony reexport ChevronDoubleDownIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_45__ChevronDoubleLeftIcon_js__ = __webpack_require__(82);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_45__ChevronDoubleLeftIcon_js__ = __webpack_require__(84);
 /* unused harmony reexport ChevronDoubleLeftIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_46__ChevronDoubleRightIcon_js__ = __webpack_require__(83);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_46__ChevronDoubleRightIcon_js__ = __webpack_require__(85);
 /* unused harmony reexport ChevronDoubleRightIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_47__ChevronDoubleUpIcon_js__ = __webpack_require__(84);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_47__ChevronDoubleUpIcon_js__ = __webpack_require__(86);
 /* unused harmony reexport ChevronDoubleUpIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_48__ChevronDownIcon_js__ = __webpack_require__(85);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_48__ChevronDownIcon_js__ = __webpack_require__(87);
 /* unused harmony reexport ChevronDownIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_49__ChevronLeftIcon_js__ = __webpack_require__(86);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_49__ChevronLeftIcon_js__ = __webpack_require__(88);
 /* unused harmony reexport ChevronLeftIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_50__ChevronRightIcon_js__ = __webpack_require__(87);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_50__ChevronRightIcon_js__ = __webpack_require__(89);
 /* unused harmony reexport ChevronRightIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_51__ChevronUpIcon_js__ = __webpack_require__(88);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_51__ChevronUpIcon_js__ = __webpack_require__(90);
 /* unused harmony reexport ChevronUpIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_52__ChipIcon_js__ = __webpack_require__(89);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_52__ChipIcon_js__ = __webpack_require__(91);
 /* unused harmony reexport ChipIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_53__ClipboardCheckIcon_js__ = __webpack_require__(90);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_53__ClipboardCheckIcon_js__ = __webpack_require__(92);
 /* unused harmony reexport ClipboardCheckIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_54__ClipboardCopyIcon_js__ = __webpack_require__(91);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_54__ClipboardCopyIcon_js__ = __webpack_require__(93);
 /* unused harmony reexport ClipboardCopyIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_55__ClipboardListIcon_js__ = __webpack_require__(92);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_55__ClipboardListIcon_js__ = __webpack_require__(94);
 /* unused harmony reexport ClipboardListIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_56__ClipboardIcon_js__ = __webpack_require__(93);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_56__ClipboardIcon_js__ = __webpack_require__(95);
 /* unused harmony reexport ClipboardIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_57__ClockIcon_js__ = __webpack_require__(94);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_57__ClockIcon_js__ = __webpack_require__(96);
 /* unused harmony reexport ClockIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_58__CloudDownloadIcon_js__ = __webpack_require__(95);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_58__CloudDownloadIcon_js__ = __webpack_require__(97);
 /* unused harmony reexport CloudDownloadIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_59__CloudUploadIcon_js__ = __webpack_require__(96);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_59__CloudUploadIcon_js__ = __webpack_require__(98);
 /* unused harmony reexport CloudUploadIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_60__CloudIcon_js__ = __webpack_require__(97);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_60__CloudIcon_js__ = __webpack_require__(99);
 /* unused harmony reexport CloudIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_61__CodeIcon_js__ = __webpack_require__(98);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_61__CodeIcon_js__ = __webpack_require__(100);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_61__CodeIcon_js__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_62__CogIcon_js__ = __webpack_require__(99);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_62__CogIcon_js__ = __webpack_require__(101);
 /* unused harmony reexport CogIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_63__CollectionIcon_js__ = __webpack_require__(100);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_63__CollectionIcon_js__ = __webpack_require__(102);
 /* unused harmony reexport CollectionIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_64__ColorSwatchIcon_js__ = __webpack_require__(101);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_64__ColorSwatchIcon_js__ = __webpack_require__(103);
 /* unused harmony reexport ColorSwatchIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_65__CreditCardIcon_js__ = __webpack_require__(102);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_65__CreditCardIcon_js__ = __webpack_require__(104);
 /* unused harmony reexport CreditCardIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_66__CubeTransparentIcon_js__ = __webpack_require__(103);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_66__CubeTransparentIcon_js__ = __webpack_require__(105);
 /* unused harmony reexport CubeTransparentIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_67__CubeIcon_js__ = __webpack_require__(104);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_67__CubeIcon_js__ = __webpack_require__(106);
 /* unused harmony reexport CubeIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_68__CurrencyBangladeshiIcon_js__ = __webpack_require__(105);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_68__CurrencyBangladeshiIcon_js__ = __webpack_require__(107);
 /* unused harmony reexport CurrencyBangladeshiIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_69__CurrencyDollarIcon_js__ = __webpack_require__(106);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_69__CurrencyDollarIcon_js__ = __webpack_require__(108);
 /* unused harmony reexport CurrencyDollarIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_70__CurrencyEuroIcon_js__ = __webpack_require__(107);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_70__CurrencyEuroIcon_js__ = __webpack_require__(109);
 /* unused harmony reexport CurrencyEuroIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_71__CurrencyPoundIcon_js__ = __webpack_require__(108);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_71__CurrencyPoundIcon_js__ = __webpack_require__(110);
 /* unused harmony reexport CurrencyPoundIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_72__CurrencyRupeeIcon_js__ = __webpack_require__(109);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_72__CurrencyRupeeIcon_js__ = __webpack_require__(111);
 /* unused harmony reexport CurrencyRupeeIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_73__CurrencyYenIcon_js__ = __webpack_require__(110);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_73__CurrencyYenIcon_js__ = __webpack_require__(112);
 /* unused harmony reexport CurrencyYenIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_74__CursorClickIcon_js__ = __webpack_require__(111);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_74__CursorClickIcon_js__ = __webpack_require__(113);
 /* unused harmony reexport CursorClickIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_75__DatabaseIcon_js__ = __webpack_require__(112);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_75__DatabaseIcon_js__ = __webpack_require__(114);
 /* unused harmony reexport DatabaseIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_76__DesktopComputerIcon_js__ = __webpack_require__(113);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_76__DesktopComputerIcon_js__ = __webpack_require__(115);
 /* unused harmony reexport DesktopComputerIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_77__DeviceMobileIcon_js__ = __webpack_require__(114);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_77__DeviceMobileIcon_js__ = __webpack_require__(116);
 /* unused harmony reexport DeviceMobileIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_78__DeviceTabletIcon_js__ = __webpack_require__(115);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_78__DeviceTabletIcon_js__ = __webpack_require__(117);
 /* unused harmony reexport DeviceTabletIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_79__DocumentAddIcon_js__ = __webpack_require__(116);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_79__DocumentAddIcon_js__ = __webpack_require__(118);
 /* unused harmony reexport DocumentAddIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_80__DocumentDownloadIcon_js__ = __webpack_require__(117);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_80__DocumentDownloadIcon_js__ = __webpack_require__(119);
 /* unused harmony reexport DocumentDownloadIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_81__DocumentDuplicateIcon_js__ = __webpack_require__(118);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_81__DocumentDuplicateIcon_js__ = __webpack_require__(120);
 /* unused harmony reexport DocumentDuplicateIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_82__DocumentRemoveIcon_js__ = __webpack_require__(119);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_82__DocumentRemoveIcon_js__ = __webpack_require__(121);
 /* unused harmony reexport DocumentRemoveIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_83__DocumentReportIcon_js__ = __webpack_require__(120);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_83__DocumentReportIcon_js__ = __webpack_require__(122);
 /* unused harmony reexport DocumentReportIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_84__DocumentSearchIcon_js__ = __webpack_require__(121);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_84__DocumentSearchIcon_js__ = __webpack_require__(123);
 /* unused harmony reexport DocumentSearchIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_85__DocumentTextIcon_js__ = __webpack_require__(122);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_85__DocumentTextIcon_js__ = __webpack_require__(124);
 /* unused harmony reexport DocumentTextIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_86__DocumentIcon_js__ = __webpack_require__(123);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_86__DocumentIcon_js__ = __webpack_require__(125);
 /* unused harmony reexport DocumentIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_87__DotsCircleHorizontalIcon_js__ = __webpack_require__(124);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_87__DotsCircleHorizontalIcon_js__ = __webpack_require__(126);
 /* unused harmony reexport DotsCircleHorizontalIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_88__DotsHorizontalIcon_js__ = __webpack_require__(125);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_88__DotsHorizontalIcon_js__ = __webpack_require__(127);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_88__DotsHorizontalIcon_js__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_89__DotsVerticalIcon_js__ = __webpack_require__(126);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_89__DotsVerticalIcon_js__ = __webpack_require__(128);
 /* unused harmony reexport DotsVerticalIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_90__DownloadIcon_js__ = __webpack_require__(127);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_90__DownloadIcon_js__ = __webpack_require__(129);
 /* unused harmony reexport DownloadIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_91__DuplicateIcon_js__ = __webpack_require__(128);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_91__DuplicateIcon_js__ = __webpack_require__(130);
 /* unused harmony reexport DuplicateIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_92__EmojiHappyIcon_js__ = __webpack_require__(129);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_92__EmojiHappyIcon_js__ = __webpack_require__(131);
 /* unused harmony reexport EmojiHappyIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_93__EmojiSadIcon_js__ = __webpack_require__(130);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_93__EmojiSadIcon_js__ = __webpack_require__(132);
 /* unused harmony reexport EmojiSadIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_94__ExclamationCircleIcon_js__ = __webpack_require__(131);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_94__ExclamationCircleIcon_js__ = __webpack_require__(133);
 /* unused harmony reexport ExclamationCircleIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_95__ExclamationIcon_js__ = __webpack_require__(132);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_95__ExclamationIcon_js__ = __webpack_require__(134);
 /* unused harmony reexport ExclamationIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_96__ExternalLinkIcon_js__ = __webpack_require__(133);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_96__ExternalLinkIcon_js__ = __webpack_require__(135);
 /* unused harmony reexport ExternalLinkIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_97__EyeOffIcon_js__ = __webpack_require__(134);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_97__EyeOffIcon_js__ = __webpack_require__(136);
 /* unused harmony reexport EyeOffIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_98__EyeIcon_js__ = __webpack_require__(135);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_98__EyeIcon_js__ = __webpack_require__(137);
 /* unused harmony reexport EyeIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_99__FastForwardIcon_js__ = __webpack_require__(136);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_99__FastForwardIcon_js__ = __webpack_require__(138);
 /* unused harmony reexport FastForwardIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_100__FilmIcon_js__ = __webpack_require__(137);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_100__FilmIcon_js__ = __webpack_require__(139);
 /* unused harmony reexport FilmIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_101__FilterIcon_js__ = __webpack_require__(138);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_101__FilterIcon_js__ = __webpack_require__(140);
 /* unused harmony reexport FilterIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_102__FingerPrintIcon_js__ = __webpack_require__(139);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_102__FingerPrintIcon_js__ = __webpack_require__(141);
 /* unused harmony reexport FingerPrintIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_103__FireIcon_js__ = __webpack_require__(140);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_103__FireIcon_js__ = __webpack_require__(142);
 /* unused harmony reexport FireIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_104__FlagIcon_js__ = __webpack_require__(141);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_104__FlagIcon_js__ = __webpack_require__(143);
 /* unused harmony reexport FlagIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_105__FolderAddIcon_js__ = __webpack_require__(142);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_105__FolderAddIcon_js__ = __webpack_require__(144);
 /* unused harmony reexport FolderAddIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_106__FolderDownloadIcon_js__ = __webpack_require__(143);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_106__FolderDownloadIcon_js__ = __webpack_require__(145);
 /* unused harmony reexport FolderDownloadIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_107__FolderOpenIcon_js__ = __webpack_require__(144);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_107__FolderOpenIcon_js__ = __webpack_require__(146);
 /* unused harmony reexport FolderOpenIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_108__FolderRemoveIcon_js__ = __webpack_require__(145);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_108__FolderRemoveIcon_js__ = __webpack_require__(147);
 /* unused harmony reexport FolderRemoveIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_109__FolderIcon_js__ = __webpack_require__(146);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_109__FolderIcon_js__ = __webpack_require__(148);
 /* unused harmony reexport FolderIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_110__GiftIcon_js__ = __webpack_require__(147);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_110__GiftIcon_js__ = __webpack_require__(149);
 /* unused harmony reexport GiftIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_111__GlobeAltIcon_js__ = __webpack_require__(148);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_111__GlobeAltIcon_js__ = __webpack_require__(150);
 /* unused harmony reexport GlobeAltIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_112__GlobeIcon_js__ = __webpack_require__(149);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_112__GlobeIcon_js__ = __webpack_require__(151);
 /* unused harmony reexport GlobeIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_113__HandIcon_js__ = __webpack_require__(150);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_113__HandIcon_js__ = __webpack_require__(152);
 /* unused harmony reexport HandIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_114__HashtagIcon_js__ = __webpack_require__(151);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_114__HashtagIcon_js__ = __webpack_require__(153);
 /* unused harmony reexport HashtagIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_115__HeartIcon_js__ = __webpack_require__(152);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_115__HeartIcon_js__ = __webpack_require__(154);
 /* unused harmony reexport HeartIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_116__HomeIcon_js__ = __webpack_require__(153);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_116__HomeIcon_js__ = __webpack_require__(155);
 /* unused harmony reexport HomeIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_117__IdentificationIcon_js__ = __webpack_require__(154);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_117__IdentificationIcon_js__ = __webpack_require__(156);
 /* unused harmony reexport IdentificationIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_118__InboxInIcon_js__ = __webpack_require__(155);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_118__InboxInIcon_js__ = __webpack_require__(157);
 /* unused harmony reexport InboxInIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_119__InboxIcon_js__ = __webpack_require__(156);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_119__InboxIcon_js__ = __webpack_require__(158);
 /* unused harmony reexport InboxIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_120__InformationCircleIcon_js__ = __webpack_require__(157);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_120__InformationCircleIcon_js__ = __webpack_require__(159);
 /* unused harmony reexport InformationCircleIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_121__KeyIcon_js__ = __webpack_require__(158);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_121__KeyIcon_js__ = __webpack_require__(160);
 /* unused harmony reexport KeyIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_122__LibraryIcon_js__ = __webpack_require__(159);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_122__LibraryIcon_js__ = __webpack_require__(161);
 /* unused harmony reexport LibraryIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_123__LightBulbIcon_js__ = __webpack_require__(160);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_123__LightBulbIcon_js__ = __webpack_require__(162);
 /* unused harmony reexport LightBulbIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_124__LightningBoltIcon_js__ = __webpack_require__(161);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_124__LightningBoltIcon_js__ = __webpack_require__(163);
 /* unused harmony reexport LightningBoltIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_125__LinkIcon_js__ = __webpack_require__(162);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_125__LinkIcon_js__ = __webpack_require__(164);
 /* unused harmony reexport LinkIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_126__LocationMarkerIcon_js__ = __webpack_require__(163);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_126__LocationMarkerIcon_js__ = __webpack_require__(165);
 /* unused harmony reexport LocationMarkerIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_127__LockClosedIcon_js__ = __webpack_require__(164);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_127__LockClosedIcon_js__ = __webpack_require__(166);
 /* unused harmony reexport LockClosedIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_128__LockOpenIcon_js__ = __webpack_require__(165);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_128__LockOpenIcon_js__ = __webpack_require__(167);
 /* unused harmony reexport LockOpenIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_129__LoginIcon_js__ = __webpack_require__(166);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_129__LoginIcon_js__ = __webpack_require__(168);
 /* unused harmony reexport LoginIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_130__LogoutIcon_js__ = __webpack_require__(167);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_130__LogoutIcon_js__ = __webpack_require__(169);
 /* unused harmony reexport LogoutIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_131__MailOpenIcon_js__ = __webpack_require__(168);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_131__MailOpenIcon_js__ = __webpack_require__(170);
 /* unused harmony reexport MailOpenIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_132__MailIcon_js__ = __webpack_require__(169);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_132__MailIcon_js__ = __webpack_require__(171);
 /* unused harmony reexport MailIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_133__MapIcon_js__ = __webpack_require__(170);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_133__MapIcon_js__ = __webpack_require__(172);
 /* unused harmony reexport MapIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_134__MenuAlt1Icon_js__ = __webpack_require__(171);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_134__MenuAlt1Icon_js__ = __webpack_require__(173);
 /* unused harmony reexport MenuAlt1Icon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_135__MenuAlt2Icon_js__ = __webpack_require__(172);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_135__MenuAlt2Icon_js__ = __webpack_require__(174);
 /* unused harmony reexport MenuAlt2Icon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_136__MenuAlt3Icon_js__ = __webpack_require__(173);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_136__MenuAlt3Icon_js__ = __webpack_require__(175);
 /* unused harmony reexport MenuAlt3Icon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_137__MenuAlt4Icon_js__ = __webpack_require__(174);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_137__MenuAlt4Icon_js__ = __webpack_require__(176);
 /* unused harmony reexport MenuAlt4Icon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_138__MenuIcon_js__ = __webpack_require__(175);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_138__MenuIcon_js__ = __webpack_require__(177);
 /* unused harmony reexport MenuIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_139__MicrophoneIcon_js__ = __webpack_require__(176);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_139__MicrophoneIcon_js__ = __webpack_require__(178);
 /* unused harmony reexport MicrophoneIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_140__MinusCircleIcon_js__ = __webpack_require__(177);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_140__MinusCircleIcon_js__ = __webpack_require__(179);
 /* unused harmony reexport MinusCircleIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_141__MinusSmIcon_js__ = __webpack_require__(178);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_141__MinusSmIcon_js__ = __webpack_require__(180);
 /* unused harmony reexport MinusSmIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_142__MinusIcon_js__ = __webpack_require__(179);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_142__MinusIcon_js__ = __webpack_require__(181);
 /* unused harmony reexport MinusIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_143__MoonIcon_js__ = __webpack_require__(180);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_143__MoonIcon_js__ = __webpack_require__(182);
 /* unused harmony reexport MoonIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_144__MusicNoteIcon_js__ = __webpack_require__(181);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_144__MusicNoteIcon_js__ = __webpack_require__(183);
 /* unused harmony reexport MusicNoteIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_145__NewspaperIcon_js__ = __webpack_require__(182);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_145__NewspaperIcon_js__ = __webpack_require__(184);
 /* unused harmony reexport NewspaperIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_146__OfficeBuildingIcon_js__ = __webpack_require__(183);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_146__OfficeBuildingIcon_js__ = __webpack_require__(185);
 /* unused harmony reexport OfficeBuildingIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_147__PaperAirplaneIcon_js__ = __webpack_require__(184);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_147__PaperAirplaneIcon_js__ = __webpack_require__(186);
 /* unused harmony reexport PaperAirplaneIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_148__PaperClipIcon_js__ = __webpack_require__(185);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_148__PaperClipIcon_js__ = __webpack_require__(187);
 /* unused harmony reexport PaperClipIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_149__PauseIcon_js__ = __webpack_require__(186);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_149__PauseIcon_js__ = __webpack_require__(188);
 /* unused harmony reexport PauseIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_150__PencilAltIcon_js__ = __webpack_require__(187);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_150__PencilAltIcon_js__ = __webpack_require__(189);
 /* unused harmony reexport PencilAltIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_151__PencilIcon_js__ = __webpack_require__(188);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_151__PencilIcon_js__ = __webpack_require__(190);
 /* unused harmony reexport PencilIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_152__PhoneIncomingIcon_js__ = __webpack_require__(189);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_152__PhoneIncomingIcon_js__ = __webpack_require__(191);
 /* unused harmony reexport PhoneIncomingIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_153__PhoneMissedCallIcon_js__ = __webpack_require__(190);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_153__PhoneMissedCallIcon_js__ = __webpack_require__(192);
 /* unused harmony reexport PhoneMissedCallIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_154__PhoneOutgoingIcon_js__ = __webpack_require__(191);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_154__PhoneOutgoingIcon_js__ = __webpack_require__(193);
 /* unused harmony reexport PhoneOutgoingIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_155__PhoneIcon_js__ = __webpack_require__(192);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_155__PhoneIcon_js__ = __webpack_require__(194);
 /* unused harmony reexport PhoneIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_156__PhotographIcon_js__ = __webpack_require__(193);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_156__PhotographIcon_js__ = __webpack_require__(195);
 /* unused harmony reexport PhotographIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_157__PlayIcon_js__ = __webpack_require__(194);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_157__PlayIcon_js__ = __webpack_require__(196);
 /* unused harmony reexport PlayIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_158__PlusCircleIcon_js__ = __webpack_require__(195);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_158__PlusCircleIcon_js__ = __webpack_require__(197);
 /* unused harmony reexport PlusCircleIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_159__PlusSmIcon_js__ = __webpack_require__(196);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_159__PlusSmIcon_js__ = __webpack_require__(198);
 /* unused harmony reexport PlusSmIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_160__PlusIcon_js__ = __webpack_require__(197);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_160__PlusIcon_js__ = __webpack_require__(199);
 /* unused harmony reexport PlusIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_161__PresentationChartBarIcon_js__ = __webpack_require__(198);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_161__PresentationChartBarIcon_js__ = __webpack_require__(200);
 /* unused harmony reexport PresentationChartBarIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_162__PresentationChartLineIcon_js__ = __webpack_require__(199);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_162__PresentationChartLineIcon_js__ = __webpack_require__(201);
 /* unused harmony reexport PresentationChartLineIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_163__PrinterIcon_js__ = __webpack_require__(200);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_163__PrinterIcon_js__ = __webpack_require__(202);
 /* unused harmony reexport PrinterIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_164__PuzzleIcon_js__ = __webpack_require__(201);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_164__PuzzleIcon_js__ = __webpack_require__(203);
 /* unused harmony reexport PuzzleIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_165__QrcodeIcon_js__ = __webpack_require__(202);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_165__QrcodeIcon_js__ = __webpack_require__(204);
 /* unused harmony reexport QrcodeIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_166__QuestionMarkCircleIcon_js__ = __webpack_require__(203);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_166__QuestionMarkCircleIcon_js__ = __webpack_require__(205);
 /* unused harmony reexport QuestionMarkCircleIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_167__ReceiptRefundIcon_js__ = __webpack_require__(204);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_167__ReceiptRefundIcon_js__ = __webpack_require__(206);
 /* unused harmony reexport ReceiptRefundIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_168__ReceiptTaxIcon_js__ = __webpack_require__(205);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_168__ReceiptTaxIcon_js__ = __webpack_require__(207);
 /* unused harmony reexport ReceiptTaxIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_169__RefreshIcon_js__ = __webpack_require__(206);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_169__RefreshIcon_js__ = __webpack_require__(208);
 /* unused harmony reexport RefreshIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_170__ReplyIcon_js__ = __webpack_require__(207);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_170__ReplyIcon_js__ = __webpack_require__(209);
 /* unused harmony reexport ReplyIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_171__RewindIcon_js__ = __webpack_require__(208);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_171__RewindIcon_js__ = __webpack_require__(210);
 /* unused harmony reexport RewindIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_172__RssIcon_js__ = __webpack_require__(209);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_172__RssIcon_js__ = __webpack_require__(211);
 /* unused harmony reexport RssIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_173__SaveAsIcon_js__ = __webpack_require__(210);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_173__SaveAsIcon_js__ = __webpack_require__(212);
 /* unused harmony reexport SaveAsIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_174__SaveIcon_js__ = __webpack_require__(211);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_174__SaveIcon_js__ = __webpack_require__(213);
 /* unused harmony reexport SaveIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_175__ScaleIcon_js__ = __webpack_require__(212);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_175__ScaleIcon_js__ = __webpack_require__(214);
 /* unused harmony reexport ScaleIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_176__ScissorsIcon_js__ = __webpack_require__(213);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_176__ScissorsIcon_js__ = __webpack_require__(215);
 /* unused harmony reexport ScissorsIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_177__SearchCircleIcon_js__ = __webpack_require__(214);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_177__SearchCircleIcon_js__ = __webpack_require__(216);
 /* unused harmony reexport SearchCircleIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_178__SearchIcon_js__ = __webpack_require__(215);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_178__SearchIcon_js__ = __webpack_require__(217);
 /* unused harmony reexport SearchIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_179__SelectorIcon_js__ = __webpack_require__(216);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_179__SelectorIcon_js__ = __webpack_require__(218);
 /* unused harmony reexport SelectorIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_180__ServerIcon_js__ = __webpack_require__(217);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_180__ServerIcon_js__ = __webpack_require__(219);
 /* unused harmony reexport ServerIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_181__ShareIcon_js__ = __webpack_require__(218);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_181__ShareIcon_js__ = __webpack_require__(220);
 /* unused harmony reexport ShareIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_182__ShieldCheckIcon_js__ = __webpack_require__(219);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_182__ShieldCheckIcon_js__ = __webpack_require__(221);
 /* unused harmony reexport ShieldCheckIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_183__ShieldExclamationIcon_js__ = __webpack_require__(220);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_183__ShieldExclamationIcon_js__ = __webpack_require__(222);
 /* unused harmony reexport ShieldExclamationIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_184__ShoppingBagIcon_js__ = __webpack_require__(221);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_184__ShoppingBagIcon_js__ = __webpack_require__(223);
 /* unused harmony reexport ShoppingBagIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_185__ShoppingCartIcon_js__ = __webpack_require__(222);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_185__ShoppingCartIcon_js__ = __webpack_require__(224);
 /* unused harmony reexport ShoppingCartIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_186__SortAscendingIcon_js__ = __webpack_require__(223);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_186__SortAscendingIcon_js__ = __webpack_require__(225);
 /* unused harmony reexport SortAscendingIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_187__SortDescendingIcon_js__ = __webpack_require__(224);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_187__SortDescendingIcon_js__ = __webpack_require__(226);
 /* unused harmony reexport SortDescendingIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_188__SparklesIcon_js__ = __webpack_require__(225);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_188__SparklesIcon_js__ = __webpack_require__(227);
 /* unused harmony reexport SparklesIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_189__SpeakerphoneIcon_js__ = __webpack_require__(226);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_189__SpeakerphoneIcon_js__ = __webpack_require__(228);
 /* unused harmony reexport SpeakerphoneIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_190__StarIcon_js__ = __webpack_require__(227);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_190__StarIcon_js__ = __webpack_require__(229);
 /* unused harmony reexport StarIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_191__StatusOfflineIcon_js__ = __webpack_require__(228);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_191__StatusOfflineIcon_js__ = __webpack_require__(230);
 /* unused harmony reexport StatusOfflineIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_192__StatusOnlineIcon_js__ = __webpack_require__(229);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_192__StatusOnlineIcon_js__ = __webpack_require__(231);
 /* unused harmony reexport StatusOnlineIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_193__StopIcon_js__ = __webpack_require__(230);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_193__StopIcon_js__ = __webpack_require__(232);
 /* unused harmony reexport StopIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_194__SunIcon_js__ = __webpack_require__(231);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_194__SunIcon_js__ = __webpack_require__(233);
 /* unused harmony reexport SunIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_195__SupportIcon_js__ = __webpack_require__(232);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_195__SupportIcon_js__ = __webpack_require__(234);
 /* unused harmony reexport SupportIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_196__SwitchHorizontalIcon_js__ = __webpack_require__(233);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_196__SwitchHorizontalIcon_js__ = __webpack_require__(235);
 /* unused harmony reexport SwitchHorizontalIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_197__SwitchVerticalIcon_js__ = __webpack_require__(234);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_197__SwitchVerticalIcon_js__ = __webpack_require__(236);
 /* unused harmony reexport SwitchVerticalIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_198__TableIcon_js__ = __webpack_require__(235);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_198__TableIcon_js__ = __webpack_require__(237);
 /* unused harmony reexport TableIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_199__TagIcon_js__ = __webpack_require__(236);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_199__TagIcon_js__ = __webpack_require__(238);
 /* unused harmony reexport TagIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_200__TemplateIcon_js__ = __webpack_require__(237);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_200__TemplateIcon_js__ = __webpack_require__(239);
 /* unused harmony reexport TemplateIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_201__TerminalIcon_js__ = __webpack_require__(238);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_201__TerminalIcon_js__ = __webpack_require__(240);
 /* unused harmony reexport TerminalIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_202__ThumbDownIcon_js__ = __webpack_require__(239);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_202__ThumbDownIcon_js__ = __webpack_require__(241);
 /* unused harmony reexport ThumbDownIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_203__ThumbUpIcon_js__ = __webpack_require__(240);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_203__ThumbUpIcon_js__ = __webpack_require__(242);
 /* unused harmony reexport ThumbUpIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_204__TicketIcon_js__ = __webpack_require__(241);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_204__TicketIcon_js__ = __webpack_require__(243);
 /* unused harmony reexport TicketIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_205__TranslateIcon_js__ = __webpack_require__(242);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_205__TranslateIcon_js__ = __webpack_require__(244);
 /* unused harmony reexport TranslateIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_206__TrashIcon_js__ = __webpack_require__(243);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_206__TrashIcon_js__ = __webpack_require__(245);
 /* unused harmony reexport TrashIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_207__TrendingDownIcon_js__ = __webpack_require__(244);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_207__TrendingDownIcon_js__ = __webpack_require__(246);
 /* unused harmony reexport TrendingDownIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_208__TrendingUpIcon_js__ = __webpack_require__(245);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_208__TrendingUpIcon_js__ = __webpack_require__(247);
 /* unused harmony reexport TrendingUpIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_209__TruckIcon_js__ = __webpack_require__(246);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_209__TruckIcon_js__ = __webpack_require__(248);
 /* unused harmony reexport TruckIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_210__UploadIcon_js__ = __webpack_require__(247);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_210__UploadIcon_js__ = __webpack_require__(249);
 /* unused harmony reexport UploadIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_211__UserAddIcon_js__ = __webpack_require__(248);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_211__UserAddIcon_js__ = __webpack_require__(250);
 /* unused harmony reexport UserAddIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_212__UserCircleIcon_js__ = __webpack_require__(249);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_212__UserCircleIcon_js__ = __webpack_require__(251);
 /* unused harmony reexport UserCircleIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_213__UserGroupIcon_js__ = __webpack_require__(250);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_213__UserGroupIcon_js__ = __webpack_require__(252);
 /* unused harmony reexport UserGroupIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_214__UserRemoveIcon_js__ = __webpack_require__(251);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_214__UserRemoveIcon_js__ = __webpack_require__(253);
 /* unused harmony reexport UserRemoveIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_215__UserIcon_js__ = __webpack_require__(252);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_215__UserIcon_js__ = __webpack_require__(254);
 /* unused harmony reexport UserIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_216__UsersIcon_js__ = __webpack_require__(253);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_216__UsersIcon_js__ = __webpack_require__(255);
 /* unused harmony reexport UsersIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_217__VariableIcon_js__ = __webpack_require__(254);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_217__VariableIcon_js__ = __webpack_require__(256);
 /* unused harmony reexport VariableIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_218__VideoCameraIcon_js__ = __webpack_require__(255);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_218__VideoCameraIcon_js__ = __webpack_require__(257);
 /* unused harmony reexport VideoCameraIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_219__ViewBoardsIcon_js__ = __webpack_require__(256);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_219__ViewBoardsIcon_js__ = __webpack_require__(258);
 /* unused harmony reexport ViewBoardsIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_220__ViewGridAddIcon_js__ = __webpack_require__(257);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_220__ViewGridAddIcon_js__ = __webpack_require__(259);
 /* unused harmony reexport ViewGridAddIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_221__ViewGridIcon_js__ = __webpack_require__(258);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_221__ViewGridIcon_js__ = __webpack_require__(260);
 /* unused harmony reexport ViewGridIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_222__ViewListIcon_js__ = __webpack_require__(259);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_222__ViewListIcon_js__ = __webpack_require__(261);
 /* unused harmony reexport ViewListIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_223__VolumeOffIcon_js__ = __webpack_require__(260);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_223__VolumeOffIcon_js__ = __webpack_require__(262);
 /* unused harmony reexport VolumeOffIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_224__VolumeUpIcon_js__ = __webpack_require__(261);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_224__VolumeUpIcon_js__ = __webpack_require__(263);
 /* unused harmony reexport VolumeUpIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_225__WifiIcon_js__ = __webpack_require__(262);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_225__WifiIcon_js__ = __webpack_require__(264);
 /* unused harmony reexport WifiIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_226__XCircleIcon_js__ = __webpack_require__(263);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_226__XCircleIcon_js__ = __webpack_require__(265);
 /* unused harmony reexport XCircleIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_227__XIcon_js__ = __webpack_require__(264);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_227__XIcon_js__ = __webpack_require__(266);
 /* unused harmony reexport XIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_228__ZoomInIcon_js__ = __webpack_require__(265);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_228__ZoomInIcon_js__ = __webpack_require__(267);
 /* unused harmony reexport ZoomInIcon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_229__ZoomOutIcon_js__ = __webpack_require__(266);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_229__ZoomOutIcon_js__ = __webpack_require__(268);
 /* unused harmony reexport ZoomOutIcon */
 
 
@@ -1923,13 +1923,13 @@ function usePrompt(_ref8) {
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return experience; });
 /* unused harmony export testimonials */
 /* unused harmony export skills */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_ProjectList_Research_PPR_Elements_PPR_Assets_ppr_full_assem_png__ = __webpack_require__(268);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_ProjectList_Research_PPR_Elements_PPR_Assets_ppr_full_assem_png__ = __webpack_require__(270);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_ProjectList_Research_PPR_Elements_PPR_Assets_ppr_full_assem_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__components_ProjectList_Research_PPR_Elements_PPR_Assets_ppr_full_assem_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_ProjectList_Industry_NucorInternship_NucorAssets_nsin_new_system_png__ = __webpack_require__(269);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_ProjectList_Industry_NucorInternship_NucorAssets_nsin_new_system_png__ = __webpack_require__(271);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_ProjectList_Industry_NucorInternship_NucorAssets_nsin_new_system_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__components_ProjectList_Industry_NucorInternship_NucorAssets_nsin_new_system_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_ProjectList_Research_Medsnake_Elements_Medsnake_Assets_medsnake_png__ = __webpack_require__(270);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_ProjectList_Research_Medsnake_Elements_Medsnake_Assets_medsnake_png__ = __webpack_require__(8);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_ProjectList_Research_Medsnake_Elements_Medsnake_Assets_medsnake_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__components_ProjectList_Research_Medsnake_Elements_Medsnake_Assets_medsnake_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_ProjectList_Academics_AssistiveTech_AssistiveTechAssets_proof_of_concept_png__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_ProjectList_Academics_AssistiveTech_AssistiveTechAssets_proof_of_concept_png__ = __webpack_require__(9);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_ProjectList_Academics_AssistiveTech_AssistiveTechAssets_proof_of_concept_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__components_ProjectList_Academics_AssistiveTech_AssistiveTechAssets_proof_of_concept_png__);
 var projectsResearch=[{title:"Vessel Puncture Detection",subtitle:"",description:"Developing a prototype to automate how vessel puncture is detected.",image:__WEBPACK_IMPORTED_MODULE_0__components_ProjectList_Research_PPR_Elements_PPR_Assets_ppr_full_assem_png___default.a,route:"/ppr"},{title:"Medical Snake",subtitle:"",description:"System Development for a robotic snake, to be used for situ tissue engineering.",image:__WEBPACK_IMPORTED_MODULE_2__components_ProjectList_Research_Medsnake_Elements_Medsnake_Assets_medsnake_png___default.a,route:"/medsnake"}];var projectsIndustry=[{title:"NSIN: Steel Pickle Line",subtitle:"",description:"Redesigning a pneumatics sytem located on a steel pickling line.",image:__WEBPACK_IMPORTED_MODULE_1__components_ProjectList_Industry_NucorInternship_NucorAssets_nsin_new_system_png___default.a,route:"/nucor"}];var projectsAcademic=[{title:"Assistive Technology",subtitle:"",description:"Modifying a tripod to assist patients with cerebral palsy.",image:__WEBPACK_IMPORTED_MODULE_3__components_ProjectList_Academics_AssistiveTech_AssistiveTechAssets_proof_of_concept_png___default.a,route:"/assistivetech"}];var experience=[{title:"Mechanical Engineering Intern",company:"Nucor Corporation",location:"Crawfordsville, Indiana",duration:"May 2023 – July 2023",logo:"./assets/nucor_logo.jpg"},{title:"Undergraduate Research Assistant",company:"The Biorobotics Laboratory at Carnegie Mellon University",location:"Pittsburgh, Pennsylvania",duration:"May 2022 – August 2022 | August 2023 - Present",logo:"./assets/biorobotics.png"}];var testimonials=[{quote:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",image:"https://randomuser.me/api/portraits/men/1.jpg",name:"Jesse Hicks",company:"Zoozle"},{quote:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",image:"https://randomuser.me/api/portraits/men/94.jpg",name:"Ruben Alvarez",company:"Dooble.io"}];var skills=["JavaScript","React","Next.js","Node","GraphQL","Material UI"];
 
@@ -6389,7 +6389,7 @@ function getTargetMatch(matches, location) {
 "use strict";
 
 
-var asap = __webpack_require__(16);
+var asap = __webpack_require__(18);
 
 function noop() {}
 
@@ -8038,42 +8038,54 @@ function createMemoryRouter(routes, opts) {
 /* 8 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/proof-of-concept.cb2501a5.png";
+module.exports = __webpack_require__.p + "static/media/medsnake.0fee809d.png";
 
 /***/ }),
 /* 9 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/nucor_system.e5df7bf2.png";
+module.exports = __webpack_require__.p + "static/media/proof-of-concept.cb2501a5.png";
 
 /***/ }),
 /* 10 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/full_assem_labeled.423f2029.png";
+module.exports = __webpack_require__.p + "static/media/medsnake_accessing_chest_demo.b2b8c819.png";
 
 /***/ }),
 /* 11 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/completed-assembly.1ccb005c.png";
+module.exports = __webpack_require__.p + "static/media/nucor_system.e5df7bf2.png";
 
 /***/ }),
 /* 12 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/simply-supported-plate.f026a3f7.png";
+module.exports = __webpack_require__.p + "static/media/full_assem_labeled.423f2029.png";
 
 /***/ }),
 /* 13 */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(14);
-module.exports = __webpack_require__(20);
-
+module.exports = __webpack_require__.p + "static/media/completed-assembly.1ccb005c.png";
 
 /***/ }),
 /* 14 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/simply-supported-plate.f026a3f7.png";
+
+/***/ }),
+/* 15 */
+/***/ (function(module, exports, __webpack_require__) {
+
+__webpack_require__(16);
+module.exports = __webpack_require__(22);
+
+
+/***/ }),
+/* 16 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8091,12 +8103,12 @@ if (typeof Promise === 'undefined') {
   // Rejection tracking prevents a common issue where React gets into an
   // inconsistent state due to an error, but it gets swallowed by a Promise,
   // and the user has no idea what causes React's erratic future behavior.
-  __webpack_require__(15).enable();
-  window.Promise = __webpack_require__(18);
+  __webpack_require__(17).enable();
+  window.Promise = __webpack_require__(20);
 }
 
 // fetch() polyfill for making API calls.
-__webpack_require__(19);
+__webpack_require__(21);
 
 // Object.assign() is commonly used with React.
 // It will use the native implementation if it's present and isn't buggy.
@@ -8110,7 +8122,7 @@ if (false) {
 
 
 /***/ }),
-/* 15 */
+/* 17 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8229,7 +8241,7 @@ function matchWhitelist(error, list) {
 }
 
 /***/ }),
-/* 16 */
+/* 18 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8457,10 +8469,10 @@ rawAsap.makeRequestCallFromTimer = makeRequestCallFromTimer;
 // back into ASAP proper.
 // https://github.com/tildeio/rsvp.js/blob/cddf7232546a9cf858524b75cde6f9edf72620a7/lib/rsvp/asap.js
 
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(17)))
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(19)))
 
 /***/ }),
-/* 17 */
+/* 19 */
 /***/ (function(module, exports) {
 
 var g;
@@ -8487,7 +8499,7 @@ module.exports = g;
 
 
 /***/ }),
-/* 18 */
+/* 20 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8601,7 +8613,7 @@ Promise.prototype['catch'] = function (onRejected) {
 
 
 /***/ }),
-/* 19 */
+/* 21 */
 /***/ (function(module, exports) {
 
 (function(self) {
@@ -9068,22 +9080,22 @@ Promise.prototype['catch'] = function (onRejected) {
 
 
 /***/ }),
-/* 20 */
+/* 22 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react_dom__ = __webpack_require__(22);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react_dom__ = __webpack_require__(24);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react_dom___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react_dom__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__index_css__ = __webpack_require__(26);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__index_css__ = __webpack_require__(28);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__index_css___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__index_css__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__App__ = __webpack_require__(27);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__App__ = __webpack_require__(29);
 document.title='Brian Chien';__WEBPACK_IMPORTED_MODULE_1_react_dom___default.a.render(__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react___default.a.StrictMode,null,__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__App__["a" /* default */],null)),document.getElementById('root'));
 
 /***/ }),
-/* 21 */
+/* 23 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -9113,7 +9125,7 @@ exports.useLayoutEffect=function(a,b){return S().useLayoutEffect(a,b)};exports.u
 
 
 /***/ }),
-/* 22 */
+/* 24 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -9151,14 +9163,14 @@ if (true) {
   // DCE check should happen before ReactDOM bundle executes so that
   // DevTools can report bad minification during injection.
   checkDCE();
-  module.exports = __webpack_require__(23);
+  module.exports = __webpack_require__(25);
 } else {
   module.exports = require('./cjs/react-dom.development.js');
 }
 
 
 /***/ }),
-/* 23 */
+/* 25 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -9173,7 +9185,7 @@ if (true) {
 /*
  Modernizr 3.0.0pre (Custom Build) | MIT
 */
-var aa=__webpack_require__(0),m=__webpack_require__(4),r=__webpack_require__(24);function y(a){for(var b="https://reactjs.org/docs/error-decoder.html?invariant="+a,c=1;c<arguments.length;c++)b+="&args[]="+encodeURIComponent(arguments[c]);return"Minified React error #"+a+"; visit "+b+" for the full message or use the non-minified dev environment for full errors and additional helpful warnings."}if(!aa)throw Error(y(227));var ba=new Set,ca={};function da(a,b){ea(a,b);ea(a+"Capture",b)}
+var aa=__webpack_require__(0),m=__webpack_require__(4),r=__webpack_require__(26);function y(a){for(var b="https://reactjs.org/docs/error-decoder.html?invariant="+a,c=1;c<arguments.length;c++)b+="&args[]="+encodeURIComponent(arguments[c]);return"Minified React error #"+a+"; visit "+b+" for the full message or use the non-minified dev environment for full errors and additional helpful warnings."}if(!aa)throw Error(y(227));var ba=new Set,ca={};function da(a,b){ea(a,b);ea(a+"Capture",b)}
 function ea(a,b){ca[a]=b;for(a=0;a<b.length;a++)ba.add(b[a])}
 var fa=!("undefined"===typeof window||"undefined"===typeof window.document||"undefined"===typeof window.document.createElement),ha=/^[:A-Z_a-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02FF\u0370-\u037D\u037F-\u1FFF\u200C-\u200D\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD][:A-Z_a-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02FF\u0370-\u037D\u037F-\u1FFF\u200C-\u200D\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD\-.0-9\u00B7\u0300-\u036F\u203F-\u2040]*$/,ia=Object.prototype.hasOwnProperty,
 ja={},ka={};function la(a){if(ia.call(ka,a))return!0;if(ia.call(ja,a))return!1;if(ha.test(a))return ka[a]=!0;ja[a]=!0;return!1}function ma(a,b,c,d){if(null!==c&&0===c.type)return!1;switch(typeof b){case "function":case "symbol":return!0;case "boolean":if(d)return!1;if(null!==c)return!c.acceptsBooleans;a=a.toLowerCase().slice(0,5);return"data-"!==a&&"aria-"!==a;default:return!1}}
@@ -9462,21 +9474,21 @@ exports.unstable_renderSubtreeIntoContainer=function(a,b,c,d){if(!rk(c))throw Er
 
 
 /***/ }),
-/* 24 */
+/* 26 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
 if (true) {
-  module.exports = __webpack_require__(25);
+  module.exports = __webpack_require__(27);
 } else {
   module.exports = require('./cjs/scheduler.development.js');
 }
 
 
 /***/ }),
-/* 25 */
+/* 27 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -9503,13 +9515,13 @@ exports.unstable_wrapCallback=function(a){var b=P;return function(){var c=P;P=b;
 
 
 /***/ }),
-/* 26 */
+/* 28 */
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
 
 /***/ }),
-/* 27 */
+/* 29 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -9517,40 +9529,40 @@ exports.unstable_wrapCallback=function(a){var b=P;return function(){var c=P;P=b;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_dom__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_Home__ = __webpack_require__(28);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_Projects__ = __webpack_require__(36);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_WorkExperience__ = __webpack_require__(273);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_Layout__ = __webpack_require__(274);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_ProjectList_Research_PPR_Elements_PPR__ = __webpack_require__(276);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_ProjectList_Industry_NucorInternship_Nucor__ = __webpack_require__(297);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_ProjectList_Research_Medsnake_Elements_Medsnake__ = __webpack_require__(309);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_ProjectList_Academics_AssistiveTech_AssistiveTech__ = __webpack_require__(311);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_ProjectList_Industry_NucorInternship_CAD_Components_NSIN_CAD__ = __webpack_require__(320);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_ProjectList_Industry_NucorInternship_FEA_Components_NSIN_FEA__ = __webpack_require__(341);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__components_ProjectList_Industry_NucorInternship_Drawing_Components_NSIN_TechnicalDrawings__ = __webpack_require__(354);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_Home__ = __webpack_require__(30);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_Projects__ = __webpack_require__(38);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_WorkExperience__ = __webpack_require__(274);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_Layout__ = __webpack_require__(275);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_ProjectList_Research_PPR_Elements_PPR__ = __webpack_require__(277);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_ProjectList_Industry_NucorInternship_Nucor__ = __webpack_require__(298);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_ProjectList_Research_Medsnake_Elements_Medsnake__ = __webpack_require__(310);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_ProjectList_Academics_AssistiveTech_AssistiveTech__ = __webpack_require__(315);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_ProjectList_Industry_NucorInternship_CAD_Components_NSIN_CAD__ = __webpack_require__(324);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_ProjectList_Industry_NucorInternship_FEA_Components_NSIN_FEA__ = __webpack_require__(345);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__components_ProjectList_Industry_NucorInternship_Drawing_Components_NSIN_TechnicalDrawings__ = __webpack_require__(358);
 function App(){return __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["a" /* BrowserRouter */],null,__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["e" /* Routes */],null,__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"/",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__components_Layout__["a" /* default */],null)},__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{index:true,element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__components_Home__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"projects",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__components_Projects__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"workexperience",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__components_WorkExperience__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"ppr",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_6__components_ProjectList_Research_PPR_Elements_PPR__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"medsnake",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_8__components_ProjectList_Research_Medsnake_Elements_Medsnake__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"assistivetech",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_9__components_ProjectList_Academics_AssistiveTech_AssistiveTech__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"nucor",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__components_ProjectList_Industry_NucorInternship_Nucor__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"nucor/nsincad",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_10__components_ProjectList_Industry_NucorInternship_CAD_Components_NSIN_CAD__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"nucor/nsinfea",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_11__components_ProjectList_Industry_NucorInternship_FEA_Components_NSIN_FEA__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"nucor/nsindrawing",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_12__components_ProjectList_Industry_NucorInternship_Drawing_Components_NSIN_TechnicalDrawings__["a" /* default */],null)}))));}
 
 /***/ }),
-/* 28 */
+/* 30 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (immutable) */ __webpack_exports__["a"] = Home;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__fortawesome_react_react_fontawesome__ = __webpack_require__(29);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__fortawesome_react_free_brands_svg_icons__ = __webpack_require__(34);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__fortawesome_react_free_solid_svg_icons__ = __webpack_require__(35);
-function Home(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('section',{id:'home',className:'text-gray-400 bg-black'},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('div',{className:'container mx-auto flex flex-col items-center'},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('h1',{className:'font-semibold sm:text-6xl text-3xl text-cyan-400 pt-10'},'Brian Chien'),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('h1',{className:'font-semibold sm:text-2xl text-1xl py-8'},'Undergraduate Student at Carnegie Mellon University'),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('p',{className:'leading-relaxed text-white w-3/5 pb-8'},'Hello! I am an undergraduate student studying mechanical engineering at Carnegie Mellon University, and graduating in May of 2024. This past summer, I was fortunate enough to intern for Nucor Corporation, and currently, I participate in research at CMU\'s Biorobotics Laboratory.',__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('br',null),' ',__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('br',null),'My career interest are Mechanical Systems Design and Software Development for Robotic Systems.'),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('div',{className:'text-white text-2xl sm:text-3xl py-8 flex flex-row'},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__fortawesome_react_react_fontawesome__["a" /* FontAwesomeIcon */],{icon:__WEBPACK_IMPORTED_MODULE_2__fortawesome_react_free_brands_svg_icons__["a" /* faLinkedinIn */],className:'pr-4'}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__fortawesome_react_react_fontawesome__["a" /* FontAwesomeIcon */],{icon:__WEBPACK_IMPORTED_MODULE_3__fortawesome_react_free_solid_svg_icons__["a" /* faEnvelope */],className:'pl-4'})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('img',{className:'object-contain h-48 w-30 rounded-full mb-12',alt:'portrait',src:'/assets/portrait.png'})));}
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__fortawesome_react_react_fontawesome__ = __webpack_require__(31);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__fortawesome_react_free_brands_svg_icons__ = __webpack_require__(36);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__fortawesome_react_free_solid_svg_icons__ = __webpack_require__(37);
+function Home(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('section',{id:'home',className:'text-gray-400 bg-black'},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('div',{className:'container mx-auto flex flex-col items-center'},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('h1',{className:'font-semibold sm:text-6xl text-3xl text-cyan-400 pt-10'},'Brian Chien'),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('h1',{className:'font-semibold sm:text-2xl text-1xl py-8'},'Undergraduate Student at Carnegie Mellon University'),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('p',{className:'leading-relaxed text-white w-3/5 pb-20'},'Hello! I am an undergraduate student studying mechanical engineering at Carnegie Mellon University, and graduating in May of 2024. This past summer, I was fortunate enough to intern for Nucor Corporation, and currently, I participate in research at CMU\'s Biorobotics Laboratory.',__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('br',null),' ',__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('br',null),'My career interest are Mechanical Systems Design and Software Development for Robotic Systems.'),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('img',{className:'object-contain h-48 w-30 rounded-full mb-12',alt:'portrait',src:'/assets/portrait.png'})));}
 
 /***/ }),
-/* 29 */
+/* 31 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FontAwesomeIcon; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__fortawesome_react_fontawesome_svg_core__ = __webpack_require__(30);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types__ = __webpack_require__(31);
+/* unused harmony export FontAwesomeIcon */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__fortawesome_react_fontawesome_svg_core__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types__ = __webpack_require__(33);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_prop_types__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_react__);
@@ -9985,7 +9997,7 @@ var convertCurry = convert.bind(null, __WEBPACK_IMPORTED_MODULE_2_react___defaul
 
 
 /***/ }),
-/* 30 */
+/* 32 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -13079,7 +13091,7 @@ var counter = api.counter;
 
 
 /***/ }),
-/* 31 */
+/* 33 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /**
@@ -13099,12 +13111,12 @@ if (false) {
 } else {
   // By explicitly using `prop-types` you are opting into new production behavior.
   // http://fb.me/prop-types-in-prod
-  module.exports = __webpack_require__(32)();
+  module.exports = __webpack_require__(34)();
 }
 
 
 /***/ }),
-/* 32 */
+/* 34 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -13117,7 +13129,7 @@ if (false) {
 
 
 
-var ReactPropTypesSecret = __webpack_require__(33);
+var ReactPropTypesSecret = __webpack_require__(35);
 
 function emptyFunction() {}
 function emptyFunctionWithReset() {}
@@ -13176,7 +13188,7 @@ module.exports = function() {
 
 
 /***/ }),
-/* 33 */
+/* 35 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -13195,7 +13207,7 @@ module.exports = ReactPropTypesSecret;
 
 
 /***/ }),
-/* 34 */
+/* 36 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -13278,7 +13290,7 @@ module.exports = ReactPropTypesSecret;
 /* unused harmony export faSquareFontAwesomeStroke */
 /* unused harmony export faFontAwesomeAlt */
 /* unused harmony export faAtlassian */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return faLinkedinIn; });
+/* unused harmony export faLinkedinIn */
 /* unused harmony export faDigitalOcean */
 /* unused harmony export faNimblr */
 /* unused harmony export faChromecast */
@@ -16580,7 +16592,7 @@ var icons = {
 
 
 /***/ }),
-/* 35 */
+/* 37 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -17694,7 +17706,7 @@ var icons = {
 /* unused harmony export faCakeCandles */
 /* unused harmony export faBirthdayCake */
 /* unused harmony export faCake */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return faEnvelope; });
+/* unused harmony export faEnvelope */
 /* unused harmony export faAnglesUp */
 /* unused harmony export faAngleDoubleUp */
 /* unused harmony export faPaperclip */
@@ -28016,7 +28028,7 @@ var icons = {
 
 
 /***/ }),
-/* 36 */
+/* 38 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28024,13 +28036,13 @@ var icons = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__heroicons_react_solid__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_Layouts_ResearchLayout__ = __webpack_require__(267);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_Layouts_WorkLayout__ = __webpack_require__(271);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_Layouts_AcademicLayout__ = __webpack_require__(272);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_Layouts_ResearchLayout__ = __webpack_require__(269);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_Layouts_WorkLayout__ = __webpack_require__(272);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_Layouts_AcademicLayout__ = __webpack_require__(273);
 function Projects(){return __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("section",{id:"projects",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("div",{className:"container px-5 py-10 mx-auto text-center lg:px-40"},__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("div",{className:"flex flex-col w-full"},__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl font-medium title-font mb-4 text-cyan-400"},"Projects"),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement("p",{className:"lg:w-2/3 mx-auto leading-relaxed text-base"},"These projects developed my technical skillset, and most importantly, showed me what I'm really interested in."),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"})),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__components_Layouts_WorkLayout__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__components_Layouts_ResearchLayout__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__components_Layouts_AcademicLayout__["a" /* default */],null)));}
 
 /***/ }),
-/* 37 */
+/* 39 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28051,7 +28063,7 @@ function AcademicCapIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (AcademicCapIcon);
 
 /***/ }),
-/* 38 */
+/* 40 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28072,7 +28084,7 @@ function AdjustmentsIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (AdjustmentsIcon);
 
 /***/ }),
-/* 39 */
+/* 41 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28095,7 +28107,7 @@ function AnnotationIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (AnnotationIcon);
 
 /***/ }),
-/* 40 */
+/* 42 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28120,7 +28132,7 @@ function ArchiveIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArchiveIcon);
 
 /***/ }),
-/* 41 */
+/* 43 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28143,7 +28155,7 @@ function ArrowCircleDownIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowCircleDownIcon);
 
 /***/ }),
-/* 42 */
+/* 44 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28166,7 +28178,7 @@ function ArrowCircleLeftIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowCircleLeftIcon);
 
 /***/ }),
-/* 43 */
+/* 45 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28189,7 +28201,7 @@ function ArrowCircleRightIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowCircleRightIcon);
 
 /***/ }),
-/* 44 */
+/* 46 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28212,7 +28224,7 @@ function ArrowCircleUpIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowCircleUpIcon);
 
 /***/ }),
-/* 45 */
+/* 47 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28235,7 +28247,7 @@ function ArrowDownIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowDownIcon);
 
 /***/ }),
-/* 46 */
+/* 48 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28258,7 +28270,7 @@ function ArrowLeftIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowLeftIcon);
 
 /***/ }),
-/* 47 */
+/* 49 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28281,7 +28293,7 @@ function ArrowNarrowDownIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowNarrowDownIcon);
 
 /***/ }),
-/* 48 */
+/* 50 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28304,7 +28316,7 @@ function ArrowNarrowLeftIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowNarrowLeftIcon);
 
 /***/ }),
-/* 49 */
+/* 51 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28327,7 +28339,7 @@ function ArrowNarrowRightIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowNarrowRightIcon);
 
 /***/ }),
-/* 50 */
+/* 52 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28350,7 +28362,7 @@ function ArrowNarrowUpIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowNarrowUpIcon);
 
 /***/ }),
-/* 51 */
+/* 53 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28373,7 +28385,7 @@ function ArrowRightIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowRightIcon);
 
 /***/ }),
-/* 52 */
+/* 54 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28396,7 +28408,7 @@ function ArrowSmDownIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowSmDownIcon);
 
 /***/ }),
-/* 53 */
+/* 55 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28419,7 +28431,7 @@ function ArrowSmLeftIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowSmLeftIcon);
 
 /***/ }),
-/* 54 */
+/* 56 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28442,7 +28454,7 @@ function ArrowSmRightIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowSmRightIcon);
 
 /***/ }),
-/* 55 */
+/* 57 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28465,7 +28477,7 @@ function ArrowSmUpIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowSmUpIcon);
 
 /***/ }),
-/* 56 */
+/* 58 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28488,7 +28500,7 @@ function ArrowUpIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowUpIcon);
 
 /***/ }),
-/* 57 */
+/* 59 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28513,7 +28525,7 @@ function ArrowsExpandIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ArrowsExpandIcon);
 
 /***/ }),
-/* 58 */
+/* 60 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28536,7 +28548,7 @@ function AtSymbolIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (AtSymbolIcon);
 
 /***/ }),
-/* 59 */
+/* 61 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28559,7 +28571,7 @@ function BackspaceIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (BackspaceIcon);
 
 /***/ }),
-/* 60 */
+/* 62 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28582,7 +28594,7 @@ function BadgeCheckIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (BadgeCheckIcon);
 
 /***/ }),
-/* 61 */
+/* 63 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28605,7 +28617,7 @@ function BanIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (BanIcon);
 
 /***/ }),
-/* 62 */
+/* 64 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28628,7 +28640,7 @@ function BeakerIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (BeakerIcon);
 
 /***/ }),
-/* 63 */
+/* 65 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28649,7 +28661,7 @@ function BellIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (BellIcon);
 
 /***/ }),
-/* 64 */
+/* 66 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28670,7 +28682,7 @@ function BookOpenIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (BookOpenIcon);
 
 /***/ }),
-/* 65 */
+/* 67 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28693,7 +28705,7 @@ function BookmarkAltIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (BookmarkAltIcon);
 
 /***/ }),
-/* 66 */
+/* 68 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28714,7 +28726,7 @@ function BookmarkIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (BookmarkIcon);
 
 /***/ }),
-/* 67 */
+/* 69 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28739,7 +28751,7 @@ function BriefcaseIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (BriefcaseIcon);
 
 /***/ }),
-/* 68 */
+/* 70 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28762,7 +28774,7 @@ function CakeIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CakeIcon);
 
 /***/ }),
-/* 69 */
+/* 71 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28785,7 +28797,7 @@ function CalculatorIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CalculatorIcon);
 
 /***/ }),
-/* 70 */
+/* 72 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28808,7 +28820,7 @@ function CalendarIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CalendarIcon);
 
 /***/ }),
-/* 71 */
+/* 73 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28831,7 +28843,7 @@ function CameraIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CameraIcon);
 
 /***/ }),
-/* 72 */
+/* 74 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28854,7 +28866,7 @@ function CashIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CashIcon);
 
 /***/ }),
-/* 73 */
+/* 75 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28875,7 +28887,7 @@ function ChartBarIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChartBarIcon);
 
 /***/ }),
-/* 74 */
+/* 76 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28898,7 +28910,7 @@ function ChartPieIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChartPieIcon);
 
 /***/ }),
-/* 75 */
+/* 77 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28921,7 +28933,7 @@ function ChartSquareBarIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChartSquareBarIcon);
 
 /***/ }),
-/* 76 */
+/* 78 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28944,7 +28956,7 @@ function ChatAlt2Icon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChatAlt2Icon);
 
 /***/ }),
-/* 77 */
+/* 79 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28967,7 +28979,7 @@ function ChatAltIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChatAltIcon);
 
 /***/ }),
-/* 78 */
+/* 80 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28990,7 +29002,7 @@ function ChatIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChatIcon);
 
 /***/ }),
-/* 79 */
+/* 81 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29013,7 +29025,7 @@ function CheckCircleIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CheckCircleIcon);
 
 /***/ }),
-/* 80 */
+/* 82 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29036,7 +29048,7 @@ function CheckIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CheckIcon);
 
 /***/ }),
-/* 81 */
+/* 83 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29059,7 +29071,7 @@ function ChevronDoubleDownIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChevronDoubleDownIcon);
 
 /***/ }),
-/* 82 */
+/* 84 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29082,7 +29094,7 @@ function ChevronDoubleLeftIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChevronDoubleLeftIcon);
 
 /***/ }),
-/* 83 */
+/* 85 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29109,7 +29121,7 @@ function ChevronDoubleRightIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChevronDoubleRightIcon);
 
 /***/ }),
-/* 84 */
+/* 86 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29132,7 +29144,7 @@ function ChevronDoubleUpIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChevronDoubleUpIcon);
 
 /***/ }),
-/* 85 */
+/* 87 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29155,7 +29167,7 @@ function ChevronDownIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChevronDownIcon);
 
 /***/ }),
-/* 86 */
+/* 88 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29178,7 +29190,7 @@ function ChevronLeftIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChevronLeftIcon);
 
 /***/ }),
-/* 87 */
+/* 89 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29201,7 +29213,7 @@ function ChevronRightIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChevronRightIcon);
 
 /***/ }),
-/* 88 */
+/* 90 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29224,7 +29236,7 @@ function ChevronUpIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChevronUpIcon);
 
 /***/ }),
-/* 89 */
+/* 91 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29249,7 +29261,7 @@ function ChipIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ChipIcon);
 
 /***/ }),
-/* 90 */
+/* 92 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29274,7 +29286,7 @@ function ClipboardCheckIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ClipboardCheckIcon);
 
 /***/ }),
-/* 91 */
+/* 93 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29297,7 +29309,7 @@ function ClipboardCopyIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ClipboardCopyIcon);
 
 /***/ }),
-/* 92 */
+/* 94 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29322,7 +29334,7 @@ function ClipboardListIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ClipboardListIcon);
 
 /***/ }),
-/* 93 */
+/* 95 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29345,7 +29357,7 @@ function ClipboardIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ClipboardIcon);
 
 /***/ }),
-/* 94 */
+/* 96 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29368,7 +29380,7 @@ function ClockIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ClockIcon);
 
 /***/ }),
-/* 95 */
+/* 97 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29391,7 +29403,7 @@ function CloudDownloadIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CloudDownloadIcon);
 
 /***/ }),
-/* 96 */
+/* 98 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29414,7 +29426,7 @@ function CloudUploadIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CloudUploadIcon);
 
 /***/ }),
-/* 97 */
+/* 99 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29435,7 +29447,7 @@ function CloudIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CloudIcon);
 
 /***/ }),
-/* 98 */
+/* 100 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29458,7 +29470,7 @@ function CodeIcon(props) {
 /* harmony default export */ __webpack_exports__["a"] = (CodeIcon);
 
 /***/ }),
-/* 99 */
+/* 101 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29481,7 +29493,7 @@ function CogIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CogIcon);
 
 /***/ }),
-/* 100 */
+/* 102 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29502,7 +29514,7 @@ function CollectionIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CollectionIcon);
 
 /***/ }),
-/* 101 */
+/* 103 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29525,7 +29537,7 @@ function ColorSwatchIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ColorSwatchIcon);
 
 /***/ }),
-/* 102 */
+/* 104 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29550,7 +29562,7 @@ function CreditCardIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CreditCardIcon);
 
 /***/ }),
-/* 103 */
+/* 105 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29573,7 +29585,7 @@ function CubeTransparentIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CubeTransparentIcon);
 
 /***/ }),
-/* 104 */
+/* 106 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29594,7 +29606,7 @@ function CubeIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CubeIcon);
 
 /***/ }),
-/* 105 */
+/* 107 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29617,7 +29629,7 @@ function CurrencyBangladeshiIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CurrencyBangladeshiIcon);
 
 /***/ }),
-/* 106 */
+/* 108 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29642,7 +29654,7 @@ function CurrencyDollarIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CurrencyDollarIcon);
 
 /***/ }),
-/* 107 */
+/* 109 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29665,7 +29677,7 @@ function CurrencyEuroIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CurrencyEuroIcon);
 
 /***/ }),
-/* 108 */
+/* 110 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29688,7 +29700,7 @@ function CurrencyPoundIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CurrencyPoundIcon);
 
 /***/ }),
-/* 109 */
+/* 111 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29711,7 +29723,7 @@ function CurrencyRupeeIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CurrencyRupeeIcon);
 
 /***/ }),
-/* 110 */
+/* 112 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29734,7 +29746,7 @@ function CurrencyYenIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CurrencyYenIcon);
 
 /***/ }),
-/* 111 */
+/* 113 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29757,7 +29769,7 @@ function CursorClickIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (CursorClickIcon);
 
 /***/ }),
-/* 112 */
+/* 114 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29782,7 +29794,7 @@ function DatabaseIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DatabaseIcon);
 
 /***/ }),
-/* 113 */
+/* 115 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29805,7 +29817,7 @@ function DesktopComputerIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DesktopComputerIcon);
 
 /***/ }),
-/* 114 */
+/* 116 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29828,7 +29840,7 @@ function DeviceMobileIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DeviceMobileIcon);
 
 /***/ }),
-/* 115 */
+/* 117 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29851,7 +29863,7 @@ function DeviceTabletIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DeviceTabletIcon);
 
 /***/ }),
-/* 116 */
+/* 118 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29874,7 +29886,7 @@ function DocumentAddIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DocumentAddIcon);
 
 /***/ }),
-/* 117 */
+/* 119 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29897,7 +29909,7 @@ function DocumentDownloadIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DocumentDownloadIcon);
 
 /***/ }),
-/* 118 */
+/* 120 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29920,7 +29932,7 @@ function DocumentDuplicateIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DocumentDuplicateIcon);
 
 /***/ }),
-/* 119 */
+/* 121 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29943,7 +29955,7 @@ function DocumentRemoveIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DocumentRemoveIcon);
 
 /***/ }),
-/* 120 */
+/* 122 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29966,7 +29978,7 @@ function DocumentReportIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DocumentReportIcon);
 
 /***/ }),
-/* 121 */
+/* 123 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -29991,7 +30003,7 @@ function DocumentSearchIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DocumentSearchIcon);
 
 /***/ }),
-/* 122 */
+/* 124 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30014,7 +30026,7 @@ function DocumentTextIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DocumentTextIcon);
 
 /***/ }),
-/* 123 */
+/* 125 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30037,7 +30049,7 @@ function DocumentIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DocumentIcon);
 
 /***/ }),
-/* 124 */
+/* 126 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30060,7 +30072,7 @@ function DotsCircleHorizontalIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DotsCircleHorizontalIcon);
 
 /***/ }),
-/* 125 */
+/* 127 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30081,7 +30093,7 @@ function DotsHorizontalIcon(props) {
 /* harmony default export */ __webpack_exports__["a"] = (DotsHorizontalIcon);
 
 /***/ }),
-/* 126 */
+/* 128 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30102,7 +30114,7 @@ function DotsVerticalIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DotsVerticalIcon);
 
 /***/ }),
-/* 127 */
+/* 129 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30125,7 +30137,7 @@ function DownloadIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DownloadIcon);
 
 /***/ }),
-/* 128 */
+/* 130 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30148,7 +30160,7 @@ function DuplicateIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (DuplicateIcon);
 
 /***/ }),
-/* 129 */
+/* 131 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30171,7 +30183,7 @@ function EmojiHappyIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (EmojiHappyIcon);
 
 /***/ }),
-/* 130 */
+/* 132 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30194,7 +30206,7 @@ function EmojiSadIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (EmojiSadIcon);
 
 /***/ }),
-/* 131 */
+/* 133 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30217,7 +30229,7 @@ function ExclamationCircleIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ExclamationCircleIcon);
 
 /***/ }),
-/* 132 */
+/* 134 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30240,7 +30252,7 @@ function ExclamationIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ExclamationIcon);
 
 /***/ }),
-/* 133 */
+/* 135 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30263,7 +30275,7 @@ function ExternalLinkIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ExternalLinkIcon);
 
 /***/ }),
-/* 134 */
+/* 136 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30288,7 +30300,7 @@ function EyeOffIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (EyeOffIcon);
 
 /***/ }),
-/* 135 */
+/* 137 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30313,7 +30325,7 @@ function EyeIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (EyeIcon);
 
 /***/ }),
-/* 136 */
+/* 138 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30334,7 +30346,7 @@ function FastForwardIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (FastForwardIcon);
 
 /***/ }),
-/* 137 */
+/* 139 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30357,7 +30369,7 @@ function FilmIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (FilmIcon);
 
 /***/ }),
-/* 138 */
+/* 140 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30380,7 +30392,7 @@ function FilterIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (FilterIcon);
 
 /***/ }),
-/* 139 */
+/* 141 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30411,7 +30423,7 @@ function FingerPrintIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (FingerPrintIcon);
 
 /***/ }),
-/* 140 */
+/* 142 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30434,7 +30446,7 @@ function FireIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (FireIcon);
 
 /***/ }),
-/* 141 */
+/* 143 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30457,7 +30469,7 @@ function FlagIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (FlagIcon);
 
 /***/ }),
-/* 142 */
+/* 144 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30484,7 +30496,7 @@ function FolderAddIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (FolderAddIcon);
 
 /***/ }),
-/* 143 */
+/* 145 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30511,7 +30523,7 @@ function FolderDownloadIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (FolderDownloadIcon);
 
 /***/ }),
-/* 144 */
+/* 146 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30536,7 +30548,7 @@ function FolderOpenIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (FolderOpenIcon);
 
 /***/ }),
-/* 145 */
+/* 147 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30563,7 +30575,7 @@ function FolderRemoveIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (FolderRemoveIcon);
 
 /***/ }),
-/* 146 */
+/* 148 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30584,7 +30596,7 @@ function FolderIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (FolderIcon);
 
 /***/ }),
-/* 147 */
+/* 149 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30609,7 +30621,7 @@ function GiftIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (GiftIcon);
 
 /***/ }),
-/* 148 */
+/* 150 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30632,7 +30644,7 @@ function GlobeAltIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (GlobeAltIcon);
 
 /***/ }),
-/* 149 */
+/* 151 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30655,7 +30667,7 @@ function GlobeIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (GlobeIcon);
 
 /***/ }),
-/* 150 */
+/* 152 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30678,7 +30690,7 @@ function HandIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (HandIcon);
 
 /***/ }),
-/* 151 */
+/* 153 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30701,7 +30713,7 @@ function HashtagIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (HashtagIcon);
 
 /***/ }),
-/* 152 */
+/* 154 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30724,7 +30736,7 @@ function HeartIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (HeartIcon);
 
 /***/ }),
-/* 153 */
+/* 155 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30745,7 +30757,7 @@ function HomeIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (HomeIcon);
 
 /***/ }),
-/* 154 */
+/* 156 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30768,7 +30780,7 @@ function IdentificationIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (IdentificationIcon);
 
 /***/ }),
-/* 155 */
+/* 157 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30791,7 +30803,7 @@ function InboxInIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (InboxInIcon);
 
 /***/ }),
-/* 156 */
+/* 158 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30814,7 +30826,7 @@ function InboxIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (InboxIcon);
 
 /***/ }),
-/* 157 */
+/* 159 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30837,7 +30849,7 @@ function InformationCircleIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (InformationCircleIcon);
 
 /***/ }),
-/* 158 */
+/* 160 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30860,7 +30872,7 @@ function KeyIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (KeyIcon);
 
 /***/ }),
-/* 159 */
+/* 161 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30883,7 +30895,7 @@ function LibraryIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (LibraryIcon);
 
 /***/ }),
-/* 160 */
+/* 162 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30904,7 +30916,7 @@ function LightBulbIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (LightBulbIcon);
 
 /***/ }),
-/* 161 */
+/* 163 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30927,7 +30939,7 @@ function LightningBoltIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (LightningBoltIcon);
 
 /***/ }),
-/* 162 */
+/* 164 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30950,7 +30962,7 @@ function LinkIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (LinkIcon);
 
 /***/ }),
-/* 163 */
+/* 165 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30973,7 +30985,7 @@ function LocationMarkerIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (LocationMarkerIcon);
 
 /***/ }),
-/* 164 */
+/* 166 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -30996,7 +31008,7 @@ function LockClosedIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (LockClosedIcon);
 
 /***/ }),
-/* 165 */
+/* 167 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31017,7 +31029,7 @@ function LockOpenIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (LockOpenIcon);
 
 /***/ }),
-/* 166 */
+/* 168 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31040,7 +31052,7 @@ function LoginIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (LoginIcon);
 
 /***/ }),
-/* 167 */
+/* 169 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31063,7 +31075,7 @@ function LogoutIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (LogoutIcon);
 
 /***/ }),
-/* 168 */
+/* 170 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31086,7 +31098,7 @@ function MailOpenIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MailOpenIcon);
 
 /***/ }),
-/* 169 */
+/* 171 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31109,7 +31121,7 @@ function MailIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MailIcon);
 
 /***/ }),
-/* 170 */
+/* 172 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31132,7 +31144,7 @@ function MapIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MapIcon);
 
 /***/ }),
-/* 171 */
+/* 173 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31155,7 +31167,7 @@ function MenuAlt1Icon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MenuAlt1Icon);
 
 /***/ }),
-/* 172 */
+/* 174 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31178,7 +31190,7 @@ function MenuAlt2Icon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MenuAlt2Icon);
 
 /***/ }),
-/* 173 */
+/* 175 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31201,7 +31213,7 @@ function MenuAlt3Icon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MenuAlt3Icon);
 
 /***/ }),
-/* 174 */
+/* 176 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31224,7 +31236,7 @@ function MenuAlt4Icon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MenuAlt4Icon);
 
 /***/ }),
-/* 175 */
+/* 177 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31247,7 +31259,7 @@ function MenuIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MenuIcon);
 
 /***/ }),
-/* 176 */
+/* 178 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31270,7 +31282,7 @@ function MicrophoneIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MicrophoneIcon);
 
 /***/ }),
-/* 177 */
+/* 179 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31293,7 +31305,7 @@ function MinusCircleIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MinusCircleIcon);
 
 /***/ }),
-/* 178 */
+/* 180 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31316,7 +31328,7 @@ function MinusSmIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MinusSmIcon);
 
 /***/ }),
-/* 179 */
+/* 181 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31339,7 +31351,7 @@ function MinusIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MinusIcon);
 
 /***/ }),
-/* 180 */
+/* 182 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31360,7 +31372,7 @@ function MoonIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MoonIcon);
 
 /***/ }),
-/* 181 */
+/* 183 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31381,7 +31393,7 @@ function MusicNoteIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (MusicNoteIcon);
 
 /***/ }),
-/* 182 */
+/* 184 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31406,7 +31418,7 @@ function NewspaperIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (NewspaperIcon);
 
 /***/ }),
-/* 183 */
+/* 185 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31429,7 +31441,7 @@ function OfficeBuildingIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (OfficeBuildingIcon);
 
 /***/ }),
-/* 184 */
+/* 186 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31450,7 +31462,7 @@ function PaperAirplaneIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PaperAirplaneIcon);
 
 /***/ }),
-/* 185 */
+/* 187 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31473,7 +31485,7 @@ function PaperClipIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PaperClipIcon);
 
 /***/ }),
-/* 186 */
+/* 188 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31496,7 +31508,7 @@ function PauseIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PauseIcon);
 
 /***/ }),
-/* 187 */
+/* 189 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31521,7 +31533,7 @@ function PencilAltIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PencilAltIcon);
 
 /***/ }),
-/* 188 */
+/* 190 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31542,7 +31554,7 @@ function PencilIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PencilIcon);
 
 /***/ }),
-/* 189 */
+/* 191 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31565,7 +31577,7 @@ function PhoneIncomingIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PhoneIncomingIcon);
 
 /***/ }),
-/* 190 */
+/* 192 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31588,7 +31600,7 @@ function PhoneMissedCallIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PhoneMissedCallIcon);
 
 /***/ }),
-/* 191 */
+/* 193 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31611,7 +31623,7 @@ function PhoneOutgoingIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PhoneOutgoingIcon);
 
 /***/ }),
-/* 192 */
+/* 194 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31632,7 +31644,7 @@ function PhoneIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PhoneIcon);
 
 /***/ }),
-/* 193 */
+/* 195 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31655,7 +31667,7 @@ function PhotographIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PhotographIcon);
 
 /***/ }),
-/* 194 */
+/* 196 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31678,7 +31690,7 @@ function PlayIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PlayIcon);
 
 /***/ }),
-/* 195 */
+/* 197 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31701,7 +31713,7 @@ function PlusCircleIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PlusCircleIcon);
 
 /***/ }),
-/* 196 */
+/* 198 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31724,7 +31736,7 @@ function PlusSmIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PlusSmIcon);
 
 /***/ }),
-/* 197 */
+/* 199 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31747,7 +31759,7 @@ function PlusIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PlusIcon);
 
 /***/ }),
-/* 198 */
+/* 200 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31770,7 +31782,7 @@ function PresentationChartBarIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PresentationChartBarIcon);
 
 /***/ }),
-/* 199 */
+/* 201 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31793,7 +31805,7 @@ function PresentationChartLineIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PresentationChartLineIcon);
 
 /***/ }),
-/* 200 */
+/* 202 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31816,7 +31828,7 @@ function PrinterIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PrinterIcon);
 
 /***/ }),
-/* 201 */
+/* 203 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31837,7 +31849,7 @@ function PuzzleIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (PuzzleIcon);
 
 /***/ }),
-/* 202 */
+/* 204 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31862,7 +31874,7 @@ function QrcodeIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (QrcodeIcon);
 
 /***/ }),
-/* 203 */
+/* 205 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31885,7 +31897,7 @@ function QuestionMarkCircleIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (QuestionMarkCircleIcon);
 
 /***/ }),
-/* 204 */
+/* 206 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31908,7 +31920,7 @@ function ReceiptRefundIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ReceiptRefundIcon);
 
 /***/ }),
-/* 205 */
+/* 207 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31931,7 +31943,7 @@ function ReceiptTaxIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ReceiptTaxIcon);
 
 /***/ }),
-/* 206 */
+/* 208 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31954,7 +31966,7 @@ function RefreshIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (RefreshIcon);
 
 /***/ }),
-/* 207 */
+/* 209 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31977,7 +31989,7 @@ function ReplyIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ReplyIcon);
 
 /***/ }),
-/* 208 */
+/* 210 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31998,7 +32010,7 @@ function RewindIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (RewindIcon);
 
 /***/ }),
-/* 209 */
+/* 211 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32021,7 +32033,7 @@ function RssIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (RssIcon);
 
 /***/ }),
-/* 210 */
+/* 212 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32044,7 +32056,7 @@ function SaveAsIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SaveAsIcon);
 
 /***/ }),
-/* 211 */
+/* 213 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32065,7 +32077,7 @@ function SaveIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SaveIcon);
 
 /***/ }),
-/* 212 */
+/* 214 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32088,7 +32100,7 @@ function ScaleIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ScaleIcon);
 
 /***/ }),
-/* 213 */
+/* 215 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32113,7 +32125,7 @@ function ScissorsIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ScissorsIcon);
 
 /***/ }),
-/* 214 */
+/* 216 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32138,7 +32150,7 @@ function SearchCircleIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SearchCircleIcon);
 
 /***/ }),
-/* 215 */
+/* 217 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32161,7 +32173,7 @@ function SearchIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SearchIcon);
 
 /***/ }),
-/* 216 */
+/* 218 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32184,7 +32196,7 @@ function SelectorIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SelectorIcon);
 
 /***/ }),
-/* 217 */
+/* 219 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32207,7 +32219,7 @@ function ServerIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ServerIcon);
 
 /***/ }),
-/* 218 */
+/* 220 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32228,7 +32240,7 @@ function ShareIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ShareIcon);
 
 /***/ }),
-/* 219 */
+/* 221 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32251,7 +32263,7 @@ function ShieldCheckIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ShieldCheckIcon);
 
 /***/ }),
-/* 220 */
+/* 222 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32274,7 +32286,7 @@ function ShieldExclamationIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ShieldExclamationIcon);
 
 /***/ }),
-/* 221 */
+/* 223 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32297,7 +32309,7 @@ function ShoppingBagIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ShoppingBagIcon);
 
 /***/ }),
-/* 222 */
+/* 224 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32318,7 +32330,7 @@ function ShoppingCartIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ShoppingCartIcon);
 
 /***/ }),
-/* 223 */
+/* 225 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32339,7 +32351,7 @@ function SortAscendingIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SortAscendingIcon);
 
 /***/ }),
-/* 224 */
+/* 226 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32360,7 +32372,7 @@ function SortDescendingIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SortDescendingIcon);
 
 /***/ }),
-/* 225 */
+/* 227 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32383,7 +32395,7 @@ function SparklesIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SparklesIcon);
 
 /***/ }),
-/* 226 */
+/* 228 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32406,7 +32418,7 @@ function SpeakerphoneIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SpeakerphoneIcon);
 
 /***/ }),
-/* 227 */
+/* 229 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32427,7 +32439,7 @@ function StarIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (StarIcon);
 
 /***/ }),
-/* 228 */
+/* 230 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32448,7 +32460,7 @@ function StatusOfflineIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (StatusOfflineIcon);
 
 /***/ }),
-/* 229 */
+/* 231 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32471,7 +32483,7 @@ function StatusOnlineIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (StatusOnlineIcon);
 
 /***/ }),
-/* 230 */
+/* 232 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32494,7 +32506,7 @@ function StopIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (StopIcon);
 
 /***/ }),
-/* 231 */
+/* 233 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32517,7 +32529,7 @@ function SunIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SunIcon);
 
 /***/ }),
-/* 232 */
+/* 234 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32540,7 +32552,7 @@ function SupportIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SupportIcon);
 
 /***/ }),
-/* 233 */
+/* 235 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32561,7 +32573,7 @@ function SwitchHorizontalIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SwitchHorizontalIcon);
 
 /***/ }),
-/* 234 */
+/* 236 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32582,7 +32594,7 @@ function SwitchVerticalIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (SwitchVerticalIcon);
 
 /***/ }),
-/* 235 */
+/* 237 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32605,7 +32617,7 @@ function TableIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (TableIcon);
 
 /***/ }),
-/* 236 */
+/* 238 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32628,7 +32640,7 @@ function TagIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (TagIcon);
 
 /***/ }),
-/* 237 */
+/* 239 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32649,7 +32661,7 @@ function TemplateIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (TemplateIcon);
 
 /***/ }),
-/* 238 */
+/* 240 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32672,7 +32684,7 @@ function TerminalIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (TerminalIcon);
 
 /***/ }),
-/* 239 */
+/* 241 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32693,7 +32705,7 @@ function ThumbDownIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ThumbDownIcon);
 
 /***/ }),
-/* 240 */
+/* 242 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32714,7 +32726,7 @@ function ThumbUpIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ThumbUpIcon);
 
 /***/ }),
-/* 241 */
+/* 243 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32735,7 +32747,7 @@ function TicketIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (TicketIcon);
 
 /***/ }),
-/* 242 */
+/* 244 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32758,7 +32770,7 @@ function TranslateIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (TranslateIcon);
 
 /***/ }),
-/* 243 */
+/* 245 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32781,7 +32793,7 @@ function TrashIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (TrashIcon);
 
 /***/ }),
-/* 244 */
+/* 246 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32804,7 +32816,7 @@ function TrendingDownIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (TrendingDownIcon);
 
 /***/ }),
-/* 245 */
+/* 247 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32827,7 +32839,7 @@ function TrendingUpIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (TrendingUpIcon);
 
 /***/ }),
-/* 246 */
+/* 248 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32850,7 +32862,7 @@ function TruckIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (TruckIcon);
 
 /***/ }),
-/* 247 */
+/* 249 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32873,7 +32885,7 @@ function UploadIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (UploadIcon);
 
 /***/ }),
-/* 248 */
+/* 250 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32894,7 +32906,7 @@ function UserAddIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (UserAddIcon);
 
 /***/ }),
-/* 249 */
+/* 251 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32917,7 +32929,7 @@ function UserCircleIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (UserCircleIcon);
 
 /***/ }),
-/* 250 */
+/* 252 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32938,7 +32950,7 @@ function UserGroupIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (UserGroupIcon);
 
 /***/ }),
-/* 251 */
+/* 253 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32959,7 +32971,7 @@ function UserRemoveIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (UserRemoveIcon);
 
 /***/ }),
-/* 252 */
+/* 254 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -32982,7 +32994,7 @@ function UserIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (UserIcon);
 
 /***/ }),
-/* 253 */
+/* 255 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33003,7 +33015,7 @@ function UsersIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (UsersIcon);
 
 /***/ }),
-/* 254 */
+/* 256 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33026,7 +33038,7 @@ function VariableIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (VariableIcon);
 
 /***/ }),
-/* 255 */
+/* 257 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33047,7 +33059,7 @@ function VideoCameraIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (VideoCameraIcon);
 
 /***/ }),
-/* 256 */
+/* 258 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33068,7 +33080,7 @@ function ViewBoardsIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ViewBoardsIcon);
 
 /***/ }),
-/* 257 */
+/* 259 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33089,7 +33101,7 @@ function ViewGridAddIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ViewGridAddIcon);
 
 /***/ }),
-/* 258 */
+/* 260 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33110,7 +33122,7 @@ function ViewGridIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ViewGridIcon);
 
 /***/ }),
-/* 259 */
+/* 261 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33133,7 +33145,7 @@ function ViewListIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ViewListIcon);
 
 /***/ }),
-/* 260 */
+/* 262 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33156,7 +33168,7 @@ function VolumeOffIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (VolumeOffIcon);
 
 /***/ }),
-/* 261 */
+/* 263 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33179,7 +33191,7 @@ function VolumeUpIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (VolumeUpIcon);
 
 /***/ }),
-/* 262 */
+/* 264 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33202,7 +33214,7 @@ function WifiIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (WifiIcon);
 
 /***/ }),
-/* 263 */
+/* 265 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33225,7 +33237,7 @@ function XCircleIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (XCircleIcon);
 
 /***/ }),
-/* 264 */
+/* 266 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33248,7 +33260,7 @@ function XIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (XIcon);
 
 /***/ }),
-/* 265 */
+/* 267 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33273,7 +33285,7 @@ function ZoomInIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ZoomInIcon);
 
 /***/ }),
-/* 266 */
+/* 268 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33300,7 +33312,7 @@ function ZoomOutIcon(props) {
 /* unused harmony default export */ var _unused_webpack_default_export = (ZoomOutIcon);
 
 /***/ }),
-/* 267 */
+/* 269 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33311,33 +33323,16 @@ function ZoomOutIcon(props) {
 var ResearchLayout=function ResearchLayout(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col text-left"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white m-4 pb-4"},"Research"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-wrap -m-4"},__WEBPACK_IMPORTED_MODULE_1__data__["d" /* projectsResearch */].map(function(project){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-1/3 p-5"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center relative bg-cyan-700 h-fit rounded-3xl"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{alt:"gallery",className:"mt-4 w-5/6 h-44 rounded-3xl",src:project.image}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"py-4 text-white font-semibold text-xl"},project.title),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"px-4"},project.description),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex items-center py-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_react_router_dom__["b" /* Link */],{to:project.route,className:"text-black bg-cyan-300 border-0 py-2 px-6 focus:outline-none hover:bg-cyan-500 rounded text-sm"},"View Project"))));})));};/* harmony default export */ __webpack_exports__["a"] = (ResearchLayout);
 
 /***/ }),
-/* 268 */
+/* 270 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/ppr_full_assem.baa64d76.png";
 
 /***/ }),
-/* 269 */
+/* 271 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/nsin_new_system.397197ec.png";
-
-/***/ }),
-/* 270 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/medsnake.0fee809d.png";
-
-/***/ }),
-/* 271 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__data__ = __webpack_require__(3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react_router_dom__ = __webpack_require__(2);
-var WorkLayout=function WorkLayout(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col text-left"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"flex flex-col text-2xl text-white m-4 pb-4"},"Industry"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-wrap -m-4"},__WEBPACK_IMPORTED_MODULE_1__data__["c" /* projectsIndustry */].map(function(project){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-1/3 p-5"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center relative bg-cyan-700 h-fit rounded-3xl"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{alt:"gallery",className:"mt-4 w-5/6 h-44 rounded-3xl",src:project.image}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"py-4 text-white font-semibold text-xl"},project.title),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"px-4"},project.description),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex items-center py-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_react_router_dom__["b" /* Link */],{to:project.route,className:"text-black bg-cyan-300 border-0 py-2 px-6 focus:outline-none hover:bg-cyan-500 rounded text-sm"},"View Project"))));})));};/* harmony default export */ __webpack_exports__["a"] = (WorkLayout);
 
 /***/ }),
 /* 272 */
@@ -33348,10 +33343,21 @@ var WorkLayout=function WorkLayout(){return __WEBPACK_IMPORTED_MODULE_0_react___
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__data__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react_router_dom__ = __webpack_require__(2);
-var AcademicLayout=function AcademicLayout(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col text-left"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white m-4 pb-4"},"Academic"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-wrap -m-4"},__WEBPACK_IMPORTED_MODULE_1__data__["b" /* projectsAcademic */].map(function(project){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-1/3 p-5"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center relative bg-cyan-700 h-fit rounded-3xl"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{alt:"gallery",className:"mt-4 w-5/6 h-44 rounded-3xl",src:project.image}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"py-4 text-white font-semibold text-xl"},project.title),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"px-4"},project.description),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex items-center py-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_react_router_dom__["b" /* Link */],{to:project.route,className:"text-black bg-cyan-300 border-0 py-2 px-6 focus:outline-none hover:bg-cyan-500 rounded text-sm"},"View Project"))));})));};/* harmony default export */ __webpack_exports__["a"] = (AcademicLayout);
+var WorkLayout=function WorkLayout(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col text-left"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"flex flex-col text-2xl text-white m-4 pb-4"},"Industry"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-wrap -m-4"},__WEBPACK_IMPORTED_MODULE_1__data__["c" /* projectsIndustry */].map(function(project){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-1/3 p-5"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center relative bg-cyan-700 h-fit rounded-3xl"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{alt:"gallery",className:"mt-4 w-5/6 h-44 rounded-3xl",src:project.image}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"py-4 text-white font-semibold text-xl"},project.title),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"px-4"},project.description),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex items-center py-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_react_router_dom__["b" /* Link */],{to:project.route,className:"text-black bg-cyan-300 border-0 py-2 px-6 focus:outline-none hover:bg-cyan-500 rounded text-sm"},"View Project"))));})));};/* harmony default export */ __webpack_exports__["a"] = (WorkLayout);
 
 /***/ }),
 /* 273 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__data__ = __webpack_require__(3);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react_router_dom__ = __webpack_require__(2);
+var AcademicLayout=function AcademicLayout(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col text-left"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white m-4 pb-4"},"Academic"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-wrap -m-4"},__WEBPACK_IMPORTED_MODULE_1__data__["b" /* projectsAcademic */].map(function(project){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-1/3 p-5"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center relative bg-cyan-700 h-fit rounded-3xl"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{alt:"gallery",className:"mt-4 w-5/6 h-44 rounded-3xl",src:project.image}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"py-4 text-white font-semibold text-xl"},project.title),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"px-4"},project.description),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex items-center py-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_react_router_dom__["b" /* Link */],{to:project.route,className:"text-black bg-cyan-300 border-0 py-2 px-6 focus:outline-none hover:bg-cyan-500 rounded text-sm"},"View Project"))));})));};/* harmony default export */ __webpack_exports__["a"] = (AcademicLayout);
+
+/***/ }),
+/* 274 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33363,18 +33369,18 @@ var AcademicLayout=function AcademicLayout(){return __WEBPACK_IMPORTED_MODULE_0_
 function WorkExperience(){return __WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement("section",{id:"workexperience",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement("div",{className:"container px-5 py-10 mx-auto text-center lg:px-40"},__WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl font-medium title-font mb-4 text-cyan-400"},"Work Experience"),__WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement("div",{className:"flex flex-wrap justify-center mt-4"},__WEBPACK_IMPORTED_MODULE_1__data__["a" /* experience */].map(function(exp){return __WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement("div",{className:"flex flex-col w-3/4 items-center p-10"},__WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement("img",{alt:"gallery",className:"w-48",src:exp.logo}),__WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement("div",{className:"w-3/4 text-left"},__WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement("h1",{className:"py-4 pl-10 text-cyan-400 font-semibold text-2xl"},exp.title),__WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement("p",{className:"pl-10 pb-2 text-white font-semibold text-xl"},exp.company),__WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement("p",{className:"pl-10 pb-2"},exp.location),__WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement("p",{className:"pl-10"},exp.duration)));}))));}
 
 /***/ }),
-/* 274 */
+/* 275 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react_router_dom__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Navbar__ = __webpack_require__(275);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Navbar__ = __webpack_require__(276);
 var Layout=function Layout(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react___default.a.Fragment,null,__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__Navbar__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_react_router_dom__["c" /* Outlet */],null));};/* harmony default export */ __webpack_exports__["a"] = (Layout);
 
 /***/ }),
-/* 275 */
+/* 276 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33385,7 +33391,7 @@ var Layout=function Layout(){return __WEBPACK_IMPORTED_MODULE_0_react___default.
 function Navbar(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("header",{className:"bg-black md:sticky top-0 z-10"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto flex flex-wrap p-5 flex-row"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("nav",null,__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_react_router_dom__["b" /* Link */],{to:"/",className:"mr-5 text-cyan-400 hover:text-white"},"Home"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_react_router_dom__["b" /* Link */],{to:"/projects",className:"mr-5 text-cyan-400 hover:text-white"},"Projects"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_react_router_dom__["b" /* Link */],{to:"/workexperience",className:"mr-5 text-cyan-400 hover:text-white"},"Experience"))));}
 
 /***/ }),
-/* 276 */
+/* 277 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33393,100 +33399,100 @@ function Navbar(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createEle
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PPR_Elements_OperationLogic__ = __webpack_require__(277);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__PPR_Elements_HighLevel__ = __webpack_require__(279);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__PPR_Elements_EarlyIdeation__ = __webpack_require__(282);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__PPR_Elements_DevelopedIdeation__ = __webpack_require__(286);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__Embedded_EmbeddedDevelopment__ = __webpack_require__(290);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PPR_Elements_OperationLogic__ = __webpack_require__(278);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__PPR_Elements_HighLevel__ = __webpack_require__(280);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__PPR_Elements_EarlyIdeation__ = __webpack_require__(283);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__PPR_Elements_DevelopedIdeation__ = __webpack_require__(287);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__Embedded_EmbeddedDevelopment__ = __webpack_require__(291);
 function PPR(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"ppr",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-cyan-400"},"Arterial Puncture Detection"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg"},"Contributing to the prototype of a dual-module system, which automates the process of detecting vessel puncture, then differentiating between veinous/arterial puncture."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul",{className:" my-8 text-white list-none"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," In association with:")," Project TRACIR, The Biorobotics Laboratory at Carnegie Mellon University "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Project Duration:")," February 2022 \u2014 August 2022 "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Skills:")," SolidWorks, PSoC Creator ")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__PPR_Elements_OperationLogic__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__PPR_Elements_HighLevel__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__PPR_Elements_EarlyIdeation__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__PPR_Elements_DevelopedIdeation__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_6__Embedded_EmbeddedDevelopment__["a" /* default */],null)));}
 
 /***/ }),
-/* 277 */
+/* 278 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_operation_logic_png__ = __webpack_require__(278);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_operation_logic_png__ = __webpack_require__(279);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_operation_logic_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_operation_logic_png__);
 var operationSteps=[{step:"Saline flows through arterial line and out the needle tip exposed to the atmosphere, generating a baseline pressure for the pressure sensor, which is labeled as #1."},{step:"User performs preliminary jab; Tube valve (labeled #2) turns handle to seal off saline line. "},{step:"Full insertion begins. Simultaneously, the syringe handle (#4) pulls backwards, generating vacuum."},{step:"The generated vacuum pulls blood from the vessel through the optical sensor (#5) and into the syringe. When this happens, the stopcock handle seals off the syringe line. "},{step:"Saline is allowed to flow through line. The blood stream in the vessel is able to displace the saline back and forth (Due to heartbeat). This is detected by the pressure sensor (#3)."},{step:"Sensor reading outputs pressure changes from the baseline, differentiating vein from artery. "}];var OperationLogic=function OperationLogic(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Operation Logic"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"items-center"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"my-8 rounded-lg",alt:"operationLogic",src:__WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_operation_logic_png___default.a})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg text-white font-bold"},"Steps:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-decimal my-8 text-white text-md"},operationSteps.map(function(steps){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},steps.step);})));};/* harmony default export */ __webpack_exports__["a"] = (OperationLogic);
 
 /***/ }),
-/* 278 */
+/* 279 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/ppr_operation_logic.4a483cbc.png";
 
 /***/ }),
-/* 279 */
+/* 280 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PPR_Assets_high_level_ppr_png__ = __webpack_require__(280);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PPR_Assets_high_level_ppr_png__ = __webpack_require__(281);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PPR_Assets_high_level_ppr_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__PPR_Assets_high_level_ppr_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PPR_Assets_high_level_ppr_2_png__ = __webpack_require__(281);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PPR_Assets_high_level_ppr_2_png__ = __webpack_require__(282);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PPR_Assets_high_level_ppr_2_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__PPR_Assets_high_level_ppr_2_png__);
 var HighLevel=function HighLevel(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"High Level System Diagram"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg text-cyan-400 font-bold my-8"},"Bottom Half of Device \u2014 Disposable"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg",alt:"highLevelBottom",src:__WEBPACK_IMPORTED_MODULE_1__PPR_Assets_high_level_ppr_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg text-cyan-400 font-bold my-8"},"Upper Half of Device \u2014 Reusable"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg",alt:"highLevelTop",src:__WEBPACK_IMPORTED_MODULE_2__PPR_Assets_high_level_ppr_2_png___default.a}));};/* harmony default export */ __webpack_exports__["a"] = (HighLevel);
-
-/***/ }),
-/* 280 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/high-level-ppr.6a832e8a.png";
 
 /***/ }),
 /* 281 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/high-level-ppr-2.07945452.png";
+module.exports = __webpack_require__.p + "static/media/high-level-ppr.6a832e8a.png";
 
 /***/ }),
 /* 282 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/high-level-ppr-2.07945452.png";
+
+/***/ }),
+/* 283 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_initial_top_png__ = __webpack_require__(283);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_initial_top_png__ = __webpack_require__(284);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_initial_top_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_initial_top_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PPR_Assets_ppr_initial_bottom_png__ = __webpack_require__(284);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PPR_Assets_ppr_initial_bottom_png__ = __webpack_require__(285);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PPR_Assets_ppr_initial_bottom_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__PPR_Assets_ppr_initial_bottom_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__PPR_Assets_ppr_initial_full_png__ = __webpack_require__(285);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__PPR_Assets_ppr_initial_full_png__ = __webpack_require__(286);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__PPR_Assets_ppr_initial_full_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__PPR_Assets_ppr_initial_full_png__);
 var keyFeatures=[{feature:"Raspberry Pi Touchscreen Display."},{feature:"Tupperware Clamps."},{feature:"PSoC™ Microcontroller (Sparkfun Electronics's FreeSoC2)"}];var Drawbacks=[{drawback:"Touchscreen and Microcontroller increased form factor dramatically."},{drawback:"Tupperware Clamps are hard to install."}];var EarlyIdeation=function EarlyIdeation(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold my-8"},"Computer Aided Design: Early Ideation"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-row"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pr-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4",alt:"InitialTop",src:__WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_initial_top_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Reusable Module: Initial SolidWorks Model")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pl-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4",alt:"InitialBottom",src:__WEBPACK_IMPORTED_MODULE_2__PPR_Assets_ppr_initial_bottom_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Disposable Module: Initial SolidWorks Model"))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4",alt:"InitialFull",src:__WEBPACK_IMPORTED_MODULE_3__PPR_Assets_ppr_initial_full_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-lg mx-auto font-medium text-cyan-400"},"Full Assembly: Initial SolidWorks Model"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-xl text-white font-bold my-8"},"Key Features"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc text-white text-md"},keyFeatures.map(function(features){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"}," ",features.feature);})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-xl text-white font-bold my-8"},"Drawbacks"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc text-white text-md"},Drawbacks.map(function(drawbacks){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"}," ",drawbacks.drawback);})));};/* harmony default export */ __webpack_exports__["a"] = (EarlyIdeation);
-
-/***/ }),
-/* 283 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/ppr_initial_top.95840c93.png";
 
 /***/ }),
 /* 284 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/ppr_initial_bottom.0c628eaf.png";
+module.exports = __webpack_require__.p + "static/media/ppr_initial_top.95840c93.png";
 
 /***/ }),
 /* 285 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/ppr_initial_full.1430d77f.png";
+module.exports = __webpack_require__.p + "static/media/ppr_initial_bottom.0c628eaf.png";
 
 /***/ }),
 /* 286 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/ppr_initial_full.1430d77f.png";
+
+/***/ }),
+/* 287 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_current_top_png__ = __webpack_require__(287);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_current_top_png__ = __webpack_require__(288);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_current_top_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_current_top_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PPR_Assets_ppr_current_bottom_png__ = __webpack_require__(288);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PPR_Assets_ppr_current_bottom_png__ = __webpack_require__(289);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PPR_Assets_ppr_current_bottom_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__PPR_Assets_ppr_current_bottom_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__PPR_Assets_ppr_current_full_png__ = __webpack_require__(289);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__PPR_Assets_ppr_current_full_png__ = __webpack_require__(290);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__PPR_Assets_ppr_current_full_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__PPR_Assets_ppr_current_full_png__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__heroicons_react_solid__ = __webpack_require__(1);
 var designChanges=[{change:"Touchscreen Display Removed (User Interface on a separate PC)."},{change:"Microcontroller replaced with a smaller one."},{change:"Side clamps removed, replaced with magnets slotted into the walls of the modules."}];// const manufacturing = [
@@ -33496,83 +33502,83 @@ var designChanges=[{change:"Touchscreen Display Removed (User Interface on a sep
 var DevelopedIdeation=function DevelopedIdeation(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold my-8"},"Computer Aided Design: Developed Ideation"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg",alt:"currentTop",src:__WEBPACK_IMPORTED_MODULE_1__PPR_Assets_ppr_current_top_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-xl font-medium text-cyan-400 my-4 mx-auto"},"Disposable Module: Developed SolidWorks Model"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"my-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg",alt:"currentBottom",src:__WEBPACK_IMPORTED_MODULE_2__PPR_Assets_ppr_current_bottom_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-xl font-medium text-cyan-400 my-4 mx-auto"},"Reusable Module: Developed SolidWorks Model"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-xl text-white font-bold my-8"},"Design Changes"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc text-white text-md"},designChanges.map(function(changes){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},changes.change);})));};/* harmony default export */ __webpack_exports__["a"] = (DevelopedIdeation);
 
 /***/ }),
-/* 287 */
+/* 288 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/ppr_current_top.a4dc1b44.png";
 
 /***/ }),
-/* 288 */
+/* 289 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/ppr_current_bottom.52517e22.png";
 
 /***/ }),
-/* 289 */
+/* 290 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/ppr_current_full.4cf62b01.png";
 
 /***/ }),
-/* 290 */
+/* 291 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Embedded_Assets_pressure_transducer_png__ = __webpack_require__(291);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Embedded_Assets_pressure_transducer_png__ = __webpack_require__(292);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Embedded_Assets_pressure_transducer_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Embedded_Assets_pressure_transducer_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Embedded_Assets_syringe_jpg__ = __webpack_require__(292);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Embedded_Assets_syringe_jpg__ = __webpack_require__(293);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Embedded_Assets_syringe_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__Embedded_Assets_syringe_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Embedded_Assets_ppr_embedded_setup_jpg__ = __webpack_require__(293);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Embedded_Assets_ppr_embedded_setup_jpg__ = __webpack_require__(294);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Embedded_Assets_ppr_embedded_setup_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__Embedded_Assets_ppr_embedded_setup_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Embedded_Assets_psoc_entire_system_mp4__ = __webpack_require__(294);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Embedded_Assets_psoc_entire_system_mp4__ = __webpack_require__(295);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Embedded_Assets_psoc_entire_system_mp4___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__Embedded_Assets_psoc_entire_system_mp4__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Embedded_Assets_sensors_data_stream_mp4__ = __webpack_require__(295);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Embedded_Assets_sensors_data_stream_mp4__ = __webpack_require__(296);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Embedded_Assets_sensors_data_stream_mp4___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5__Embedded_Assets_sensors_data_stream_mp4__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__Embedded_Assets_psoc_motors_control_mp4__ = __webpack_require__(296);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__Embedded_Assets_psoc_motors_control_mp4__ = __webpack_require__(297);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__Embedded_Assets_psoc_motors_control_mp4___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6__Embedded_Assets_psoc_motors_control_mp4__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__ = __webpack_require__(1);
 var EmbeddedDevelopment=function EmbeddedDevelopment(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold my-8"},"Embedded Development: Background"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-row"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg mr-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Servomotor Control: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"The device utilizes a pressure sensor connected to a valve, shown on the left, able to control close off or allow for fluid flow from different arterial lines depending on handle orientation. We utilize the servo to finely control the angular position of this stopcock handle."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg w-50 h-60 ml-4",alt:"pressureTransducer",src:__WEBPACK_IMPORTED_MODULE_1__Embedded_Assets_pressure_transducer_png___default.a})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-row my-8"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg mr-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Linear Actuator Control: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"A critical device operation is drawing blood through a non-invasive optical sensor to detect blood flash. A syringe in the device generates negative pressure as a needle goes through tissue. The linear actuator connects to the syringe via a customized adapter and is responsible for extending and retracting the syringe to generate this pressure."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg w-50 h-60 ml-4",alt:"pressureTransducer",src:__WEBPACK_IMPORTED_MODULE_2__Embedded_Assets_syringe_jpg___default.a})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"my-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold my-8"},"PSoC\u2122 System"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"my-2 rounded-lg border-2 border-cyan-400",alt:"Demo of Medsnake accessing the snake",src:__WEBPACK_IMPORTED_MODULE_3__Embedded_Assets_ppr_embedded_setup_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Programmable-System-on-Chip (PSoC\u2122) : ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"The most important electronic in this system, the PSoC's role is to communicate with the motors, by receiving commands that the user sends via USB. Simulatneously, it reads the data output from the pressure and optical sensors, and then displays those readings on the terminal in the user's PC. In this image, the PSoC is connected to all 4 electronics, and this is the setup we used to test the firmware we wrote."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold my-8"},"Rotating the Servomotor and Extending the Linear Actuator"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("video",{className:"my-2 max-w-full rounded-lg border-2 border-cyan-400",controls:true},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("source",{src:__WEBPACK_IMPORTED_MODULE_6__Embedded_Assets_psoc_motors_control_mp4___default.a,type:"video/mp4"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Motor Control: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"Both the motors are controlled via a pulse width modulated signal. For the servomotor, a 50% duty cycle corresponds to a 90 degree turn. The duty cycle percentage is proportional to the angle the servo rotates. For the linear actuator, the logic is similar; The higher the duty cycle, the longer the actuator extends. ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"For this demo, we input the desired angle of rotation and the desired length extension into a python script. The code then sends this information as bytes via serial communication to the PSoC, which then converts that information into the duty cycle it initializes to each motor. These two processes are done concurrently."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold my-8"},"Sensors Data Stream on Terminal"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("video",{className:"my-2 max-w-full rounded-lg border-2 border-cyan-400",controls:true},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("source",{src:__WEBPACK_IMPORTED_MODULE_5__Embedded_Assets_sensors_data_stream_mp4___default.a,type:"video/mp4"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Terminal Output: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"In this output, the first number is proportional to fluid pressure measured by the pressure sensor. So as fluid pressure increases, this number will also increase. The second number is proportional to the opacity of the fluid measured by the optical sensor, and this value decreases with more opaque fluids. These numbers are not the actual measured values of pressure and opacity. This output verifies that the sensors behave as expected."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold my-8"},"Entire System in Action"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("video",{className:"my-2 max-w-full rounded-lg border-2 border-cyan-400",controls:true},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("source",{src:__WEBPACK_IMPORTED_MODULE_4__Embedded_Assets_psoc_entire_system_mp4___default.a,type:"video/mp4"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Bringing it all together: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"In this demo, the PSoC performs all 4 tasks: Rotating the servomotor, extending the linear actuator, read data from the pressure sensor, and read data from the optical sensor. In the python script that is interacting with it, it instructs the PSoC to interact with the motors first, then the sensors second. ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"However, the firmware on the PSoC is constantly running. So, it is possible to have control and data recording running parallel to each other. An example would be in a ROS environment: A node that is sending data to the PSoC, to control the motors, and a node that is subcribing from the serial output to record sensor data."));};/* harmony default export */ __webpack_exports__["a"] = (EmbeddedDevelopment);
 
 /***/ }),
-/* 291 */
+/* 292 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/pressure_transducer.2095aa0b.png";
 
 /***/ }),
-/* 292 */
+/* 293 */
 /***/ (function(module, exports) {
 
 module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMgIyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wgARCAGvAa8DAREAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQFAQIDBgf/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAD7MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQ1OoAAAAAAAAAAAAAAAAAAAAAAAABoV9mtTM2SAAAAAAAAAAAAAAAAAAAAAAAADmVtbWdZZ8AAAAAAAAAAAAAAAAAAAAAAAACJHmNzWy9xq3AAAAAAAAAAAAAAAAAAAAAAABzKaXzOs1HXO6Tca9Jz1e1JAAAAAAAAAAAAAAAAAAAAAANT4/Z5leRDLCy80kpGj6rjVwAAAAAAAAAAAAAAAAAAAAADU+Oy+G6Z0INSE9BpMTnl9o5btqAAAAAAAAAAAAAAAAAAAAAGp4aXyJmzvU7UsqkRBPbYtiAAAAAAAAAAAAAAAAAAAAADBQ4vlSRVhp1SadiMXBKAAAAAAAAAAAAAAAAAAAAABgo83ypMq01Nk7rISOWsskAAAAAAAAAAAAAAAAAAAAAGCml8llKqXXIqc31mpI1myl7gAAAAAAAAAAAAAAAAAAAAAwVEeWzbDS3s1sjy21kYsZewAAAAAAAAAAAAAAAAAAAAAMFRHmM2w0trFkut4iFhL2AAAAAAAAAAAAAAAAAAAAABgqY8tmy6s7Je5KNyHFjL1AAAAAAAAAAAAAAAAAAAAAAKiPNZtjpa3LSQbkWLGXoAAAAAAAAAAAAAAAAAAAAAAVEedll1LTiU2b63pnBZS9AAAAAAAAAAAAAAAAAAAAAACoiilmWT6qo0LvcRZS9AAAAAAAAAAAAAAAAAAAAAACpihln2WVmNBgxFlL0AAAAAAAAAAAAAAAAAAAAAAKmPPSyKsmZO2AYiyl6AAAAAAAAAAAAAAAAAAAAAAFVFDLOss9TWgMRYy9AAAAAAAAAAAAAAAAAAAAAACqiglnWW1lUVs16LecxYS9AAAAAAAAAAAAAAAAAAAAAACqjzsveyWsGIJ63edidL0AAAAAAAAAAAAAAAAAAAAAAKqPPy2NlnZrYrMonS9AAAAAAAAAAAAAAAAAAAAAACpjz2b3q2uZGprbtGSbL0AAAAAAAAAAAAAAAAAAAAAAKmKGWxssrMWYraUTZegAAAAAAAAAAAAAAAAAAAAABUyUU1YWWNkMhxdaImL0AAAAAAAAAAAAAAAAAAAAAAKmKCWTXdKnNgL7rpjMTF3AAAAAAAAAAAAAAAAAAAAAAKmSjzqw1LGxZldhEtdwAAAAAAAAAAAAAAAAAAAAACpihze9WdzJ03jIJS7gAAAAAAAAAAAAAAAAAAAAAFTFJLZVYXODcyCSu4AAAAAAAAAAAAAAAAAAAAABVSUc1Z1Pua2XUnnMta3AAAAAAAAAAAAAAAAAAAAAAIKVMuy5SizrnHE9TvN7WwAAAAAAAAAAAAAAAAAAAAABWSeRzruXmpMTvQEldgAAAAAAAAAAAAAAAAAAAAACIlbHJZRNsGTBJXYAAAAAAAAAAAAAAAAAAAAAAiJzNzIoIEldgAAAAAAAAAAAAAAAAAAAAACEmpvQGRAkrsAAAAAAAAAAAAAAAAAAAAAAQkGaAzGQSF2AAAAAAAAAAAAAAAAAAAAAAIiDFDJkCJC7AAAAAAAAAAAAAAAAAAAAAAENMisGTIESVyAAAAAAAAAAAAAAAAAAAAAAQkyZrAMmQSZcgAAAAAAAAAAAAAAAAAAAAEc4hM0MiswBJl2AAAAAAAAAAAAAAAAAAAABxIqZXKKzSM1kyYMZu5udgAAAAAAAAAAAAAAAAAAADick0rIFDeMmtIG5IlAAAAAAAAAAAAAAAAAAAAA1NK4poZNjoZMmTpKAAAAAAAAAAAAAAAAAAAAAIpGBsmFyZOpJNgAAAAAAAAAAAAAAAAAAAAAYK81MmQZMglHUAAAAAAAAAAAAAAAAAAAAAHMjHNM1sZMBesdzYAAAAAAAAAAAAAAAAAAAAAGDU5mpgybG5uZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/xABLEAABAwIDBQYBBggKCwAAAAABAgMEABEFEiEGEzEyQRAzUFFhcSIUFSCBocEjJkRygqLC0RYlNHB0g5GUsuI2QkZSVFVWkpOx0v/aAAgBAQABPwD+bxbiGhdagmkSGnFZULBPl4otWRtSrXsOFPPuOtJWpCQAajKWXUuDLoDUSSZAXdIBSbaeJvdyv2parRuqvQCohNuqaw3i/fjn8TmyEMsLTcFZGgqXjqEAtBfxJ4lAzVGxtCOdxavVSUgVhEpshd1AZzdJvx8RdeQwgrcUEipmPtgENHKPtqdiTr9wk2FKCypZsdR5Uc6mymyv7DUKa/GVpw8jwqBjtgAo/onWos5mWPgVr5Hw4myTWMbdYizM0gZ+YZ3SqkbdYyv8vP6EYfup7bLHSg7vE5gP5gT91DbHaPrik2sN282iYOQvmRmPF8BZpjbrHF8WGD/VUdtcX6wox/Qpe3+JMzUJOGI92yoVsxiK8VwFiU4laVLvcL4+Gq5DW2ePYe+thtl1bjqM4NkG1DFSQLz0cvRofvp7EQtpV5Zd+HlDYFIlJHnUWYgPo48ai4i11Qr+yl4i30bVw8qhY7Dg4207IS9YDom4rZuU1NwVp9hV21kkeGq5TWObNQ54DhaGZCFdbDgbE1/B6Ky0znk7OjMhJ0Wr/wCqTg2DXInTcEW35NLym/uVVE2W2cmFaIYiPqRqoNP5iBTOxWEoWCISKZ2Xw5PCIijs1BP5Ij/uNL2Ow9cpDy4yKwOK3EwtDLWiATYeGngakpuyuwB+BWhOh0Oh9KcwyQhqNbBNnWvgT19PzahwFqfIlwsFDeX8mGZd/rFNQ2Wblplps9ShsJppu5FNN0UUtOiPasP0iJ+vw08DUpvOw4CCboUMt+a4OlDAMjDJGyEVHwJ5paTWG4SYkkuHBIsD4SN6y4FK9uAoNUhuxuSLDUmg6whpLrkhlDS9ErLgCVeVjwNLasDTzQDmhNQRaKnw6Um8Z0BJVdtfwjir4ToKGGtiMx+KU/u08Zv711FZXAdL0XZaU2sjLczEfeqhiOJ/9PP/AN7aqdC+fMIdRicSRES1mXuBIH4aydMxTxT6UzDhT0YPFntoXGbwVbrbZ4BXVXuK2fK17MYaXjdZjIp/nqHpGT4dLF4zuhV8C9E8TodB60GGQw1/F20/Ini6fL8+sKabTLJRExhg5OaaslHsLqOtBNbpLiVIWMyVApI8wdDTuzWEzIEaE/CSuPFFmUZjdA8rg3rIEICUABKRZIA0AFP95UX+Tp8OnaQ3rkgbtfLx4Hh60ktbhoiVtZyDihXl7VhRbMpWR/G3Dk4TkkI+q4GvYjmpul093lRu4T4dONobxuRZtfxDiNDqPWm5bQYa/GXGeRPNE/yVFvOdLUbaXElrAzEKipT9pRUKFIilZfxKTNChol5CAE+oygUnmpul093lR+4R4dOVaE+cxRZtZzgcuh1pvGkbhv8AG/8A1BzwBWF4gJclbYx1GIWTfciOGyPW/YnmpulU9qumO4T4dPOWE+oqCLNqObjl0Otqbxsllu21eGH4RzxgP2qi40znPyzH8Jfb6BuyCD7lRoY1hXTFIP8AeE1OeM7Di/huMsxWGyVPSWgl3QDUDoDUbFscn4QwRMER9qCqY45uQS9ZVkAg8ARqajSTJw+PIIALzSVkDzIvS9TTHcp8On6QnzcCzaviULgaHUjqKRMecZbti2zrmg5k/wCaoKd+tYf+ZH05dPkqAVfXe9CHG/4SN/4U/urHcCexWMxHhvRYzCHd48ytn4HvIEJtUvAZ81AWcTYZluMGNJW2x+DW2TplST8JFIbQzHbZbByNICE+wFqVzUx3KfDp1xCfIKQQ2qxXyjTr6Ujfutp/0We0rDWHG3lqXEwlm6bZ4XMffQaV07TShrTHcp8OnfyKRy92rn5eHX0pMGU40n+KNmZGg5F2/ZpiNiMFZcjbOYY0VCxUzLCL/qVCenPFwTYLcUDkKJAdzfYLfQVzUx3KfDp2sKTyd2rn5Tp19K+aluNovs5hL2g7l8J/ZrC4HyR9xXzKjD7otnQ+HM/pbtHYRrTPcp8OnawpGiD+DVos2SdOBPlRwW4F9k4i/ViYE/cKwiAIzrpGDuwCUgXMnehXoBc1lPkax3EZuFQzIiQWpKW0qW6XX90EAD7TUzat5uMh+DhhfCYqJckOryFpCug81UlQW2laDdKkhQ9iL0qme5T4dOGeBJTkSu7ahlWbJVpwJ6A0cAa0vsrk9WJ9vvFRMDivFYXCxWFl4FU9Vj7WUaGzsTpKxT+/OVjsBQwg4cxhUvFUOBVlrkglpfQkqN6fwbHURCwkNTHZsJuLIkKdCd2tPMv1FqabDTSG0nRCQgH2FqXTPcp8OnDNBkgIDl21DIo2CtOBPShhgY/2Zms+saf/AJhWFIShblo+KMaDSavMn9H4j2HsFLpnuk+3h09JXAlJDYcJbUA2TbPpwv0owwzxwDGo39Em5/26hz0QSsmHtK5n6PtF0JqFPRPDmRiW1kNj8pYLd/a/Gj2ClUz3Sfbw6ejPAkoDYdzNqG7Jtm9L9KMUMccKx+L/AEWVvB/jrCTq7rjHTSeP8NGjQoUaZ7pPt4diCc+HSkhve3bUN3fLm9L9KVGDH5DtJE9Iz+8T/iNYQsLL1nsVXw0xBvLl9tB2YlijGGfJg+HVrkvBhpDSMylKP3ViW08LCp/yV5qU4UZd+60i6I+Y2TnNAWNGme6T7eHYije4dKRut7mbUN3e2f0v0r5ImNoI208P0YfLqP8A2qokZ+UFBjGsZbycRKYRf9ZAr5txPpj7/wBcNo1j+F4zpMjLamORYTiELWS25nVxWlKRbNanYs9cV+H8gluOYm1FIfy/CkpAC94ehFAdAeAtRpruk+3h2II3mHSkBve5m1Dd3y5vS/SltBg6sbTRPRhzeoH2qrCHw6HgJk+Ra2kxjIUe3wi/aKTRpruk+3h2Ioz4bLRut7mbUN3fLn9L9K7iwMXaeH6Mr3yB9qqi49CiZxLxKe55CVDWko+sIFQsRiYk2tyG8HUIVkUcpFj5agdgodjfdp9vDsSRnw6UgNB7M2obvNlz+l+nvS29we62kh+jK98gfaqsHkl4PWnTZOUgWksbpSP1RelEq4kmgOwdjfdp9vDsSRnw6Ukthy7ahkUrKFel+nvW7MXQxdo4fow7v0D7VVhT2+Q6PlkyTkI0lMbpSP1RfsxPaGBg7yGZa3i8tGdLbLCnVEeyQae2mw9jFWsPWX984UoKw0d22tQulK1dCacmxI7obflx2lFQQErdAJUeAtfiawqcvEYPyhxoNEuuICRrolRSDSO7HhzraHm3G3UBbawUqQoXCgeINHZ6OyAmJLxKGPJiUq39ir182Ygjusfl/wBcw0v7hQhYx/zpk+8BP3KrahYiPIeizJg2jbYQhkMMHJJ15SLEU9GlLxReGLhPB57Em5qngg7oICASc3uLWqPso8thtacKbbfXGQVlwAEOh/MbnzyVgcTEYTT7M5cYshxZY3VyshSiSVk6deApHIPDpzjjMCU6wLuoaWpA81AEisExDcYnDaYxdeJNzGl78OrJ3TqUBeZHkDeoe1swoIkw2LrYQ6yUlaASpeSxCuIHHMmsOxN2TKlwpccMTYoClIQvOhaVcqkn94qE/IehtrkxzEeUPjYKwvJ9Y0NdLXNu1HIPDup96j4JhkCa7LiQWGZDtwtaR0JuQB0vQ2YwmxtFKSUZEqDirtpveyP93UA6Vh+FRsNLymA4p58gvPPLK3HLcLqP0Ucifbw7qaXxoDSh2jsRyDw48xpdD6SeQeHHmNEfQHanlHhx5j9M0nlHhx5z9M0nlHhx5z7/AER2Gk8o8MckWJSgXPn0orUrmUTQofQHakgpHhckkN6cDxodoP0bVoKFB1Y6g0l8HmBHhS2Eq4aGlMrT0v6jsAq3aE9hAv2Wppu5ufDFISrmANFhNOfgzbjWYUFgUHU0gFab1uzQaNBvzPhr0kpUUotpxNFxSuZRNJ7L0KBWnlURSJKxooXpCgtNx4c4mzq/erUkVastAUB2MJKUa9fDVXpxJJuONZ7cwNBSPMUKtWgr2ptvqaA8OKAaLANGMK+SihGFBgCktgUB/N1//8QAIxEBAAIBBAICAwEAAAAAAAAAAQARUAIQQWEgURIhMWBwcf/aAAgBAgEBPwD+51lTLGlZTk/uGmGyDKTIVA7nxnwIaalT4x0RKx2kS7l9wdh2JrbKIFY41VcNfcNfcNdz5M+TDXHW49gvuD3L8OcgD6hvYQyIdQE4lvqVZ9w4mn8GRDqB1vRCGQCHgZEgdwNzIj3B78DIj3L7lnuLZ9MtSH2QyA9w2S46VgQyBDxMgT79QvwMhXUDrxMhXUDrZUjr2MfxA6gSon1VSnYx/EDqGxuY/iV1Bgw3MfxsbG5j+Nja6jqByPGx/sp9xH8ynI8bGxkuNhIN5PjYynGxtYSy62GzIVKfcp9xnUNMCsgQ1MHiGTAnxIFZQyx+4mWMsQ/ql+Fy5ePP3D6/uP8A/8QAIhEAAgICAQQDAQAAAAAAAAAAAREAUBBhIAIhMYFRYICQ/9oACAEDAQE/APy84CLcFRi2cBryQeCz0hGwWotRRRCKDp+zPds9z3EPmDt4wfNqCbYWfrIslqLWRZLUWojBEBagqP7T7tXvIshHuE4AgFiI9xxweXGLER7tRbDBy7EcAHB0mCwGWPiAjxGLEcRYjKVmLYcAHF2snjtBHHYCERWrMZ/tn//Z"
 
 /***/ }),
-/* 293 */
+/* 294 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/ppr_embedded_setup.9705b030.jpg";
 
 /***/ }),
-/* 294 */
+/* 295 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/psoc_entire_system.3a7e6a8d.mp4";
 
 /***/ }),
-/* 295 */
+/* 296 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/sensors_data_stream.6a69e32b.mp4";
 
 /***/ }),
-/* 296 */
+/* 297 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/psoc_motors_control.16fb46da.mp4";
 
 /***/ }),
-/* 297 */
+/* 298 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33580,126 +33586,166 @@ module.exports = __webpack_require__.p + "static/media/psoc_motors_control.16fb4
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NucorInternship_Introduction__ = __webpack_require__(298);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NucorInternship_Ideation__ = __webpack_require__(300);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NucorInternship_Calculations__ = __webpack_require__(302);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__NucorInternship_DesignOverview__ = __webpack_require__(305);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NucorInternship_Introduction__ = __webpack_require__(299);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NucorInternship_Ideation__ = __webpack_require__(301);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NucorInternship_Calculations__ = __webpack_require__(303);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__NucorInternship_DesignOverview__ = __webpack_require__(306);
 function Nucor(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"nucor",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Nucor Steel Indiana: Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},"Redesigning a pneumatics assembly vital to a steel pickling line at Nucor Steel Indiana's sheet mill."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul",{className:" my-8 text-white list-none"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Company:")," Nucor Corporation "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Internship Duration:")," May 2023 \u2014 July 2023 ( 10 weeks ) "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Skills:")," Autodesk Inventor, AutoCAD ")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__NucorInternship_Introduction__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__NucorInternship_Ideation__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__NucorInternship_Calculations__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__NucorInternship_DesignOverview__["a" /* default */],null)));};
 
 /***/ }),
-/* 298 */
+/* 299 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NucorAssets_pickle_line_jpg__ = __webpack_require__(299);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NucorAssets_pickle_line_jpg__ = __webpack_require__(300);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NucorAssets_pickle_line_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__NucorAssets_pickle_line_jpg__);
 var Introductions=[{intro:"In Nucor's Crawfordsville mill, steel coils undergo a process called pickling."},{intro:"The steel is unwound and goes through a pickle line, where it is bathed in hydrochloric acid."},{intro:"When the steel exits this pickle line, knives on the side of the line decrease its width."},{intro:"During this, there is a possibility for the sheet to buckle as the knives press on the edge."},{intro:"To prevent this, a pneumatic cylinder applies pressure to the steel as it is being trimmed."},{intro:"This pneumatic cylinder pushes against a pivot arm with a wheel at the end, rotating the arm to press the wheel against the steel."}];var Objectives=[{obj:"Have the pneumatic cylinder apply force over a greater area on the steel, while maintaining equal/greater pressure."},{obj:"Allow the operators on the pickle line to rotate the wheel higher up, reaching at least 8 inches above the sheet."},{obj:"Improve the replaceability of the hardware in this system."}];var Introduction=function Introduction(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-row my-8"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold my-4"},"Introduction"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc text-white text-md mr-4"},Introductions.map(function(intros){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},intros.intro);})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-200 font-bold my-4"},"Objectives"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc text-green-200 text-md mr-4"},Objectives.map(function(objs){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},objs.obj);}))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col ml-4 w-96 h-1/2 bg-green-400 px-4 py-4 rounded-lg"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg ",alt:"pickleline",src:__WEBPACK_IMPORTED_MODULE_1__NucorAssets_pickle_line_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-md my-2"},"A coil at Nucor Steel Gallatin's pickling line \u2014 image from Millenium Steel article")));};/* harmony default export */ __webpack_exports__["a"] = (Introduction);
 
 /***/ }),
-/* 299 */
+/* 300 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/pickle_line.db953192.jpg";
 
 /***/ }),
-/* 300 */
+/* 301 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NucorAssets_ideationAutoCAD_png__ = __webpack_require__(301);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NucorAssets_ideationAutoCAD_png__ = __webpack_require__(302);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NucorAssets_ideationAutoCAD_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__NucorAssets_ideationAutoCAD_png__);
 var Ideation=function Ideation(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col my-8"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold my-4"},"Ideation in AutoCAD"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg mt-4",alt:"ideationAutoCAD",src:__WEBPACK_IMPORTED_MODULE_1__NucorAssets_ideationAutoCAD_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-green-400 text-md mx-auto my-4"},"Rough drawing of redesign: Cylinder applies force farther from the axis of rotation, allowing it to exert greater torque. ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"Cylinder's location set at the top of the support frame makes it easier for operators to replace it, unlike before where it was below. ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"As the cylinder extends, it rotates like a crank; The purple dashed line shows the orientation it will be in at its full extension."));};/* harmony default export */ __webpack_exports__["a"] = (Ideation);
 
 /***/ }),
-/* 301 */
+/* 302 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/ideationAutoCAD.989fed0e.png";
 
 /***/ }),
-/* 302 */
+/* 303 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NucorAssets_calculations1_png__ = __webpack_require__(303);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NucorAssets_calculations1_png__ = __webpack_require__(304);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NucorAssets_calculations1_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__NucorAssets_calculations1_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NucorAssets_calculations2_png__ = __webpack_require__(304);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NucorAssets_calculations2_png__ = __webpack_require__(305);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NucorAssets_calculations2_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__NucorAssets_calculations2_png__);
 var Calculations=function Calculations(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col my-8"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold my-4"},"Hand Calculations: Determining Required Cylinder Force"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg w-1/2 mt-4 mx-auto",alt:"calculations1",src:__WEBPACK_IMPORTED_MODULE_1__NucorAssets_calculations1_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-green-400 w-1/2 text-md mx-auto my-4"},"Determining independent variables for this system: ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"F_cylinder is the force exerted, and x is the distance the force acts from the axis of rotation."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg w-3/4 mt-4 mx-auto",alt:"calculations2",src:__WEBPACK_IMPORTED_MODULE_2__NucorAssets_calculations2_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-green-400 w-3/4 text-md mx-auto my-4"},"Calculating the required F_cylinder, based on roller width, given distance from the axis of rotation."));};/* harmony default export */ __webpack_exports__["a"] = (Calculations);
-
-/***/ }),
-/* 303 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/calculations1.b175c340.png";
 
 /***/ }),
 /* 304 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/calculations2.5566819a.png";
+module.exports = __webpack_require__.p + "static/media/calculations1.b175c340.png";
 
 /***/ }),
 /* 305 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/calculations2.5566819a.png";
+
+/***/ }),
+/* 306 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react_router_dom__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NucorAssets_cad_graphic_png__ = __webpack_require__(306);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NucorAssets_cad_graphic_png__ = __webpack_require__(307);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NucorAssets_cad_graphic_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__NucorAssets_cad_graphic_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NucorAssets_fea_graphic_png__ = __webpack_require__(307);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NucorAssets_fea_graphic_png__ = __webpack_require__(308);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NucorAssets_fea_graphic_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__NucorAssets_fea_graphic_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NucorAssets_technicalDrawing_graphic_png__ = __webpack_require__(308);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NucorAssets_technicalDrawing_graphic_png__ = __webpack_require__(309);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NucorAssets_technicalDrawing_graphic_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__NucorAssets_technicalDrawing_graphic_png__);
 var DesignOverview=function DesignOverview(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold mt-4 mb-16"},"Design Overview"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-wrap justify-center"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_react_router_dom__["b" /* Link */],{to:"/nucor/nsincad",className:"w-72 border-4 border-green-400 rounded-lg"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex relative"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{alt:"gallery",className:"absolute inset-0 w-full h-full object-cover object-center rounded",src:__WEBPACK_IMPORTED_MODULE_2__NucorAssets_cad_graphic_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"px-8 py-48 relative w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100 rounded text-center"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h2",{className:"tracking-widest text-lg font-medium text-green-400 mb-1"},"Computer Modeling")))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_react_router_dom__["b" /* Link */],{to:"/nucor/nsinfea",className:"w-72 border-4 border-green-400 rounded-lg mx-8"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex relative"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{alt:"gallery",className:"absolute inset-0 w-full h-full object-cover object-center rounded",src:__WEBPACK_IMPORTED_MODULE_3__NucorAssets_fea_graphic_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"px-8 py-48 relative w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100 rounded text-center"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h2",{className:"tracking-widest text-lg font-medium text-green-400 mb-1"},"Failure Analysis")))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_react_router_dom__["b" /* Link */],{to:"/nucor/nsindrawing",className:"w-72 border-4 border-green-400 rounded-lg"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex relative"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{alt:"gallery",className:"absolute inset-0 w-full h-full object-cover object-center rounded",src:__WEBPACK_IMPORTED_MODULE_4__NucorAssets_technicalDrawing_graphic_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"px-8 py-48 relative w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100 rounded text-center"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h2",{className:"tracking-widest text-lg font-medium text-green-400 mb-1"},"Technical Drawings"))))));};/* harmony default export */ __webpack_exports__["a"] = (DesignOverview);
-
-/***/ }),
-/* 306 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/cad-graphic.d7906841.png";
 
 /***/ }),
 /* 307 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/fea-graphic.8d405d55.png";
+module.exports = __webpack_require__.p + "static/media/cad-graphic.d7906841.png";
 
 /***/ }),
 /* 308 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/technicalDrawing-graphic.a9e74dd7.png";
+module.exports = __webpack_require__.p + "static/media/fea-graphic.8d405d55.png";
 
 /***/ }),
 /* 309 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/technicalDrawing-graphic.a9e74dd7.png";
+
+/***/ }),
+/* 310 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (immutable) */ __webpack_exports__["a"] = Medsnake;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Medsnake_Assets_medsnake_accessing_chest_demo_png__ = __webpack_require__(310);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Medsnake_Assets_medsnake_accessing_chest_demo_png__ = __webpack_require__(10);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Medsnake_Assets_medsnake_accessing_chest_demo_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Medsnake_Assets_medsnake_accessing_chest_demo_png__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__heroicons_react_solid__ = __webpack_require__(1);
-function Medsnake(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"medsnake",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-cyan-400"},"Medical Snake"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul",{className:" my-8 text-white list-none"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," In association with:")," The Biorobotics Laboratory at Carnegie Mellon University "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Project Duration:")," August 2023 \u2014 Present "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Skills:")," Robot Operating System (ROS1 Noetic Ninjemys) ")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:" my-2 text-2xl text-white font-bold"},"Overview"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"my-2 rounded-lg border-2 border-cyan-400",alt:"Demo of Medsnake accessing the snake",src:__WEBPACK_IMPORTED_MODULE_1__Medsnake_Assets_medsnake_accessing_chest_demo_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-cyan-400 text-lg font-bold"},"The Medical Snake is an ongoing robotic project, utilized for minimally invasive surgery. Currently, the goal for this robot is to prove that it is able to perform in situ tissue engineering, by accessing a patient's aorta and deploying an extracellular matrix to strengthen it."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:" my-2 text-2xl text-white font-bold"},"Project Responsibility: Tracking the Medical Snake"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:" my-2 text-2xl text-white font-bold"},"Medical Snake Graphical User Interface"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:" my-2 text-2xl text-white font-bold"},"Electromagnetic Tracking Demo in ROS")));}
-
-/***/ }),
-/* 310 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/medsnake_accessing_chest_demo.b2b8c819.png";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Medsnake_Assets_em_tracker_path_mp4__ = __webpack_require__(311);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Medsnake_Assets_em_tracker_path_mp4___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__Medsnake_Assets_em_tracker_path_mp4__);
+var Medsnake_Assets=importAll(__webpack_require__(312));function importAll(r){var images={};r.keys().forEach(function(item,index){images[item.replace('./','')]=r(item);});return images;}function Medsnake(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"medsnake",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-cyan-400"},"Medical Snake"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul",{className:" my-8 text-white list-none"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," In association with:")," The Biorobotics Laboratory at Carnegie Mellon University "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Project Duration:")," August 2023 \u2014 Present "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Skills:")," Robot Operating System (ROS1 Noetic Ninjemys) "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"text-red-400"}," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Note:")," This is an ongoing project I started mid-August of 2023, that I will continue to build upon during the semester as part of a 2-semester project I plan to present to ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a",{className:"text-red-100",target:"_blank",href:"https://www.cmu.edu/uro/MoM/"},"Meeting of the Minds"),", a CMU Undergrad Research Symposium. ")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:" my-2 text-2xl text-white font-bold"},"Overview"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"my-2 rounded-lg border-2 border-cyan-400",alt:"Demo of Medsnake accessing the snake",src:__WEBPACK_IMPORTED_MODULE_1__Medsnake_Assets_medsnake_accessing_chest_demo_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-cyan-400 text-lg font-bold"},"The Medical Snake is an ongoing robotic project, utilized for minimally invasive surgery. Currently, the goal for this robot is to prove that it is able to perform in situ tissue engineering, by accessing a patient's aorta and deploying an extracellular matrix to strengthen it."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mb-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:" my-2 text-2xl text-white font-bold"},"Project Responsibility: Tracking the Medical Snake"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-row"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pr-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4 border-2 border-cyan-400",alt:"InitialBottom",src:Medsnake_Assets['em_tracking_hardware.jpg']}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Electromagnetic Tracker Hardware")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4 border-2 border-cyan-400",alt:"InitialTop",src:Medsnake_Assets['medsnake_gui.jpg']}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"ROS Graphical User Interface"))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg my-4 "},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Electromagnetic Tracking Setup: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"For the hardware, there are 3 main components: The electronics unit, the transmitter, and the sensor. The transmitter, labeled \"EM Tracker\" in the image, emits an electromagnetic field that the sensor, the thin coil, is sensitive to. The electronic unit is able to detect this sensor's position in space, relative to the an origin frame which we have configured to be the position of the transmitter."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mb-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:" my-2 text-2xl text-white font-bold"},"Electromagnetic Tracking Demo in ROS"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("video",{className:"my-2 max-w-full rounded-lg border-2 border-cyan-400",controls:true},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("source",{src:__WEBPACK_IMPORTED_MODULE_3__Medsnake_Assets_em_tracker_path_mp4___default.a,type:"video/mp4"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg my-4 "},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Electromagnetic Tracking of the Sensor (Collaborator: ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a",{className:"text-yellow-400",target:"_blank",href:"https://xiangfan.io/"},"Xiang Fan"),"): ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"The static coordinate frame represents the position of the transmitter, and the coordinate frame which is moving represents the sensor. In the future, this sensor will be mounted to the tip of the snake, so we are able to track it's exact position. ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"This visual is generated by a ROS visualization tool named RViz, where a node (script) is listening to the data being sent from the EM tracking unit, and it passes position data of the sensor to another node responsible for drawing markers in RViz at each position that the unit records.")));}
 
 /***/ }),
 /* 311 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/em_tracker_path.c6c61ee6.mp4";
+
+/***/ }),
+/* 312 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var map = {
+	"./em_tracking_hardware.jpg": 313,
+	"./medsnake.png": 8,
+	"./medsnake_accessing_chest_demo.png": 10,
+	"./medsnake_gui.jpg": 314
+};
+function webpackContext(req) {
+	return __webpack_require__(webpackContextResolve(req));
+};
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) // check for number or string
+		throw new Error("Cannot find module '" + req + "'.");
+	return id;
+};
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 312;
+
+/***/ }),
+/* 313 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/em_tracking_hardware.cdcbdf61.jpg";
+
+/***/ }),
+/* 314 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/medsnake_gui.3c25388d.jpg";
+
+/***/ }),
+/* 315 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33707,94 +33753,94 @@ module.exports = __webpack_require__.p + "static/media/medsnake_accessing_chest_
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__AssistiveTechAssets_earlyIdeation1_jpg__ = __webpack_require__(312);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__AssistiveTechAssets_earlyIdeation1_jpg__ = __webpack_require__(316);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__AssistiveTechAssets_earlyIdeation1_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__AssistiveTechAssets_earlyIdeation1_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__AssistiveTechAssets_earlyIdeation2_jpg__ = __webpack_require__(313);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__AssistiveTechAssets_earlyIdeation2_jpg__ = __webpack_require__(317);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__AssistiveTechAssets_earlyIdeation2_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__AssistiveTechAssets_earlyIdeation2_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__AssistiveTechAssets_stewartPlatform_gif__ = __webpack_require__(314);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__AssistiveTechAssets_stewartPlatform_gif__ = __webpack_require__(318);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__AssistiveTechAssets_stewartPlatform_gif___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__AssistiveTechAssets_stewartPlatform_gif__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__AssistiveTechAssets_accelerometer_jpg__ = __webpack_require__(315);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__AssistiveTechAssets_accelerometer_jpg__ = __webpack_require__(319);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__AssistiveTechAssets_accelerometer_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5__AssistiveTechAssets_accelerometer_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__AssistiveTechAssets_universal_joint_jpg__ = __webpack_require__(316);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__AssistiveTechAssets_universal_joint_jpg__ = __webpack_require__(320);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__AssistiveTechAssets_universal_joint_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6__AssistiveTechAssets_universal_joint_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__AssistiveTechAssets_computerModelViews_jpg__ = __webpack_require__(317);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__AssistiveTechAssets_computerModelViews_jpg__ = __webpack_require__(321);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__AssistiveTechAssets_computerModelViews_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7__AssistiveTechAssets_computerModelViews_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__AssistiveTechAssets_computerModelIsometric_jpg__ = __webpack_require__(318);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__AssistiveTechAssets_computerModelIsometric_jpg__ = __webpack_require__(322);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__AssistiveTechAssets_computerModelIsometric_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_8__AssistiveTechAssets_computerModelIsometric_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__AssistiveTechAssets_proof_of_concept_png__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__AssistiveTechAssets_proof_of_concept_png__ = __webpack_require__(9);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__AssistiveTechAssets_proof_of_concept_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_9__AssistiveTechAssets_proof_of_concept_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__AssistiveTechAssets_assistive_tech_demo_mp4__ = __webpack_require__(319);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__AssistiveTechAssets_assistive_tech_demo_mp4__ = __webpack_require__(323);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__AssistiveTechAssets_assistive_tech_demo_mp4___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_10__AssistiveTechAssets_assistive_tech_demo_mp4__);
 var developedIdeation=["Inspiration: Stewart Platform","Rotational Adjustment: Servomotors","Control: Arduino","Vital Components: Universal Joint, Accelerometer, Arduino Bluetooth Module (Allows for remote control from Phone)"];var vitalComponents=[];function AssitiveTech(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"medsnake",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-cyan-400"},"Product Development: Assistive Technology"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul",{className:" my-8 text-white list-none"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Course:")," Engineering Design I: Methods and Skills (Course ID: 24-370) "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Project Duration:")," October 2022 \u2014 December 2022 "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Skills:")," SolidWorks, Arduino ")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Introduction"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul",{className:"my-4 text-white list-none"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Goal:")," Redesign some everyday appliance to accommodate a disabled population. "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Chosen Device:")," Tripod "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Chosen Disability:")," Cerebral Palsy. ")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Early Ideation"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-row"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pr-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg border-2 border-cyan-400 my-4",alt:"InitialTop",src:__WEBPACK_IMPORTED_MODULE_2__AssistiveTechAssets_earlyIdeation1_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Early Ideation: Concept 1")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pl-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg border-2 border-cyan-400 my-4",alt:"InitialBottom",src:__WEBPACK_IMPORTED_MODULE_3__AssistiveTechAssets_earlyIdeation2_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Early Ideation: Concept 2"))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-8 text-white text-lg"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Conceptualization: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"Our prototype wouldn't actually change a tripod; Instead, it will act as an attachment to the top of a tripod. Then, the projector will fit on top of the prototype. We envisioned a multi-platform system that imitates a Stewart Platform (shown below), using servomotors to adjust the orientation of a tripod."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Developed Ideation"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc my-8 text-white font-bold text-md"},developedIdeation.map(function(idea){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},idea);})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-row mx-auto mb-8 "},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pr-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4 border-2 border-cyan-400 h-full",alt:"InitialTop",src:__WEBPACK_IMPORTED_MODULE_4__AssistiveTechAssets_stewartPlatform_gif___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Stewart Platform")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pl-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4 border-2 border-cyan-400 h-full",alt:"InitialBottom",src:__WEBPACK_IMPORTED_MODULE_5__AssistiveTechAssets_accelerometer_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Accelerometer")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pl-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4 border-2 border-cyan-400",alt:"InitialBottom",src:__WEBPACK_IMPORTED_MODULE_6__AssistiveTechAssets_universal_joint_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Universal Joint"))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Further Brainstorming: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"We designed around an off-the-shelf universal joint. The joint transmits rotary motion in roll and pitch, while preventing yaw. It is also strong enough to support the weight of any projector. ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"Another important component is the accelerometer: When the accelerometer is level to the floor, it will read the acceleration on the z-axis essentially matches gravitational acceleration, while the acceleration on the other two axes are close to zero. From the output, the Arduino will know when to stop the servos from rotating."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Computer Modeling"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"my-8 rounded-lg border-2 border-cyan-400",alt:"Demo of Medsnake accessing the snake",src:__WEBPACK_IMPORTED_MODULE_7__AssistiveTechAssets_computerModelViews_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"mt-8 rounded-lg border-2 border-cyan-400",alt:"Demo of Medsnake accessing the snake",src:__WEBPACK_IMPORTED_MODULE_8__AssistiveTechAssets_computerModelIsometric_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"my-4 font-semibold text-cyan-400 mx-auto"},"SolidWorks Model of Prototype installed on Tripod."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"my-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Manufactured Prototype"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"mt-8 rounded-lg border-2 border-cyan-400",alt:"Demo of Medsnake accessing the snake",src:__WEBPACK_IMPORTED_MODULE_9__AssistiveTechAssets_proof_of_concept_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Video Demonstration"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("video",{className:"my-8 max-w-full rounded-lg border-2 border-cyan-400",controls:true},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("source",{src:__WEBPACK_IMPORTED_MODULE_10__AssistiveTechAssets_assistive_tech_demo_mp4___default.a,type:"video/mp4"}))));}
-
-/***/ }),
-/* 312 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/earlyIdeation1.4b332460.jpg";
-
-/***/ }),
-/* 313 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/earlyIdeation2.1caaba4b.jpg";
-
-/***/ }),
-/* 314 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/stewartPlatform.625207b6.gif";
-
-/***/ }),
-/* 315 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/accelerometer.86d5ba3f.jpg";
 
 /***/ }),
 /* 316 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/universal_joint.c3a28231.jpg";
+module.exports = __webpack_require__.p + "static/media/earlyIdeation1.4b332460.jpg";
 
 /***/ }),
 /* 317 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/computerModelViews.e265b57a.jpg";
+module.exports = __webpack_require__.p + "static/media/earlyIdeation2.1caaba4b.jpg";
 
 /***/ }),
 /* 318 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/computerModelIsometric.e932ecc1.jpg";
+module.exports = __webpack_require__.p + "static/media/stewartPlatform.625207b6.gif";
 
 /***/ }),
 /* 319 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/assistive_tech_demo.8f3f7f6b.mp4";
+module.exports = __webpack_require__.p + "static/media/accelerometer.86d5ba3f.jpg";
 
 /***/ }),
 /* 320 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/universal_joint.c3a28231.jpg";
+
+/***/ }),
+/* 321 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/computerModelViews.e265b57a.jpg";
+
+/***/ }),
+/* 322 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/computerModelIsometric.e932ecc1.jpg";
+
+/***/ }),
+/* 323 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/assistive_tech_demo.8f3f7f6b.mp4";
+
+/***/ }),
+/* 324 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__importAll__ = __webpack_require__(321);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ComponentFeature__ = __webpack_require__(322);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_CAD_Assets_assem_demo_mp4__ = __webpack_require__(323);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__importAll__ = __webpack_require__(325);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ComponentFeature__ = __webpack_require__(326);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_CAD_Assets_assem_demo_mp4__ = __webpack_require__(327);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_CAD_Assets_assem_demo_mp4___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__NSIN_CAD_Assets_assem_demo_mp4__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__BeforeAfterGraphic__ = __webpack_require__(324);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__NSIN_CAD_Assets_completed_assembly_png__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__BeforeAfterGraphic__ = __webpack_require__(328);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__NSIN_CAD_Assets_completed_assembly_png__ = __webpack_require__(13);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__NSIN_CAD_Assets_completed_assembly_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5__NSIN_CAD_Assets_completed_assembly_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__SupportPlate__ = __webpack_require__(325);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__SupportPlate__ = __webpack_require__(329);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__ = __webpack_require__(1);
-var CAD_Assets=Object(__WEBPACK_IMPORTED_MODULE_1__importAll__["a" /* default */])(__webpack_require__(326));var feature1Explanation=[{logic:"A component"},{logic:"Placeholder"},{logic:"Placeholder"}];var feature2Explanation=[{logic:"Placeholder"},{logic:"Placeholder"},{logic:"Placeholder"}];var feature3Explanation=[{logic:"Placeholder"},{logic:"Placeholder"},{logic:"Placeholder"}];var feature4Explanation=[{logic:"Placeholder"},{logic:"Placeholder"},{logic:"Placeholder"}];var NSIN_CAD=function NSIN_CAD(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"CAD",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Computer Aided Design"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Association:")," Nucor Steel Indiana, Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Software Used:")," AutoCAD, Autodesk Inventor"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__BeforeAfterGraphic__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg text-green-400 mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Hold Down Roller System:")," Slide cursor across image to see before/after of this pickle line pneumatic system. The labeled sub-assemblies in the CAD representation will be explained further in this page."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:" mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #1: Pivot Arm + Roller Connection",src:CAD_Assets['feature1.png'],alt:"Subassembly #1",src1:CAD_Assets['slotted-c-channel.png'],hardware1:"Slotted C-Channel Pivot Arm",alt1:"Slotted C-channel",src2:CAD_Assets['4_bolt_face_bearing.png'],hardware2:"4-bolt Face Bearing",alt2:"4-bolt Face Bearing",src3:CAD_Assets['roller.png'],alt3:"Roller",hardware3:"Roller",information:feature1Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #2: Axis of Rotation",src:CAD_Assets['feature2.png'],alt:"Subassembly #2",src1:CAD_Assets['slotted-c-channel.png'],hardware1:"Slotted C-Channel Pivot Arm",alt1:"Slotted C-channel",src2:CAD_Assets['2_bolt_flange_bearing.png'],hardware2:"4-bolt Face Bearing",alt2:"2-bolt Flange Bearing",src3:CAD_Assets['pivot_axis.png'],alt3:"Roller",hardware3:"Pivot Axis",information:feature2Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #3: Pivot Arms Connection",src:CAD_Assets['feature3.png'],alt:"Subassembly #3",src1:CAD_Assets['slotted-c-channel.png'],hardware1:"Slotted C-Channel Pivot Arm",alt1:"Slotted C-channel",src2:CAD_Assets['clevis-c-channel.png'],hardware2:"C-Channel with Clevis",alt2:"2-bolt Flange Bearing",src3:CAD_Assets['clevis_pin.png'],hardware3:"Clevis Pin",alt3:"Roller",information:feature3Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #4: Pneumatic Cylinder",src:CAD_Assets['feature4.png'],alt:"Subassembly #3",src1:CAD_Assets['air-cylinder.png'],hardware1:"Pneumatic Cylinder",alt1:"Pneumatic Cylinder",src2:CAD_Assets['ball-joint-rod-end.png'],hardware2:"Ball Joint Rod End",alt2:"2-bolt Flange Bearing",src3:CAD_Assets['cylinder-back-mount.png'],hardware3:"Cylinder Mounting Piece",alt3:"Roller",information:feature4Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-bold my-8"},"Demonstration:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("video",{className:"max-w-full rounded-lg border border-green-400",controls:true},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("source",{src:__WEBPACK_IMPORTED_MODULE_3__NSIN_CAD_Assets_assem_demo_mp4___default.a,type:"video/mp4"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"my-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-bold my-8"},"Completed Inventor Model:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_5__NSIN_CAD_Assets_completed_assembly_png___default.a,alt:"Complete Assembly",className:"max-w-full rounded-lg border-2 border-green-400"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"my-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_6__SupportPlate__["a" /* default */],null)));};/* harmony default export */ __webpack_exports__["a"] = (NSIN_CAD);
+var CAD_Assets=Object(__WEBPACK_IMPORTED_MODULE_1__importAll__["a" /* default */])(__webpack_require__(330));var feature1Explanation=[{logic:"The groove at the end of the slotted C-channel, allows for the roller to slide in smoothly during assembly."},{logic:"The bearing attaches to the slotted C-channel afterwards, holding the roller in place, and allowing it to rotate frictionlessly."},{logic:"A c-channel is utilized, due to it's incredibly high strength per unit weight."}];var feature2Explanation=[{logic:"Previously, a shaft ran through the center of the pivot arm. This created the risk of the system shifting horizontally."},{logic:"Instead of a shaft, we've replaced it with an extrusion attached to a metal base, which is bolted onto the supporting frame."},{logic:"Bearings again help to support the rotation."}];var feature3Explanation=[{logic:"Connecting the two pivot arms is another c-channel."},{logic:"On the back of this c-channel lies a clevis, for a pin to slide into."},{logic:"This leads into the final sub-assembly."}];var feature4Explanation=[{logic:"The pneumatic cylinder has a ball joint bearing on its end, which lies concentric to the clevis pin sliding into the connector c-channel."},{logic:"The designed mounting piece allows the cylinder to rotate about it's rear axis as it extend/retracts, like a crankshaft, which is used to convert linear to rotary motion."}];var NSIN_CAD=function NSIN_CAD(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"CAD",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Computer Aided Design"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Association:")," Nucor Steel Indiana, Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Software Used:")," AutoCAD, Autodesk Inventor"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__BeforeAfterGraphic__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg text-green-400 mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Hold Down Roller System:")," Slide cursor across image to see before/after of this pickle line pneumatic system. The labeled sub-assemblies in the CAD representation will be explained further in this page."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:" mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #1: Pivot Arm + Roller Connection",src:CAD_Assets['feature1.png'],alt:"Subassembly #1",src1:CAD_Assets['slotted-c-channel.png'],hardware1:"Slotted C-Channel Pivot Arm",alt1:"Slotted C-channel",src2:CAD_Assets['4_bolt_face_bearing.png'],hardware2:"4-bolt Face Bearing",alt2:"4-bolt Face Bearing",src3:CAD_Assets['roller.png'],alt3:"Roller",hardware3:"Roller",information:feature1Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #2: Axis of Rotation",src:CAD_Assets['feature2.png'],alt:"Subassembly #2",src1:CAD_Assets['slotted-c-channel.png'],hardware1:"Slotted C-Channel Pivot Arm",alt1:"Slotted C-channel",src2:CAD_Assets['2_bolt_flange_bearing.png'],hardware2:"4-bolt Face Bearing",alt2:"2-bolt Flange Bearing",src3:CAD_Assets['pivot_axis.png'],alt3:"Roller",hardware3:"Pivot Axis",information:feature2Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #3: Pivot Arms Connection",src:CAD_Assets['feature3.png'],alt:"Subassembly #3",src1:CAD_Assets['slotted-c-channel.png'],hardware1:"Slotted C-Channel Pivot Arm",alt1:"Slotted C-channel",src2:CAD_Assets['clevis-c-channel.png'],hardware2:"C-Channel with Clevis",alt2:"2-bolt Flange Bearing",src3:CAD_Assets['clevis_pin.png'],hardware3:"Clevis Pin",alt3:"Roller",information:feature3Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #4: Pneumatic Cylinder",src:CAD_Assets['feature4.png'],alt:"Subassembly #3",src1:CAD_Assets['air-cylinder.png'],hardware1:"Pneumatic Cylinder",alt1:"Pneumatic Cylinder",src2:CAD_Assets['ball-joint-rod-end.png'],hardware2:"Ball Joint Rod End",alt2:"2-bolt Flange Bearing",src3:CAD_Assets['cylinder-back-mount.png'],hardware3:"Cylinder Mounting Piece",alt3:"Roller",information:feature4Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-bold my-8"},"Demonstration:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("video",{className:"max-w-full rounded-lg border border-green-400",controls:true},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("source",{src:__WEBPACK_IMPORTED_MODULE_3__NSIN_CAD_Assets_assem_demo_mp4___default.a,type:"video/mp4"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"my-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_6__SupportPlate__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-bold my-8"},"Completed Inventor Model:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_5__NSIN_CAD_Assets_completed_assembly_png___default.a,alt:"Complete Assembly",className:"max-w-full rounded-lg border-2 border-green-400"})));};/* harmony default export */ __webpack_exports__["a"] = (NSIN_CAD);
 
 /***/ }),
-/* 321 */
+/* 325 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33802,7 +33848,7 @@ var CAD_Assets=Object(__WEBPACK_IMPORTED_MODULE_1__importAll__["a" /* default */
 function importAll(r){var images={};r.keys().forEach(function(item,index){images[item.replace('./','')]=r(item);});return images;}/* harmony default export */ __webpack_exports__["a"] = (importAll);
 
 /***/ }),
-/* 322 */
+/* 326 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33812,58 +33858,58 @@ function importAll(r){var images={};r.keys().forEach(function(item,index){images
 function ComponentFeature(props){var key=Object.keys(props.information[0])[0];return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"my-8"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold my-8"},props.feature),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:props.src,alt:props.alt,className:"w-3/4 rounded-lg mx-auto mt-8 mb-4"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"my-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-xl text-white font-semibold"},"Hardware:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-row my-8 justify-center items-center"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col mx-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:props.src1,alt:props.alt1,className:"w-64 rounded-md"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-green-400 text-md mx-auto my-4"},props.hardware1)),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col mx-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:props.src2,alt:props.alt2,className:"w-64 rounded-md"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-green-400 text-md mx-auto my-4"},props.hardware2)),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col mx-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:props.src3,alt:props.alt3,className:"w-64 rounded-md"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-green-400 text-md mx-auto my-4"},props.hardware3))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"my-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-xl text-white font-semibold my-8"},"Sub-Assembly Logic:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc text-white text-md"},props.information.map(function(information){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},information[key]);})));}/* harmony default export */ __webpack_exports__["a"] = (ComponentFeature);
 
 /***/ }),
-/* 323 */
+/* 327 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/assem_demo.cf52da55.mp4";
 
 /***/ }),
-/* 324 */
+/* 328 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_nucor_system_png__ = __webpack_require__(9);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_nucor_system_png__ = __webpack_require__(11);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_nucor_system_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_nucor_system_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NSIN_CAD_Assets_full_assem_labeled_png__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NSIN_CAD_Assets_full_assem_labeled_png__ = __webpack_require__(12);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NSIN_CAD_Assets_full_assem_labeled_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__NSIN_CAD_Assets_full_assem_labeled_png__);
 var _slicedToArray=function(){function sliceIterator(arr,i){var _arr=[];var _n=true;var _d=false;var _e=undefined;try{for(var _i=arr[Symbol.iterator](),_s;!(_n=(_s=_i.next()).done);_n=true){_arr.push(_s.value);if(i&&_arr.length===i)break;}}catch(err){_d=true;_e=err;}finally{try{if(!_n&&_i["return"])_i["return"]();}finally{if(_d)throw _e;}}return _arr;}return function(arr,i){if(Array.isArray(arr)){return arr;}else if(Symbol.iterator in Object(arr)){return sliceIterator(arr,i);}else{throw new TypeError("Invalid attempt to destructure non-iterable instance");}};}();var BeforeAfterGraphic=function BeforeAfterGraphic(){var _useState=Object(__WEBPACK_IMPORTED_MODULE_0_react__["useState"])('50%'),_useState2=_slicedToArray(_useState,2),handlePosition=_useState2[0],setHandlePosition=_useState2[1];var handleDrag=function handleDrag(e){var containerRect=e.currentTarget.getBoundingClientRect();var handleX=e.clientX-containerRect.left;var newPosition=Math.max(0,Math.min(handleX,containerRect.width));var newPositionPercentage=newPosition/containerRect.width*100+'%';setHandlePosition(newPositionPercentage);var afterImage=e.currentTarget.querySelector('.after-image');afterImage.style.opacity=newPosition/containerRect.width;};return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"relative mt-8 mb-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-full h-[66.6666%] relative",onMouseMove:handleDrag},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_nucor_system_png___default.a,alt:"Before",className:"rounded-lg w-full h-full object-cover border-4 border-green-400"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_2__NSIN_CAD_Assets_full_assem_labeled_png___default.a,alt:"After",className:"rounded-lg absolute top-0 left-0 w-full h-full object-cover opacity-0 transition-opacity duration-300 after-image border-4 border-green-400"})));};/* harmony default export */ __webpack_exports__["a"] = (BeforeAfterGraphic);
 
 /***/ }),
-/* 325 */
+/* 329 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_simply_supported_plate_png__ = __webpack_require__(12);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_simply_supported_plate_png__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_simply_supported_plate_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_simply_supported_plate_png__);
-var SupportPlate=function SupportPlate(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-semibold my-8"},"Simply Supported Plate:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex items-center gap-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-1/3"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_simply_supported_plate_png___default.a,alt:"Image",className:"w-full h-auto border-2 border-green-400 rounded-lg"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-2/3"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white"},"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae ante eu lectus vehicula vestibulum vel vel urna."))));};/* harmony default export */ __webpack_exports__["a"] = (SupportPlate);
+var SupportPlate=function SupportPlate(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-semibold my-8"},"Simply Supported Plate:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex items-center gap-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-1/3"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_simply_supported_plate_png___default.a,alt:"Image",className:"w-full h-auto border-2 border-green-400 rounded-lg"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-2/3"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white"},"As the pneumatic cylinder pushes the roller against the steel sheet, the steel sheet will pus back on the roller, creating a moment about the base of the blue support frame. So, a simply supported steel plate sits between the supporting frame and a structure behind the frame to resist some of this moment."))));};/* harmony default export */ __webpack_exports__["a"] = (SupportPlate);
 
 /***/ }),
-/* 326 */
+/* 330 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./2_bolt_flange_bearing.png": 327,
-	"./4_bolt_face_bearing.png": 328,
-	"./air-cylinder.png": 329,
-	"./ball-joint-rod-end.png": 330,
-	"./clevis-c-channel.png": 331,
-	"./clevis_pin.png": 332,
-	"./completed-assembly.png": 11,
-	"./cylinder-back-mount.png": 333,
-	"./feature1.png": 334,
-	"./feature2.png": 335,
-	"./feature3.png": 336,
-	"./feature4.png": 337,
-	"./full_assem_labeled.png": 10,
-	"./nucor_system.png": 9,
-	"./pivot_axis.png": 338,
-	"./roller.png": 339,
-	"./simply-supported-plate.png": 12,
-	"./slotted-c-channel.png": 340
+	"./2_bolt_flange_bearing.png": 331,
+	"./4_bolt_face_bearing.png": 332,
+	"./air-cylinder.png": 333,
+	"./ball-joint-rod-end.png": 334,
+	"./clevis-c-channel.png": 335,
+	"./clevis_pin.png": 336,
+	"./completed-assembly.png": 13,
+	"./cylinder-back-mount.png": 337,
+	"./feature1.png": 338,
+	"./feature2.png": 339,
+	"./feature3.png": 340,
+	"./feature4.png": 341,
+	"./full_assem_labeled.png": 12,
+	"./nucor_system.png": 11,
+	"./pivot_axis.png": 342,
+	"./roller.png": 343,
+	"./simply-supported-plate.png": 14,
+	"./slotted-c-channel.png": 344
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -33879,106 +33925,106 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 326;
-
-/***/ }),
-/* 327 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/2_bolt_flange_bearing.b52ac45e.png";
-
-/***/ }),
-/* 328 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/4_bolt_face_bearing.dd9cbf58.png";
-
-/***/ }),
-/* 329 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/air-cylinder.e5cfb5a8.png";
-
-/***/ }),
-/* 330 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/ball-joint-rod-end.dc8e5b52.png";
+webpackContext.id = 330;
 
 /***/ }),
 /* 331 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/clevis-c-channel.24887f6c.png";
+module.exports = __webpack_require__.p + "static/media/2_bolt_flange_bearing.b52ac45e.png";
 
 /***/ }),
 /* 332 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/clevis_pin.73949b4b.png";
+module.exports = __webpack_require__.p + "static/media/4_bolt_face_bearing.dd9cbf58.png";
 
 /***/ }),
 /* 333 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/cylinder-back-mount.e5d05f28.png";
+module.exports = __webpack_require__.p + "static/media/air-cylinder.e5cfb5a8.png";
 
 /***/ }),
 /* 334 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/feature1.7dadc7c2.png";
+module.exports = __webpack_require__.p + "static/media/ball-joint-rod-end.dc8e5b52.png";
 
 /***/ }),
 /* 335 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/feature2.421b2c99.png";
+module.exports = __webpack_require__.p + "static/media/clevis-c-channel.24887f6c.png";
 
 /***/ }),
 /* 336 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/feature3.3b8d9f10.png";
+module.exports = __webpack_require__.p + "static/media/clevis_pin.73949b4b.png";
 
 /***/ }),
 /* 337 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/feature4.157c4ce5.png";
+module.exports = __webpack_require__.p + "static/media/cylinder-back-mount.e5d05f28.png";
 
 /***/ }),
 /* 338 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/pivot_axis.c5481557.png";
+module.exports = __webpack_require__.p + "static/media/feature1.7dadc7c2.png";
 
 /***/ }),
 /* 339 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/roller.926cd57c.png";
+module.exports = __webpack_require__.p + "static/media/feature2.421b2c99.png";
 
 /***/ }),
 /* 340 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/slotted-c-channel.ee502937.png";
+module.exports = __webpack_require__.p + "static/media/feature3.3b8d9f10.png";
 
 /***/ }),
 /* 341 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/feature4.157c4ce5.png";
+
+/***/ }),
+/* 342 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/pivot_axis.c5481557.png";
+
+/***/ }),
+/* 343 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/roller.926cd57c.png";
+
+/***/ }),
+/* 344 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/slotted-c-channel.ee502937.png";
+
+/***/ }),
+/* 345 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__importAll__ = __webpack_require__(342);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__ = __webpack_require__(343);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__importAll__ = __webpack_require__(346);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__ = __webpack_require__(347);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__ = __webpack_require__(1);
-var FEA_Assets=Object(__WEBPACK_IMPORTED_MODULE_1__importAll__["a" /* default */])(__webpack_require__(344));var pivotArm=[FEA_Assets['pivotarm_stress.png'],FEA_Assets['pivotarm_displacement.png'],FEA_Assets['pivotarm_FOS.png']];var backMount=[FEA_Assets['backMount_stress.png'],FEA_Assets['backMount_displacement.png'],FEA_Assets['backMount_FOS.png']];var supportPlate=[FEA_Assets['supportPlate_stress.png'],FEA_Assets['supportPlate_displacement.png'],FEA_Assets['supportPlate_FOS.png']];var Labels=["Von Mises Stress","Displacement","Factor of Safety"];var Notes=["Analysis done with Autodesk Inventor's Stress Analysis tool","Factor of Safety for entire system is 2.77"];var NSIN_FEA=function NSIN_FEA(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"FEA",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Finite Element Analysis"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Association:")," Nucor Steel Indiana: Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Software Used:")," Autodesk Inventor"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__["a" /* default */],{componentName:"FE Analysis: Pivot Arm",imageUrls:pivotArm,imageLabels:Labels})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__["a" /* default */],{componentName:"FE Analysis: Cylinder Mount",imageUrls:backMount,imageLabels:Labels})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__["a" /* default */],{componentName:"FE Analysis: Simply Supported Plate",imageUrls:supportPlate,imageLabels:Labels})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-12 mb-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-xl text-white font-semibold my-4"},"Notes:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc text-white text-md"},Notes.map(function(note){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},note);}))));};/* harmony default export */ __webpack_exports__["a"] = (NSIN_FEA);
+var FEA_Assets=Object(__WEBPACK_IMPORTED_MODULE_1__importAll__["a" /* default */])(__webpack_require__(348));var pivotArm=[FEA_Assets['pivotarm_stress.png'],FEA_Assets['pivotarm_displacement.png'],FEA_Assets['pivotarm_FOS.png']];var backMount=[FEA_Assets['backMount_stress.png'],FEA_Assets['backMount_displacement.png'],FEA_Assets['backMount_FOS.png']];var supportPlate=[FEA_Assets['supportPlate_stress.png'],FEA_Assets['supportPlate_displacement.png'],FEA_Assets['supportPlate_FOS.png']];var Labels=["Von Mises Stress","Displacement","Factor of Safety"];var Notes=["Analysis done with Autodesk Inventor's Stress Analysis tool","Factor of Safety for entire system is 2.77"];var NSIN_FEA=function NSIN_FEA(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"FEA",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Finite Element Analysis"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Association:")," Nucor Steel Indiana: Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Software Used:")," Autodesk Inventor"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__["a" /* default */],{componentName:"FE Analysis: Pivot Arm",imageUrls:pivotArm,imageLabels:Labels})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__["a" /* default */],{componentName:"FE Analysis: Cylinder Mount",imageUrls:backMount,imageLabels:Labels})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__["a" /* default */],{componentName:"FE Analysis: Simply Supported Plate",imageUrls:supportPlate,imageLabels:Labels})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-12 mb-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-xl text-white font-semibold my-4"},"Notes:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc text-white text-md"},Notes.map(function(note){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},note);}))));};/* harmony default export */ __webpack_exports__["a"] = (NSIN_FEA);
 
 /***/ }),
-/* 342 */
+/* 346 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33986,7 +34032,7 @@ var FEA_Assets=Object(__WEBPACK_IMPORTED_MODULE_1__importAll__["a" /* default */
 function importAll(r){var images={};r.keys().forEach(function(item,index){images[item.replace('./','')]=r(item);});return images;}/* harmony default export */ __webpack_exports__["a"] = (importAll);
 
 /***/ }),
-/* 343 */
+/* 347 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33995,19 +34041,19 @@ function importAll(r){var images={};r.keys().forEach(function(item,index){images
 var FEAImageGallery=function FEAImageGallery(_ref){var componentName=_ref.componentName,imageUrls=_ref.imageUrls,imageLabels=_ref.imageLabels;return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-bold my-8"},componentName),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex space-x-4"},imageUrls.map(function(imageUrl,index){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{key:index,className:"w-1/3"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:imageUrl,alt:"Image "+index,className:"w-full h-full rounded-lg border-2 border-green-400"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-2 text-center text-white font-semibold"},imageLabels[index]));})));};/* harmony default export */ __webpack_exports__["a"] = (FEAImageGallery);
 
 /***/ }),
-/* 344 */
+/* 348 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./backMount_FOS.png": 345,
-	"./backMount_displacement.png": 346,
-	"./backMount_stress.png": 347,
-	"./pivotarm_FOS.png": 348,
-	"./pivotarm_displacement.png": 349,
-	"./pivotarm_stress.png": 350,
-	"./supportPlate_FOS.png": 351,
-	"./supportPlate_displacement.png": 352,
-	"./supportPlate_stress.png": 353
+	"./backMount_FOS.png": 349,
+	"./backMount_displacement.png": 350,
+	"./backMount_stress.png": 351,
+	"./pivotarm_FOS.png": 352,
+	"./pivotarm_displacement.png": 353,
+	"./pivotarm_stress.png": 354,
+	"./supportPlate_FOS.png": 355,
+	"./supportPlate_displacement.png": 356,
+	"./supportPlate_stress.png": 357
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -34023,106 +34069,106 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 344;
-
-/***/ }),
-/* 345 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/backMount_FOS.d40cee39.png";
-
-/***/ }),
-/* 346 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/backMount_displacement.3e7d5678.png";
-
-/***/ }),
-/* 347 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/backMount_stress.07358b02.png";
-
-/***/ }),
-/* 348 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/pivotarm_FOS.aa9173cf.png";
+webpackContext.id = 348;
 
 /***/ }),
 /* 349 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/pivotarm_displacement.d51456e7.png";
+module.exports = __webpack_require__.p + "static/media/backMount_FOS.d40cee39.png";
 
 /***/ }),
 /* 350 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/pivotarm_stress.9a53c528.png";
+module.exports = __webpack_require__.p + "static/media/backMount_displacement.3e7d5678.png";
 
 /***/ }),
 /* 351 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/supportPlate_FOS.388a874f.png";
+module.exports = __webpack_require__.p + "static/media/backMount_stress.07358b02.png";
 
 /***/ }),
 /* 352 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/supportPlate_displacement.134c5683.png";
+module.exports = __webpack_require__.p + "static/media/pivotarm_FOS.aa9173cf.png";
 
 /***/ }),
 /* 353 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/supportPlate_stress.fda4e153.png";
+module.exports = __webpack_require__.p + "static/media/pivotarm_displacement.d51456e7.png";
 
 /***/ }),
 /* 354 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png__ = __webpack_require__(355);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png__ = __webpack_require__(356);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png__ = __webpack_require__(357);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png__ = __webpack_require__(358);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__ = __webpack_require__(359);
-var NSIN_TechnicalDrawings=function NSIN_TechnicalDrawings(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"TechnicalDrawings",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Technical Drawings"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Association:")," Nucor Steel Indiana: Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Software Used:")," AutoCAD, Autodesk Inventor"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__["a" /* default */],{imageUrl:__WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png___default.a,title:"Technical Drawing: Pivot Arm",description:"C-Channel Pivot Arm Technical Drawing, made in AutoCAD"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__["a" /* default */],{imageUrl:__WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png___default.a,title:"Technical Drawing: Pivot Axis",description:"Pivot Axis Technical Drawing, made in AutoCAD"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__["a" /* default */],{imageUrl:__WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png___default.a,title:"Technical Drawing: Cylinder Mount",description:"Cylinder Mount Technical Drawing, made in AutoCAD"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center p-4 border border-yellow-400 rounded-lg shadow-md my-8"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h2",{className:"text-lg text-yellow-400 font-semibold mb-2"},"Bill of Materials"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png___default.a,alt:"Bill of Materials",className:"w-full h-full object-contain"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-2 text-white"},"The Bill of Materials of this Pneumatic System."))));};/* harmony default export */ __webpack_exports__["a"] = (NSIN_TechnicalDrawings);
+module.exports = __webpack_require__.p + "static/media/pivotarm_stress.9a53c528.png";
 
 /***/ }),
 /* 355 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/pivotarm_technical.82dc64b3.png";
+module.exports = __webpack_require__.p + "static/media/supportPlate_FOS.388a874f.png";
 
 /***/ }),
 /* 356 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/pivotaxis_technical.de251dd3.png";
+module.exports = __webpack_require__.p + "static/media/supportPlate_displacement.134c5683.png";
 
 /***/ }),
 /* 357 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/cylinderarm_technical.e5e95bbb.png";
+module.exports = __webpack_require__.p + "static/media/supportPlate_stress.fda4e153.png";
 
 /***/ }),
 /* 358 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png__ = __webpack_require__(359);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png__ = __webpack_require__(360);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png__ = __webpack_require__(361);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png__ = __webpack_require__(362);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__ = __webpack_require__(363);
+var NSIN_TechnicalDrawings=function NSIN_TechnicalDrawings(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"TechnicalDrawings",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Technical Drawings"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Association:")," Nucor Steel Indiana: Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Software Used:")," AutoCAD, Autodesk Inventor"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__["a" /* default */],{imageUrl:__WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png___default.a,title:"Technical Drawing: Pivot Arm",description:"C-Channel Pivot Arm Technical Drawing, made in AutoCAD"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__["a" /* default */],{imageUrl:__WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png___default.a,title:"Technical Drawing: Pivot Axis",description:"Pivot Axis Technical Drawing, made in AutoCAD"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__["a" /* default */],{imageUrl:__WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png___default.a,title:"Technical Drawing: Cylinder Mount",description:"Cylinder Mount Technical Drawing, made in AutoCAD"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center p-4 border border-yellow-400 rounded-lg shadow-md my-8"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h2",{className:"text-lg text-yellow-400 font-semibold mb-2"},"Bill of Materials"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png___default.a,alt:"Bill of Materials",className:"w-full h-full object-contain"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-2 text-white"},"The Bill of Materials of this Pneumatic System."))));};/* harmony default export */ __webpack_exports__["a"] = (NSIN_TechnicalDrawings);
+
+/***/ }),
+/* 359 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/pivotarm_technical.82dc64b3.png";
+
+/***/ }),
+/* 360 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/pivotaxis_technical.de251dd3.png";
+
+/***/ }),
+/* 361 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/cylinderarm_technical.e5e95bbb.png";
+
+/***/ }),
+/* 362 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/bill_of_materials.94e29288.png";
 
 /***/ }),
-/* 359 */
+/* 363 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -34132,4 +34178,4 @@ var TechnicalDrawing=function TechnicalDrawing(_ref){var imageUrl=_ref.imageUrl,
 
 /***/ })
 /******/ ]);
-//# sourceMappingURL=main.57241cbe.js.map
+//# sourceMappingURL=main.c67048c4.js.map

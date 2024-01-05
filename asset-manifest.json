@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.d472eb58.css",
   "main.css.map": "static/css/main.d472eb58.css.map",
-  "main.js": "static/js/main.bde172c1.js",
-  "main.js.map": "static/js/main.bde172c1.js.map",
+  "main.js": "static/js/main.08466edc.js",
+  "main.js.map": "static/js/main.08466edc.js.map",
   "static\\media\\2_bolt_flange_bearing.png": "static/media/2_bolt_flange_bearing.b52ac45e.png",
   "static\\media\\4_bolt_face_bearing.png": "static/media/4_bolt_face_bearing.dd9cbf58.png",
   "static\\media\\accelerometer.jpg": "static/media/accelerometer.86d5ba3f.jpg",
@@ -26,6 +26,7 @@
   "static\\media\\cylinderarm_technical.png": "static/media/cylinderarm_technical.e5e95bbb.png",
   "static\\media\\earlyIdeation1.jpg": "static/media/earlyIdeation1.4b332460.jpg",
   "static\\media\\earlyIdeation2.jpg": "static/media/earlyIdeation2.1caaba4b.jpg",
+  "static\\media\\electromech_final_demo.mov": "static/media/electromech_final_demo.7155546f.mov",
   "static\\media\\em_tracker_path.mp4": "static/media/em_tracker_path.c6c61ee6.mp4",
   "static\\media\\em_tracking_hardware.jpg": "static/media/em_tracking_hardware.cdcbdf61.jpg",
   "static\\media\\fea-graphic.png": "static/media/fea-graphic.8d405d55.png",

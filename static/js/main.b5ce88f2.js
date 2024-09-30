@@ -9544,11 +9544,11 @@ exports.unstable_wrapCallback=function(a){var b=P;return function(){var c=P;P=b;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_ProjectList_Research_PPR_Elements_PPR__ = __webpack_require__(278);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_ProjectList_Industry_NucorInternship_Nucor__ = __webpack_require__(299);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_ProjectList_Research_Medsnake_Elements_Medsnake__ = __webpack_require__(311);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_ProjectList_Academics_AssistiveTech_AssistiveTech__ = __webpack_require__(316);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_ProjectList_Academics_ElectroMech_ElectroMech__ = __webpack_require__(325);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_ProjectList_Industry_NucorInternship_CAD_Components_NSIN_CAD__ = __webpack_require__(331);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__components_ProjectList_Industry_NucorInternship_FEA_Components_NSIN_FEA__ = __webpack_require__(352);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__components_ProjectList_Industry_NucorInternship_Drawing_Components_NSIN_TechnicalDrawings__ = __webpack_require__(365);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_ProjectList_Academics_AssistiveTech_AssistiveTech__ = __webpack_require__(318);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_ProjectList_Academics_ElectroMech_ElectroMech__ = __webpack_require__(327);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_ProjectList_Industry_NucorInternship_CAD_Components_NSIN_CAD__ = __webpack_require__(333);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__components_ProjectList_Industry_NucorInternship_FEA_Components_NSIN_FEA__ = __webpack_require__(354);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__components_ProjectList_Industry_NucorInternship_Drawing_Components_NSIN_TechnicalDrawings__ = __webpack_require__(367);
 function App(){return __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["a" /* BrowserRouter */],null,__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["e" /* Routes */],null,__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"/",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__components_Layout__["a" /* default */],null)},__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{index:true,element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__components_Home__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"projects",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__components_Projects__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"workexperience",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__components_WorkExperience__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"ppr",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_6__components_ProjectList_Research_PPR_Elements_PPR__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"medsnake",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_8__components_ProjectList_Research_Medsnake_Elements_Medsnake__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"assistivetech",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_9__components_ProjectList_Academics_AssistiveTech_AssistiveTech__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"electromech",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_10__components_ProjectList_Academics_ElectroMech_ElectroMech__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"nucor",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__components_ProjectList_Industry_NucorInternship_Nucor__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"nucor/nsincad",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_11__components_ProjectList_Industry_NucorInternship_CAD_Components_NSIN_CAD__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"nucor/nsinfea",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_12__components_ProjectList_Industry_NucorInternship_FEA_Components_NSIN_FEA__["a" /* default */],null)}),__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_0_react_router_dom__["d" /* Route */],{path:"nucor/nsindrawing",element:__WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_13__components_ProjectList_Industry_NucorInternship_Drawing_Components_NSIN_TechnicalDrawings__["a" /* default */],null)}))));}
 
 /***/ }),
@@ -9562,7 +9562,7 @@ function App(){return __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElemen
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__fortawesome_react_react_fontawesome__ = __webpack_require__(32);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__fortawesome_react_free_brands_svg_icons__ = __webpack_require__(37);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__fortawesome_react_free_solid_svg_icons__ = __webpack_require__(38);
-function Home(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('section',{id:'home',className:'text-gray-400 bg-black'},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('div',{className:'container mx-auto flex flex-col items-center'},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('h1',{className:'font-semibold sm:text-6xl text-3xl text-cyan-400 pt-10'},'Brian Chien'),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('h1',{className:'font-semibold sm:text-2xl text-1xl py-8'},'Undergraduate Student at Carnegie Mellon University'),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('p',{className:'leading-relaxed text-white w-3/5'},'Hello! I am a senior at Carnegie Mellon University studying mechanical engineering. This past summer, I was fortunate enough to work as a Mechanical Engineering Intern at Nucor Corporation. Currently, I conduct research at the Biorobotics Laboratory at Carnegie Mellon University.',__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('br',null),' ',__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('br',null)),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('img',{className:'object-contain h-48 w-30 my-8 rounded-full',alt:'portrait',src:'/assets/portrait.png'})));}
+function Home(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('section',{id:'home',className:'text-gray-400 bg-black'},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('div',{className:'container mx-auto flex flex-col items-center'},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('h1',{className:'font-semibold sm:text-6xl text-3xl text-cyan-400 pt-10'},'Brian Chien [PORTFOLIO IN PROGRESS]'),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('h1',{className:'font-semibold sm:text-2xl text-1xl py-8'},'Undergraduate Student at Carnegie Mellon University'),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('p',{className:'leading-relaxed text-white w-3/5'},'Hello! I am a senior at Carnegie Mellon University studying mechanical engineering. This past summer, I was fortunate enough to work as a Mechanical Engineering Intern at Nucor Corporation. Currently, I conduct research at the Biorobotics Laboratory at Carnegie Mellon University.',__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('br',null),' ',__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('br',null)),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement('img',{className:'object-contain h-48 w-30 my-8 rounded-full',alt:'portrait',src:'/assets/portrait.png'})));}
 
 /***/ }),
 /* 32 */
@@ -33708,7 +33708,8 @@ module.exports = __webpack_require__.p + "static/media/technicalDrawing-graphic.
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__heroicons_react_solid__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Medsnake_Assets_em_tracker_path_mp4__ = __webpack_require__(312);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Medsnake_Assets_em_tracker_path_mp4___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__Medsnake_Assets_em_tracker_path_mp4__);
-var Medsnake_Assets=importAll(__webpack_require__(313));function importAll(r){var images={};r.keys().forEach(function(item,index){images[item.replace('./','')]=r(item);});return images;}function Medsnake(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"medsnake",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-cyan-400"},"Medical Snake"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul",{className:" my-8 text-white list-none"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," In association with:")," The Biorobotics Laboratory at Carnegie Mellon University "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Project Duration:")," August 2023 \u2014 Present "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Skills:")," Robot Operating System (ROS1 Noetic Ninjemys) "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"text-red-400"}," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Note:")," This is an ongoing project I started mid-August of 2023, that I will continue to build upon during the semester as part of a 2-semester project I plan to present to ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a",{className:"text-red-100",target:"_blank",href:"https://www.cmu.edu/uro/MoM/"},"Meeting of the Minds"),", a CMU Undergrad Research Symposium. ")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:" my-2 text-2xl text-white font-bold"},"Overview"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"my-2 rounded-lg border-2 border-cyan-400",alt:"Demo of Medsnake accessing the snake",src:__WEBPACK_IMPORTED_MODULE_1__Medsnake_Assets_medsnake_accessing_chest_demo_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-cyan-400 text-lg font-bold"},"The Medical Snake is an ongoing robotic project, utilized for minimally invasive surgery. Currently, the goal for this robot is to prove that it is able to perform in situ tissue engineering, by accessing a patient's aorta and deploying an extracellular matrix to strengthen it."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mb-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:" my-2 text-2xl text-white font-bold"},"Project Responsibility: Tracking the Medical Snake"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-row"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pr-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4 border-2 border-cyan-400",alt:"InitialBottom",src:Medsnake_Assets['em_tracking_hardware.jpg']}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Electromagnetic Tracker Hardware")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4 border-2 border-cyan-400",alt:"InitialTop",src:Medsnake_Assets['medsnake_gui.jpg']}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"ROS Graphical User Interface"))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg my-4 "},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Electromagnetic Tracking Setup: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"For the hardware, there are 3 main components: The electronics unit, the transmitter, and the sensor. The transmitter, labeled \"EM Tracker\" in the image, emits an electromagnetic field that the sensor, the thin coil, is sensitive to. The electronic unit is able to detect this sensor's position in space, relative to the an origin frame which we have configured to be the position of the transmitter."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mb-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:" my-2 text-2xl text-white font-bold"},"Electromagnetic Tracking Demo in ROS"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("video",{className:"my-2 max-w-full rounded-lg border-2 border-cyan-400",controls:true},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("source",{src:__WEBPACK_IMPORTED_MODULE_3__Medsnake_Assets_em_tracker_path_mp4___default.a,type:"video/mp4"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg my-4 "},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Electromagnetic Tracking of the Sensor: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"The static coordinate frame represents the position of the transmitter, and the coordinate frame which is moving represents the sensor. In the future, this sensor will be mounted to the tip of the snake, so we are able to track it's exact position. ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"This visual is generated by a ROS visualization tool named RViz, where a node (script) is listening to the data being sent from the EM tracking unit, and it passes position data of the sensor to another node responsible for drawing markers in RViz at each position that the unit records.")));}
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__CaptionImage__ = __webpack_require__(313);
+var Medsnake_Assets=importAll(__webpack_require__(314));function importAll(r){var images={};r.keys().forEach(function(item,index){images[item.replace('./','')]=r(item);});return images;}var Pump_Description="\n  The extra-cellular matrix takes the form of a liquid, with a viscosity similar to that of water. \n  To pump through the snake's body and out of it's head, we've chosen to utilize a commercial programmable syringe pump from New Era Instruments.\n  This pump has a simple button interface allowing the user to configure its pumping flow rate and control the volume discharged, which is viable for \n  the current experiments we are performing with the snake. \n  In the future, we would like to be able to control this programmable pump from the Robot Snake's GUI software, instead of from the button interface. \n";var Helical_Description="\n  A tube will exit from the head of the snake, and form a spiral/helix shape. As we actuate this tube forwards,\n  we have to spin it, so that the tube's path will follow that of a helix. \n  As a prototype, we've designed a purely mechanical screw mechanism which couples together linear and rotational translation. When the snake\n  is inside the body, the surgeon operating the snake will push on the back of this mechanism to move the tube out of the snake's head. \n";function Medsnake(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"medsnake",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-cyan-400"},"Medical Snake"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul",{className:" my-8 text-white list-none"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," In association with:")," The Biorobotics Laboratory at Carnegie Mellon University "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Project Duration:")," August 2023 \u2014 Present "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Skills:")," Robot Operating System (ROS1 Noetic Ninjemys) "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"text-red-400"}," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Note:")," This is an ongoing project I started mid-August of 2023, that I will continue to build upon during the semester as part of a 2-semester project I plan to present to ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a",{className:"text-red-100",target:"_blank",href:"https://www.cmu.edu/uro/MoM/"},"Meeting of the Minds"),", a CMU Undergrad Research Symposium. ")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:" my-2 text-2xl text-white font-bold"},"Background"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"my-2 rounded-lg border-2 border-cyan-400",alt:"Demo of Medsnake accessing the snake",src:__WEBPACK_IMPORTED_MODULE_1__Medsnake_Assets_medsnake_accessing_chest_demo_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg"},"The Medical Snake is an ongoing robotic project, utilized for minimally invasive surgery. Currently, the goal for this robot is to prove that it is able to perform in situ tissue engineering, by accessing a patient's aorta and deploying an extracellular matrix to strengthen it."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mb-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"mt-4 mb-8 text-2xl text-white font-bold"},"Project Progress: Mechanical"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__CaptionImage__["a" /* default */],{imageUrl:Medsnake_Assets['syringe_pump.png'],text:Pump_Description,caption:"Extracellular Matrix (ECM) Pumping Method:"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__CaptionImage__["a" /* default */],{imageUrl:Medsnake_Assets['syringe_pump.png'],text:Helical_Description,caption:"Helical Tube Deployment:"})));}
 
 /***/ }),
 /* 312 */
@@ -33718,13 +33719,23 @@ module.exports = __webpack_require__.p + "static/media/em_tracker_path.c6c61ee6.
 
 /***/ }),
 /* 313 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
+var CaptionImage=function CaptionImage(_ref){var imageUrl=_ref.imageUrl,text=_ref.text,caption=_ref.caption;return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"border border-cyan-400 p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex items-center pb-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:imageUrl,alt:"image",className:"mr-4 w-1/2 h-auto rounded border border-cyan-400"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"border-l border-cyan-400 h-full"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"ml-4 text-white"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," ",caption),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),text)));};/* harmony default export */ __webpack_exports__["a"] = (CaptionImage);
+
+/***/ }),
+/* 314 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./em_tracking_hardware.jpg": 314,
+	"./em_tracking_hardware.jpg": 315,
 	"./medsnake.png": 8,
 	"./medsnake_accessing_chest_demo.png": 11,
-	"./medsnake_gui.jpg": 315
+	"./medsnake_gui.jpg": 316,
+	"./syringe_pump.png": 317
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -33740,22 +33751,28 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 313;
-
-/***/ }),
-/* 314 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/em_tracking_hardware.cdcbdf61.jpg";
+webpackContext.id = 314;
 
 /***/ }),
 /* 315 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/medsnake_gui.3c25388d.jpg";
+module.exports = __webpack_require__.p + "static/media/em_tracking_hardware.cdcbdf61.jpg";
 
 /***/ }),
 /* 316 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/medsnake_gui.3c25388d.jpg";
+
+/***/ }),
+/* 317 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/syringe_pump.d69cc9f1.png";
+
+/***/ }),
+/* 318 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33763,76 +33780,76 @@ module.exports = __webpack_require__.p + "static/media/medsnake_gui.3c25388d.jpg
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__AssistiveTechAssets_earlyIdeation1_jpg__ = __webpack_require__(317);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__AssistiveTechAssets_earlyIdeation1_jpg__ = __webpack_require__(319);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__AssistiveTechAssets_earlyIdeation1_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__AssistiveTechAssets_earlyIdeation1_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__AssistiveTechAssets_earlyIdeation2_jpg__ = __webpack_require__(318);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__AssistiveTechAssets_earlyIdeation2_jpg__ = __webpack_require__(320);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__AssistiveTechAssets_earlyIdeation2_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__AssistiveTechAssets_earlyIdeation2_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__AssistiveTechAssets_stewartPlatform_gif__ = __webpack_require__(319);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__AssistiveTechAssets_stewartPlatform_gif__ = __webpack_require__(321);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__AssistiveTechAssets_stewartPlatform_gif___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__AssistiveTechAssets_stewartPlatform_gif__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__AssistiveTechAssets_accelerometer_jpg__ = __webpack_require__(320);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__AssistiveTechAssets_accelerometer_jpg__ = __webpack_require__(322);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__AssistiveTechAssets_accelerometer_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5__AssistiveTechAssets_accelerometer_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__AssistiveTechAssets_universal_joint_jpg__ = __webpack_require__(321);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__AssistiveTechAssets_universal_joint_jpg__ = __webpack_require__(323);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__AssistiveTechAssets_universal_joint_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6__AssistiveTechAssets_universal_joint_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__AssistiveTechAssets_computerModelViews_jpg__ = __webpack_require__(322);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__AssistiveTechAssets_computerModelViews_jpg__ = __webpack_require__(324);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__AssistiveTechAssets_computerModelViews_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7__AssistiveTechAssets_computerModelViews_jpg__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__AssistiveTechAssets_computerModelIsometric_jpg__ = __webpack_require__(323);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__AssistiveTechAssets_computerModelIsometric_jpg__ = __webpack_require__(325);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__AssistiveTechAssets_computerModelIsometric_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_8__AssistiveTechAssets_computerModelIsometric_jpg__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__AssistiveTechAssets_proof_of_concept_png__ = __webpack_require__(9);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__AssistiveTechAssets_proof_of_concept_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_9__AssistiveTechAssets_proof_of_concept_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__AssistiveTechAssets_assistive_tech_demo_mp4__ = __webpack_require__(324);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__AssistiveTechAssets_assistive_tech_demo_mp4__ = __webpack_require__(326);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__AssistiveTechAssets_assistive_tech_demo_mp4___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_10__AssistiveTechAssets_assistive_tech_demo_mp4__);
 var developedIdeation=["Inspiration: Stewart Platform","Rotational Adjustment: Servomotors","Control: Arduino","Vital Components: Universal Joint, Accelerometer, Arduino Bluetooth Module (Allows for remote control from Phone)"];var vitalComponents=[];function AssitiveTech(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"medsnake",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-cyan-400"},"Product Development: Assistive Technology"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul",{className:" my-8 text-white list-none"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Course:")," Engineering Design I: Methods and Skills (Course ID: 24-370) "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Project Duration:")," October 2022 \u2014 December 2022 "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Skills:")," SolidWorks, Arduino "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," In Collaboration With: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a",{className:"text-cyan-100",target:"_blank",href:"https://www.linkedin.com/in/christopher-keefe-59960b23a/"},"Christopher Keefe"),", ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a",{className:"text-cyan-100",target:"_blank",href:"https://www.linkedin.com/in/mauricio-saavedra-7a2760272/"},"Mauricio Saavedra")," ")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Introduction"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul",{className:"my-4 text-white list-none"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Goal:")," Redesign some everyday appliance to accommodate a disabled population. "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Chosen Device:")," Tripod "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Chosen Disability:")," Cerebral Palsy. ")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Early Ideation"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-row"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pr-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg border-2 border-cyan-400 my-4",alt:"InitialTop",src:__WEBPACK_IMPORTED_MODULE_2__AssistiveTechAssets_earlyIdeation1_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Early Ideation: Concept 1")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pl-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg border-2 border-cyan-400 my-4",alt:"InitialBottom",src:__WEBPACK_IMPORTED_MODULE_3__AssistiveTechAssets_earlyIdeation2_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Early Ideation: Concept 2"))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-8 text-white text-lg"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Conceptualization: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"Our prototype wouldn't actually change a tripod; Instead, it will act as an attachment to the top of a tripod. Then, the projector will fit on top of the prototype. We envisioned a multi-platform system that imitates a Stewart Platform (shown below), using servomotors to adjust the orientation of a tripod."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Developed Ideation"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc my-8 text-white font-bold text-md"},developedIdeation.map(function(idea){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},idea);})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-row mx-auto mb-8 "},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pr-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4 border-2 border-cyan-400 h-full",alt:"InitialTop",src:__WEBPACK_IMPORTED_MODULE_4__AssistiveTechAssets_stewartPlatform_gif___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Stewart Platform")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pl-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4 border-2 border-cyan-400 h-full",alt:"InitialBottom",src:__WEBPACK_IMPORTED_MODULE_5__AssistiveTechAssets_accelerometer_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Accelerometer")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center pl-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"rounded-lg my-4 border-2 border-cyan-400",alt:"InitialBottom",src:__WEBPACK_IMPORTED_MODULE_6__AssistiveTechAssets_universal_joint_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-md font-medium text-cyan-400"},"Universal Joint"))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white text-lg"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Further Brainstorming: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"We designed around an off-the-shelf universal joint. The joint transmits rotary motion in roll and pitch, while preventing yaw. It is also strong enough to support the weight of any projector. ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"Another important component is the accelerometer: When the accelerometer is level to the floor, it will read the acceleration on the z-axis essentially matches gravitational acceleration, while the acceleration on the other two axes are close to zero. From the output, the Arduino will know when to stop the servos from rotating."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Computer Modeling"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"my-8 rounded-lg border-2 border-cyan-400",alt:"Demo of Medsnake accessing the snake",src:__WEBPACK_IMPORTED_MODULE_7__AssistiveTechAssets_computerModelViews_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"mt-8 rounded-lg border-2 border-cyan-400",alt:"Demo of Medsnake accessing the snake",src:__WEBPACK_IMPORTED_MODULE_8__AssistiveTechAssets_computerModelIsometric_jpg___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"my-4 font-semibold text-cyan-400 mx-auto"},"SolidWorks Model of Prototype installed on Tripod."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"my-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Manufactured Prototype"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"mt-8 rounded-lg border-2 border-cyan-400",alt:"Demo of Medsnake accessing the snake",src:__WEBPACK_IMPORTED_MODULE_9__AssistiveTechAssets_proof_of_concept_png___default.a}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Video Demonstration"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("video",{className:"my-8 max-w-full rounded-lg border-2 border-cyan-400",controls:true},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("source",{src:__WEBPACK_IMPORTED_MODULE_10__AssistiveTechAssets_assistive_tech_demo_mp4___default.a,type:"video/mp4"}))));}
-
-/***/ }),
-/* 317 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/earlyIdeation1.4b332460.jpg";
-
-/***/ }),
-/* 318 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/earlyIdeation2.1caaba4b.jpg";
 
 /***/ }),
 /* 319 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/stewartPlatform.625207b6.gif";
+module.exports = __webpack_require__.p + "static/media/earlyIdeation1.4b332460.jpg";
 
 /***/ }),
 /* 320 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/accelerometer.86d5ba3f.jpg";
+module.exports = __webpack_require__.p + "static/media/earlyIdeation2.1caaba4b.jpg";
 
 /***/ }),
 /* 321 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/universal_joint.c3a28231.jpg";
+module.exports = __webpack_require__.p + "static/media/stewartPlatform.625207b6.gif";
 
 /***/ }),
 /* 322 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/computerModelViews.e265b57a.jpg";
+module.exports = __webpack_require__.p + "static/media/accelerometer.86d5ba3f.jpg";
 
 /***/ }),
 /* 323 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/computerModelIsometric.e932ecc1.jpg";
+module.exports = __webpack_require__.p + "static/media/universal_joint.c3a28231.jpg";
 
 /***/ }),
 /* 324 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/assistive_tech_demo.8f3f7f6b.mp4";
+module.exports = __webpack_require__.p + "static/media/computerModelViews.e265b57a.jpg";
 
 /***/ }),
 /* 325 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/computerModelIsometric.e932ecc1.jpg";
+
+/***/ }),
+/* 326 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/assistive_tech_demo.8f3f7f6b.mp4";
+
+/***/ }),
+/* 327 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33840,70 +33857,70 @@ module.exports = __webpack_require__.p + "static/media/assistive_tech_demo.8f3f7
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ElectroMechAssets_measuresub1_png__ = __webpack_require__(326);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ElectroMechAssets_measuresub1_png__ = __webpack_require__(328);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ElectroMechAssets_measuresub1_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__ElectroMechAssets_measuresub1_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ElectroMechAssets_outputsub_png__ = __webpack_require__(327);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ElectroMechAssets_outputsub_png__ = __webpack_require__(329);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ElectroMechAssets_outputsub_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__ElectroMechAssets_outputsub_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ElectroMechAssets_full_cad_png__ = __webpack_require__(328);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ElectroMechAssets_full_cad_png__ = __webpack_require__(330);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ElectroMechAssets_full_cad_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__ElectroMechAssets_full_cad_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ElectroMechAssets_final_wiring_jpg__ = __webpack_require__(329);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ElectroMechAssets_final_wiring_jpg__ = __webpack_require__(331);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ElectroMechAssets_final_wiring_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5__ElectroMechAssets_final_wiring_jpg__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__ElectroMechAssets_full_system_assembly_isometric_png__ = __webpack_require__(10);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__ElectroMechAssets_full_system_assembly_isometric_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6__ElectroMechAssets_full_system_assembly_isometric_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__ElectroMechAssets_electromech_final_demo_mov__ = __webpack_require__(330);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__ElectroMechAssets_electromech_final_demo_mov__ = __webpack_require__(332);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__ElectroMechAssets_electromech_final_demo_mov___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7__ElectroMechAssets_electromech_final_demo_mov__);
 var customerlogics=["A Small Footprint: Under 512 cubic inch in volume","Measurement Accuracy: Accuracy of 0.005 inches","Speed: Runtime of under 10 seconds"];var operationLogic=["The user drops a drill bit into the input chute.","A DC motor, utilizing a lead screw, spins to move a PLA-printed component forwards until it contacts the drill bit in the chute","When the DC motor hits the drill bit, the motor will stall, causing the current it draws to rise.","An Arduino microcontroller, using a current sensor to detect this rise in current, will stop the motor.","At the same time, the Arduino calculates the distance the motor moved forwards via a built-in rotary encoder on the motor.","The Arduino commands the motor to retract until the PLA component moves back to its original position. Then, using the data acquired from the rotary encoder, it can calculate the diameter of the drill bit.","The Arduino then sends this value to be displayed by an LCD."];function ElectroMech(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"medsnake",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-cyan-400"},"Electromechanical Systems Design: Autonomous Drill Bit Caliper System"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul",{className:" my-8 text-white list-none"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Course:")," Electromechanical Systems Design (Course ID: 24-671) "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Project Duration:")," September 2023 \u2014 December 2023 "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Technical Skills:")," Arduino, SolidWorks "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Professional Skills:")," Adaptability, Leadership, Project Management "),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",null," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," In Collaboration With:")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a",{className:"text-cyan-200",target:"_blank",href:"https://www.linkedin.com/in/yunuo-ella-zhao/"},"Yunuo Zhao"),", ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a",{className:"text-cyan-200",target:"_blank",href:"https://www.linkedin.com/in/mlovalek/"},"Mihir Lovalekar")," ")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Introduction"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-8 text-white text-lg"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold text-cyan-400"}," Problem Statement: ")," ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"Our team proposes the design of a device that assists with the categorization of drill bits by automating the drill bit measurement process. ",__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br",null),"The need for a device was discovered through a process of interviews and surveys with managers of workshops and makerspaces at Carnegie Mellon University, such as Techspark. The disorganization of drill bits is a large problem they face."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-8 text-lg font-bold text-cyan-400"}," Customer logics:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc my-2 text-white text-md"},customerlogics.map(function(logic){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},logic);})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Conceptualization"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex space-x-4 my-8 "},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex-1"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"border-2 border-cyan-400 rounded overflow-hidden"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"w-full",src:__WEBPACK_IMPORTED_MODULE_2__ElectroMechAssets_measuresub1_png___default.a,alt:"Image 1"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"p-2 text-center font-bold text-cyan-400 "},"Measurement Subsystem: View with Motor")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex-1"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"border-2 border-cyan-400 rounded overflow-hidden"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"w-full",src:__WEBPACK_IMPORTED_MODULE_3__ElectroMechAssets_outputsub_png___default.a,alt:"Image 2"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"p-2 text-center font-bold text-cyan-400"},"Measurement Subsystem: View with Output Holder and Servo Motor"))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-8 text-lg font-bold text-cyan-400"}," Device Operation Logic:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc my-2 text-white text-md"},operationLogic.map(function(logic){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},logic);})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"my-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Finalized CAD Model and Wiring Diagram"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"my-8 border-2 border-cyan-500 p-4 rounded text-center"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"w-full rounded",src:__WEBPACK_IMPORTED_MODULE_4__ElectroMechAssets_full_cad_png___default.a,alt:"Image"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-4 text-lg font-bold text-cyan-400"},"Finalized SolidWorks Rendering of System")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"my-8 border-2 border-cyan-500 p-4 rounded text-center"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"w-full rounded",src:__WEBPACK_IMPORTED_MODULE_5__ElectroMechAssets_final_wiring_jpg___default.a,alt:"Image"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-4 text-lg font-bold text-cyan-400"},"Finalized Wiring Diagram of System")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["a" /* CodeIcon */],{className:"my-4 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold"},"Physical Prototype"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex-1 my-8"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"border-2 border-cyan-400 rounded overflow-hidden"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{className:"w-full",src:__WEBPACK_IMPORTED_MODULE_6__ElectroMechAssets_full_system_assembly_isometric_png___default.a,alt:"Image 2"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"p-2 text-center font-bold text-cyan-400"},"Physical Prototype, shown in CMU's Design Expo at Techspark")),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-2 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("video",{className:"mt-8 max-w-full rounded-lg border-2 border-yellow-400",controls:true},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("source",{src:__WEBPACK_IMPORTED_MODULE_7__ElectroMechAssets_electromech_final_demo_mov___default.a,type:"video/mp4"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"p-2 text-center font-bold text-yellow-400"},"Video Demonstration")));}
-
-/***/ }),
-/* 326 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/measuresub1.1d108a43.png";
-
-/***/ }),
-/* 327 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/outputsub.aae8c25a.png";
 
 /***/ }),
 /* 328 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/full_cad.332a1c4e.png";
+module.exports = __webpack_require__.p + "static/media/measuresub1.1d108a43.png";
 
 /***/ }),
 /* 329 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/final_wiring.598a019d.jpg";
+module.exports = __webpack_require__.p + "static/media/outputsub.aae8c25a.png";
 
 /***/ }),
 /* 330 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/electromech_final_demo.7155546f.mov";
+module.exports = __webpack_require__.p + "static/media/full_cad.332a1c4e.png";
 
 /***/ }),
 /* 331 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/final_wiring.598a019d.jpg";
+
+/***/ }),
+/* 332 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/electromech_final_demo.7155546f.mov";
+
+/***/ }),
+/* 333 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__importAll__ = __webpack_require__(332);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ComponentFeature__ = __webpack_require__(333);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_CAD_Assets_assem_demo_mp4__ = __webpack_require__(334);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__importAll__ = __webpack_require__(334);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ComponentFeature__ = __webpack_require__(335);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_CAD_Assets_assem_demo_mp4__ = __webpack_require__(336);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_CAD_Assets_assem_demo_mp4___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__NSIN_CAD_Assets_assem_demo_mp4__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__BeforeAfterGraphic__ = __webpack_require__(335);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__BeforeAfterGraphic__ = __webpack_require__(337);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__NSIN_CAD_Assets_completed_assembly_png__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__NSIN_CAD_Assets_completed_assembly_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5__NSIN_CAD_Assets_completed_assembly_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__SupportPlate__ = __webpack_require__(336);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__SupportPlate__ = __webpack_require__(338);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__ = __webpack_require__(1);
-var CAD_Assets=Object(__WEBPACK_IMPORTED_MODULE_1__importAll__["a" /* default */])(__webpack_require__(337));var feature1Explanation=[{logic:"The groove at the end of the slotted C-channel, allows for the roller to slide in smoothly during assembly."},{logic:"The bearing attaches to the slotted C-channel afterwards, holding the roller in place, and allowing it to rotate frictionlessly."},{logic:"A c-channel is utilized, due to it's incredibly high strength per unit weight."}];var feature2Explanation=[{logic:"Previously, a shaft ran through the center of the pivot arm. This created the risk of the system shifting horizontally."},{logic:"Instead of a shaft, we've replaced it with an extrusion attached to a metal base, which is bolted onto the supporting frame."},{logic:"Bearings again help to support the rotation."}];var feature3Explanation=[{logic:"Connecting the two pivot arms is another c-channel."},{logic:"On the back of this c-channel lies a clevis, for a pin to slide into."},{logic:"This leads into the final sub-assembly."}];var feature4Explanation=[{logic:"The pneumatic cylinder has a ball joint bearing on its end, which lies concentric to the clevis pin sliding into the connector c-channel."},{logic:"The designed mounting piece allows the cylinder to rotate about it's rear axis as it extend/retracts, like a crankshaft, which is used to convert linear to rotary motion."}];var NSIN_CAD=function NSIN_CAD(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"CAD",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Computer Aided Design"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Association:")," Nucor Steel Indiana, Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Software Used:")," AutoCAD, Autodesk Inventor"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__BeforeAfterGraphic__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg text-green-400 mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Hold Down Roller System:")," Slide cursor across image to see before/after of this pickle line pneumatic system. The labeled sub-assemblies in the CAD representation will be explained further in this page."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:" mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #1: Pivot Arm + Roller Connection",src:CAD_Assets['feature1.png'],alt:"Subassembly #1",src1:CAD_Assets['slotted-c-channel.png'],hardware1:"Slotted C-Channel Pivot Arm",alt1:"Slotted C-channel",src2:CAD_Assets['4_bolt_face_bearing.png'],hardware2:"4-bolt Face Bearing",alt2:"4-bolt Face Bearing",src3:CAD_Assets['roller.png'],alt3:"Roller",hardware3:"Roller",information:feature1Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #2: Axis of Rotation",src:CAD_Assets['feature2.png'],alt:"Subassembly #2",src1:CAD_Assets['slotted-c-channel.png'],hardware1:"Slotted C-Channel Pivot Arm",alt1:"Slotted C-channel",src2:CAD_Assets['2_bolt_flange_bearing.png'],hardware2:"4-bolt Face Bearing",alt2:"2-bolt Flange Bearing",src3:CAD_Assets['pivot_axis.png'],alt3:"Roller",hardware3:"Pivot Axis",information:feature2Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #3: Pivot Arms Connection",src:CAD_Assets['feature3.png'],alt:"Subassembly #3",src1:CAD_Assets['slotted-c-channel.png'],hardware1:"Slotted C-Channel Pivot Arm",alt1:"Slotted C-channel",src2:CAD_Assets['clevis-c-channel.png'],hardware2:"C-Channel with Clevis",alt2:"2-bolt Flange Bearing",src3:CAD_Assets['clevis_pin.png'],hardware3:"Clevis Pin",alt3:"Roller",information:feature3Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #4: Pneumatic Cylinder",src:CAD_Assets['feature4.png'],alt:"Subassembly #3",src1:CAD_Assets['air-cylinder.png'],hardware1:"Pneumatic Cylinder",alt1:"Pneumatic Cylinder",src2:CAD_Assets['ball-joint-rod-end.png'],hardware2:"Ball Joint Rod End",alt2:"2-bolt Flange Bearing",src3:CAD_Assets['cylinder-back-mount.png'],hardware3:"Cylinder Mounting Piece",alt3:"Roller",information:feature4Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-bold my-8"},"Demonstration:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("video",{className:"max-w-full rounded-lg border border-green-400",controls:true},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("source",{src:__WEBPACK_IMPORTED_MODULE_3__NSIN_CAD_Assets_assem_demo_mp4___default.a,type:"video/mp4"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"my-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_6__SupportPlate__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-bold my-8"},"Completed Inventor Model:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_5__NSIN_CAD_Assets_completed_assembly_png___default.a,alt:"Complete Assembly",className:"max-w-full rounded-lg border-2 border-green-400"})));};/* harmony default export */ __webpack_exports__["a"] = (NSIN_CAD);
+var CAD_Assets=Object(__WEBPACK_IMPORTED_MODULE_1__importAll__["a" /* default */])(__webpack_require__(339));var feature1Explanation=[{logic:"The groove at the end of the slotted C-channel, allows for the roller to slide in smoothly during assembly."},{logic:"The bearing attaches to the slotted C-channel afterwards, holding the roller in place, and allowing it to rotate frictionlessly."},{logic:"A c-channel is utilized, due to it's incredibly high strength per unit weight."}];var feature2Explanation=[{logic:"Previously, a shaft ran through the center of the pivot arm. This created the risk of the system shifting horizontally."},{logic:"Instead of a shaft, we've replaced it with an extrusion attached to a metal base, which is bolted onto the supporting frame."},{logic:"Bearings again help to support the rotation."}];var feature3Explanation=[{logic:"Connecting the two pivot arms is another c-channel."},{logic:"On the back of this c-channel lies a clevis, for a pin to slide into."},{logic:"This leads into the final sub-assembly."}];var feature4Explanation=[{logic:"The pneumatic cylinder has a ball joint bearing on its end, which lies concentric to the clevis pin sliding into the connector c-channel."},{logic:"The designed mounting piece allows the cylinder to rotate about it's rear axis as it extend/retracts, like a crankshaft, which is used to convert linear to rotary motion."}];var NSIN_CAD=function NSIN_CAD(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"CAD",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Computer Aided Design"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Association:")," Nucor Steel Indiana, Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Software Used:")," AutoCAD, Autodesk Inventor"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4__BeforeAfterGraphic__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg text-green-400 mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Hold Down Roller System:")," Slide cursor across image to see before/after of this pickle line pneumatic system. The labeled sub-assemblies in the CAD representation will be explained further in this page."),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:" mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #1: Pivot Arm + Roller Connection",src:CAD_Assets['feature1.png'],alt:"Subassembly #1",src1:CAD_Assets['slotted-c-channel.png'],hardware1:"Slotted C-Channel Pivot Arm",alt1:"Slotted C-channel",src2:CAD_Assets['4_bolt_face_bearing.png'],hardware2:"4-bolt Face Bearing",alt2:"4-bolt Face Bearing",src3:CAD_Assets['roller.png'],alt3:"Roller",hardware3:"Roller",information:feature1Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #2: Axis of Rotation",src:CAD_Assets['feature2.png'],alt:"Subassembly #2",src1:CAD_Assets['slotted-c-channel.png'],hardware1:"Slotted C-Channel Pivot Arm",alt1:"Slotted C-channel",src2:CAD_Assets['2_bolt_flange_bearing.png'],hardware2:"4-bolt Face Bearing",alt2:"2-bolt Flange Bearing",src3:CAD_Assets['pivot_axis.png'],alt3:"Roller",hardware3:"Pivot Axis",information:feature2Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #3: Pivot Arms Connection",src:CAD_Assets['feature3.png'],alt:"Subassembly #3",src1:CAD_Assets['slotted-c-channel.png'],hardware1:"Slotted C-Channel Pivot Arm",alt1:"Slotted C-channel",src2:CAD_Assets['clevis-c-channel.png'],hardware2:"C-Channel with Clevis",alt2:"2-bolt Flange Bearing",src3:CAD_Assets['clevis_pin.png'],hardware3:"Clevis Pin",alt3:"Roller",information:feature3Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__ComponentFeature__["a" /* default */],{feature:"Sub-assembly #4: Pneumatic Cylinder",src:CAD_Assets['feature4.png'],alt:"Subassembly #3",src1:CAD_Assets['air-cylinder.png'],hardware1:"Pneumatic Cylinder",alt1:"Pneumatic Cylinder",src2:CAD_Assets['ball-joint-rod-end.png'],hardware2:"Ball Joint Rod End",alt2:"2-bolt Flange Bearing",src3:CAD_Assets['cylinder-back-mount.png'],hardware3:"Cylinder Mounting Piece",alt3:"Roller",information:feature4Explanation}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-bold my-8"},"Demonstration:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("video",{className:"max-w-full rounded-lg border border-green-400",controls:true},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("source",{src:__WEBPACK_IMPORTED_MODULE_3__NSIN_CAD_Assets_assem_demo_mp4___default.a,type:"video/mp4"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7__heroicons_react_solid__["a" /* CodeIcon */],{className:"my-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_6__SupportPlate__["a" /* default */],null),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-bold my-8"},"Completed Inventor Model:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_5__NSIN_CAD_Assets_completed_assembly_png___default.a,alt:"Complete Assembly",className:"max-w-full rounded-lg border-2 border-green-400"})));};/* harmony default export */ __webpack_exports__["a"] = (NSIN_CAD);
 
 /***/ }),
-/* 332 */
+/* 334 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33911,7 +33928,7 @@ var CAD_Assets=Object(__WEBPACK_IMPORTED_MODULE_1__importAll__["a" /* default */
 function importAll(r){var images={};r.keys().forEach(function(item,index){images[item.replace('./','')]=r(item);});return images;}/* harmony default export */ __webpack_exports__["a"] = (importAll);
 
 /***/ }),
-/* 333 */
+/* 335 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33921,13 +33938,13 @@ function importAll(r){var images={};r.keys().forEach(function(item,index){images
 function ComponentFeature(props){var key=Object.keys(props.information[0])[0];return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"my-8"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-white font-bold my-8"},props.feature),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:props.src,alt:props.alt,className:"w-3/4 rounded-lg mx-auto mt-8 mb-4"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"my-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-xl text-white font-semibold"},"Hardware:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-row my-8 justify-center items-center"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col mx-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:props.src1,alt:props.alt1,className:"w-64 rounded-md"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-green-400 text-md mx-auto my-4"},props.hardware1)),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col mx-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:props.src2,alt:props.alt2,className:"w-64 rounded-md"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-green-400 text-md mx-auto my-4"},props.hardware2)),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col mx-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:props.src3,alt:props.alt3,className:"w-64 rounded-md"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-green-400 text-md mx-auto my-4"},props.hardware3))),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"my-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-xl text-white font-semibold my-8"},"Sub-Assembly Logic:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc text-white text-md"},props.information.map(function(information){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},information[key]);})));}/* harmony default export */ __webpack_exports__["a"] = (ComponentFeature);
 
 /***/ }),
-/* 334 */
+/* 336 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/media/assem_demo.cf52da55.mp4";
 
 /***/ }),
-/* 335 */
+/* 337 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33940,7 +33957,7 @@ module.exports = __webpack_require__.p + "static/media/assem_demo.cf52da55.mp4";
 var _slicedToArray=function(){function sliceIterator(arr,i){var _arr=[];var _n=true;var _d=false;var _e=undefined;try{for(var _i=arr[Symbol.iterator](),_s;!(_n=(_s=_i.next()).done);_n=true){_arr.push(_s.value);if(i&&_arr.length===i)break;}}catch(err){_d=true;_e=err;}finally{try{if(!_n&&_i["return"])_i["return"]();}finally{if(_d)throw _e;}}return _arr;}return function(arr,i){if(Array.isArray(arr)){return arr;}else if(Symbol.iterator in Object(arr)){return sliceIterator(arr,i);}else{throw new TypeError("Invalid attempt to destructure non-iterable instance");}};}();var BeforeAfterGraphic=function BeforeAfterGraphic(){var _useState=Object(__WEBPACK_IMPORTED_MODULE_0_react__["useState"])('50%'),_useState2=_slicedToArray(_useState,2),handlePosition=_useState2[0],setHandlePosition=_useState2[1];var handleDrag=function handleDrag(e){var containerRect=e.currentTarget.getBoundingClientRect();var handleX=e.clientX-containerRect.left;var newPosition=Math.max(0,Math.min(handleX,containerRect.width));var newPositionPercentage=newPosition/containerRect.width*100+'%';setHandlePosition(newPositionPercentage);var afterImage=e.currentTarget.querySelector('.after-image');afterImage.style.opacity=newPosition/containerRect.width;};return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"relative mt-8 mb-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-full h-[66.6666%] relative",onMouseMove:handleDrag},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_nucor_system_png___default.a,alt:"Before",className:"rounded-lg w-full h-full object-cover border-4 border-green-400"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_2__NSIN_CAD_Assets_full_assem_labeled_png___default.a,alt:"After",className:"rounded-lg absolute top-0 left-0 w-full h-full object-cover opacity-0 transition-opacity duration-300 after-image border-4 border-green-400"})));};/* harmony default export */ __webpack_exports__["a"] = (BeforeAfterGraphic);
 
 /***/ }),
-/* 336 */
+/* 338 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -33951,28 +33968,28 @@ var _slicedToArray=function(){function sliceIterator(arr,i){var _arr=[];var _n=t
 var SupportPlate=function SupportPlate(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-semibold my-8"},"Simply Supported Plate:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex items-center gap-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-1/3"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_1__NSIN_CAD_Assets_simply_supported_plate_png___default.a,alt:"Image",className:"w-full h-auto border-2 border-green-400 rounded-lg"})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"w-2/3"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"text-white"},"As the pneumatic cylinder pushes the roller against the steel sheet, the steel sheet will pus back on the roller, creating a moment about the base of the blue support frame. So, a simply supported steel plate sits between the supporting frame and a structure behind the frame to resist some of this moment."))));};/* harmony default export */ __webpack_exports__["a"] = (SupportPlate);
 
 /***/ }),
-/* 337 */
+/* 339 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./2_bolt_flange_bearing.png": 338,
-	"./4_bolt_face_bearing.png": 339,
-	"./air-cylinder.png": 340,
-	"./ball-joint-rod-end.png": 341,
-	"./clevis-c-channel.png": 342,
-	"./clevis_pin.png": 343,
+	"./2_bolt_flange_bearing.png": 340,
+	"./4_bolt_face_bearing.png": 341,
+	"./air-cylinder.png": 342,
+	"./ball-joint-rod-end.png": 343,
+	"./clevis-c-channel.png": 344,
+	"./clevis_pin.png": 345,
 	"./completed-assembly.png": 14,
-	"./cylinder-back-mount.png": 344,
-	"./feature1.png": 345,
-	"./feature2.png": 346,
-	"./feature3.png": 347,
-	"./feature4.png": 348,
+	"./cylinder-back-mount.png": 346,
+	"./feature1.png": 347,
+	"./feature2.png": 348,
+	"./feature3.png": 349,
+	"./feature4.png": 350,
 	"./full_assem_labeled.png": 13,
 	"./nucor_system.png": 12,
-	"./pivot_axis.png": 349,
-	"./roller.png": 350,
+	"./pivot_axis.png": 351,
+	"./roller.png": 352,
 	"./simply-supported-plate.png": 15,
-	"./slotted-c-channel.png": 351
+	"./slotted-c-channel.png": 353
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -33988,111 +34005,91 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 337;
-
-/***/ }),
-/* 338 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/2_bolt_flange_bearing.b52ac45e.png";
-
-/***/ }),
-/* 339 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/4_bolt_face_bearing.dd9cbf58.png";
+webpackContext.id = 339;
 
 /***/ }),
 /* 340 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/air-cylinder.e5cfb5a8.png";
+module.exports = __webpack_require__.p + "static/media/2_bolt_flange_bearing.b52ac45e.png";
 
 /***/ }),
 /* 341 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/ball-joint-rod-end.dc8e5b52.png";
+module.exports = __webpack_require__.p + "static/media/4_bolt_face_bearing.dd9cbf58.png";
 
 /***/ }),
 /* 342 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/clevis-c-channel.24887f6c.png";
+module.exports = __webpack_require__.p + "static/media/air-cylinder.e5cfb5a8.png";
 
 /***/ }),
 /* 343 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/clevis_pin.73949b4b.png";
+module.exports = __webpack_require__.p + "static/media/ball-joint-rod-end.dc8e5b52.png";
 
 /***/ }),
 /* 344 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/cylinder-back-mount.e5d05f28.png";
+module.exports = __webpack_require__.p + "static/media/clevis-c-channel.24887f6c.png";
 
 /***/ }),
 /* 345 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/feature1.7dadc7c2.png";
+module.exports = __webpack_require__.p + "static/media/clevis_pin.73949b4b.png";
 
 /***/ }),
 /* 346 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/feature2.421b2c99.png";
+module.exports = __webpack_require__.p + "static/media/cylinder-back-mount.e5d05f28.png";
 
 /***/ }),
 /* 347 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/feature3.3b8d9f10.png";
+module.exports = __webpack_require__.p + "static/media/feature1.7dadc7c2.png";
 
 /***/ }),
 /* 348 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/feature4.157c4ce5.png";
+module.exports = __webpack_require__.p + "static/media/feature2.421b2c99.png";
 
 /***/ }),
 /* 349 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/pivot_axis.c5481557.png";
+module.exports = __webpack_require__.p + "static/media/feature3.3b8d9f10.png";
 
 /***/ }),
 /* 350 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/roller.926cd57c.png";
+module.exports = __webpack_require__.p + "static/media/feature4.157c4ce5.png";
 
 /***/ }),
 /* 351 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/slotted-c-channel.ee502937.png";
+module.exports = __webpack_require__.p + "static/media/pivot_axis.c5481557.png";
 
 /***/ }),
 /* 352 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__importAll__ = __webpack_require__(353);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__ = __webpack_require__(354);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__ = __webpack_require__(1);
-var FEA_Assets=Object(__WEBPACK_IMPORTED_MODULE_1__importAll__["a" /* default */])(__webpack_require__(355));var pivotArm=[FEA_Assets['pivotarm_stress.png'],FEA_Assets['pivotarm_displacement.png'],FEA_Assets['pivotarm_FOS.png']];var backMount=[FEA_Assets['backMount_stress.png'],FEA_Assets['backMount_displacement.png'],FEA_Assets['backMount_FOS.png']];var supportPlate=[FEA_Assets['supportPlate_stress.png'],FEA_Assets['supportPlate_displacement.png'],FEA_Assets['supportPlate_FOS.png']];var Labels=["Von Mises Stress","Displacement","Factor of Safety"];var Notes=["Analysis done with Autodesk Inventor's Stress Analysis tool","Factor of Safety for entire system is 2.77"];var NSIN_FEA=function NSIN_FEA(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"FEA",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Finite Element Analysis"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Association:")," Nucor Steel Indiana: Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Software Used:")," Autodesk Inventor"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__["a" /* default */],{componentName:"FE Analysis: Pivot Arm",imageUrls:pivotArm,imageLabels:Labels})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__["a" /* default */],{componentName:"FE Analysis: Cylinder Mount",imageUrls:backMount,imageLabels:Labels})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__["a" /* default */],{componentName:"FE Analysis: Simply Supported Plate",imageUrls:supportPlate,imageLabels:Labels})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-12 mb-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-xl text-white font-semibold my-4"},"Notes:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc text-white text-md"},Notes.map(function(note){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},note);}))));};/* harmony default export */ __webpack_exports__["a"] = (NSIN_FEA);
+module.exports = __webpack_require__.p + "static/media/roller.926cd57c.png";
 
 /***/ }),
 /* 353 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-// utils/imageImporter.js
-function importAll(r){var images={};r.keys().forEach(function(item,index){images[item.replace('./','')]=r(item);});return images;}/* harmony default export */ __webpack_exports__["a"] = (importAll);
+module.exports = __webpack_require__.p + "static/media/slotted-c-channel.ee502937.png";
 
 /***/ }),
 /* 354 */
@@ -34101,22 +34098,42 @@ function importAll(r){var images={};r.keys().forEach(function(item,index){images
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-var FEAImageGallery=function FEAImageGallery(_ref){var componentName=_ref.componentName,imageUrls=_ref.imageUrls,imageLabels=_ref.imageLabels;return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-bold my-8"},componentName),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex space-x-4"},imageUrls.map(function(imageUrl,index){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{key:index,className:"w-1/3"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:imageUrl,alt:"Image "+index,className:"w-full h-full rounded-lg border-2 border-green-400"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-2 text-center text-white font-semibold"},imageLabels[index]));})));};/* harmony default export */ __webpack_exports__["a"] = (FEAImageGallery);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__importAll__ = __webpack_require__(355);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__ = __webpack_require__(356);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__ = __webpack_require__(1);
+var FEA_Assets=Object(__WEBPACK_IMPORTED_MODULE_1__importAll__["a" /* default */])(__webpack_require__(357));var pivotArm=[FEA_Assets['pivotarm_stress.png'],FEA_Assets['pivotarm_displacement.png'],FEA_Assets['pivotarm_FOS.png']];var backMount=[FEA_Assets['backMount_stress.png'],FEA_Assets['backMount_displacement.png'],FEA_Assets['backMount_FOS.png']];var supportPlate=[FEA_Assets['supportPlate_stress.png'],FEA_Assets['supportPlate_displacement.png'],FEA_Assets['supportPlate_FOS.png']];var Labels=["Von Mises Stress","Displacement","Factor of Safety"];var Notes=["Analysis done with Autodesk Inventor's Stress Analysis tool","Factor of Safety for entire system is 2.77"];var NSIN_FEA=function NSIN_FEA(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"FEA",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Finite Element Analysis"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Association:")," Nucor Steel Indiana: Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Software Used:")," Autodesk Inventor"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__["a" /* default */],{componentName:"FE Analysis: Pivot Arm",imageUrls:pivotArm,imageLabels:Labels})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__["a" /* default */],{componentName:"FE Analysis: Cylinder Mount",imageUrls:backMount,imageLabels:Labels})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__["b" /* DotsHorizontalIcon */],{className:"mt-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container mx-auto p-4"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__FEAImageGallery__["a" /* default */],{componentName:"FE Analysis: Simply Supported Plate",imageUrls:supportPlate,imageLabels:Labels})),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__heroicons_react_solid__["a" /* CodeIcon */],{className:"mt-12 mb-8 mx-auto w-10"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-xl text-white font-semibold my-4"},"Notes:"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol",{"class":"list-disc text-white text-md"},Notes.map(function(note){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li",{className:"mb-4"},note);}))));};/* harmony default export */ __webpack_exports__["a"] = (NSIN_FEA);
 
 /***/ }),
 /* 355 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+// utils/imageImporter.js
+function importAll(r){var images={};r.keys().forEach(function(item,index){images[item.replace('./','')]=r(item);});return images;}/* harmony default export */ __webpack_exports__["a"] = (importAll);
+
+/***/ }),
+/* 356 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
+var FEAImageGallery=function FEAImageGallery(_ref){var componentName=_ref.componentName,imageUrls=_ref.imageUrls,imageLabels=_ref.imageLabels;return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-2xl text-green-400 font-bold my-8"},componentName),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex space-x-4"},imageUrls.map(function(imageUrl,index){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{key:index,className:"w-1/3"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:imageUrl,alt:"Image "+index,className:"w-full h-full rounded-lg border-2 border-green-400"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-2 text-center text-white font-semibold"},imageLabels[index]));})));};/* harmony default export */ __webpack_exports__["a"] = (FEAImageGallery);
+
+/***/ }),
+/* 357 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./backMount_FOS.png": 356,
-	"./backMount_displacement.png": 357,
-	"./backMount_stress.png": 358,
-	"./pivotarm_FOS.png": 359,
-	"./pivotarm_displacement.png": 360,
-	"./pivotarm_stress.png": 361,
-	"./supportPlate_FOS.png": 362,
-	"./supportPlate_displacement.png": 363,
-	"./supportPlate_stress.png": 364
+	"./backMount_FOS.png": 358,
+	"./backMount_displacement.png": 359,
+	"./backMount_stress.png": 360,
+	"./pivotarm_FOS.png": 361,
+	"./pivotarm_displacement.png": 362,
+	"./pivotarm_stress.png": 363,
+	"./supportPlate_FOS.png": 364,
+	"./supportPlate_displacement.png": 365,
+	"./supportPlate_stress.png": 366
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -34132,106 +34149,106 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 355;
-
-/***/ }),
-/* 356 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/backMount_FOS.d40cee39.png";
-
-/***/ }),
-/* 357 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/media/backMount_displacement.3e7d5678.png";
+webpackContext.id = 357;
 
 /***/ }),
 /* 358 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/backMount_stress.07358b02.png";
+module.exports = __webpack_require__.p + "static/media/backMount_FOS.d40cee39.png";
 
 /***/ }),
 /* 359 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/pivotarm_FOS.aa9173cf.png";
+module.exports = __webpack_require__.p + "static/media/backMount_displacement.3e7d5678.png";
 
 /***/ }),
 /* 360 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/pivotarm_displacement.d51456e7.png";
+module.exports = __webpack_require__.p + "static/media/backMount_stress.07358b02.png";
 
 /***/ }),
 /* 361 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/pivotarm_stress.9a53c528.png";
+module.exports = __webpack_require__.p + "static/media/pivotarm_FOS.aa9173cf.png";
 
 /***/ }),
 /* 362 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/supportPlate_FOS.388a874f.png";
+module.exports = __webpack_require__.p + "static/media/pivotarm_displacement.d51456e7.png";
 
 /***/ }),
 /* 363 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/supportPlate_displacement.134c5683.png";
+module.exports = __webpack_require__.p + "static/media/pivotarm_stress.9a53c528.png";
 
 /***/ }),
 /* 364 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/supportPlate_stress.fda4e153.png";
+module.exports = __webpack_require__.p + "static/media/supportPlate_FOS.388a874f.png";
 
 /***/ }),
 /* 365 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png__ = __webpack_require__(366);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png__ = __webpack_require__(367);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png__ = __webpack_require__(368);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png__ = __webpack_require__(369);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__ = __webpack_require__(370);
-var NSIN_TechnicalDrawings=function NSIN_TechnicalDrawings(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"TechnicalDrawings",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Technical Drawings"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Association:")," Nucor Steel Indiana: Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Software Used:")," AutoCAD, Autodesk Inventor"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__["a" /* default */],{imageUrl:__WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png___default.a,title:"Technical Drawing: Pivot Arm",description:"C-Channel Pivot Arm Technical Drawing, made in AutoCAD"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__["a" /* default */],{imageUrl:__WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png___default.a,title:"Technical Drawing: Pivot Axis",description:"Pivot Axis Technical Drawing, made in AutoCAD"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__["a" /* default */],{imageUrl:__WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png___default.a,title:"Technical Drawing: Cylinder Mount",description:"Cylinder Mount Technical Drawing, made in AutoCAD"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center p-4 border border-yellow-400 rounded-lg shadow-md my-8"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h2",{className:"text-lg text-yellow-400 font-semibold mb-2"},"Bill of Materials"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png___default.a,alt:"Bill of Materials",className:"w-full h-full object-contain"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-2 text-white"},"The Bill of Materials of this Pneumatic System."))));};/* harmony default export */ __webpack_exports__["a"] = (NSIN_TechnicalDrawings);
+module.exports = __webpack_require__.p + "static/media/supportPlate_displacement.134c5683.png";
 
 /***/ }),
 /* 366 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/pivotarm_technical.82dc64b3.png";
+module.exports = __webpack_require__.p + "static/media/supportPlate_stress.fda4e153.png";
 
 /***/ }),
 /* 367 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/pivotaxis_technical.de251dd3.png";
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png__ = __webpack_require__(368);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png__ = __webpack_require__(369);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png__ = __webpack_require__(370);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png__ = __webpack_require__(371);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__ = __webpack_require__(372);
+var NSIN_TechnicalDrawings=function NSIN_TechnicalDrawings(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section",{id:"TechnicalDrawings",className:"text-gray-400 bg-black"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"container flex flex-col px-5 py-10 mx-auto lg:px-40"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"sm:text-4xl text-3xl text-center font-medium mb-4 text-green-400"},"Technical Drawings"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Association:")," Nucor Steel Indiana: Mechanical Engineering Internship"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1",{className:"text-lg mx-auto"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span",{className:"font-bold"}," Software Used:")," AutoCAD, Autodesk Inventor"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__["a" /* default */],{imageUrl:__WEBPACK_IMPORTED_MODULE_1__NSIN_DrawingAssets_pivotarm_technical_png___default.a,title:"Technical Drawing: Pivot Arm",description:"C-Channel Pivot Arm Technical Drawing, made in AutoCAD"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__["a" /* default */],{imageUrl:__WEBPACK_IMPORTED_MODULE_2__NSIN_DrawingAssets_pivotaxis_technical_png___default.a,title:"Technical Drawing: Pivot Axis",description:"Pivot Axis Technical Drawing, made in AutoCAD"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5__TechnicalDrawing__["a" /* default */],{imageUrl:__WEBPACK_IMPORTED_MODULE_3__NSIN_DrawingAssets_cylinderarm_technical_png___default.a,title:"Technical Drawing: Cylinder Mount",description:"Cylinder Mount Technical Drawing, made in AutoCAD"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"flex flex-col items-center p-4 border border-yellow-400 rounded-lg shadow-md my-8"},__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h2",{className:"text-lg text-yellow-400 font-semibold mb-2"},"Bill of Materials"),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img",{src:__WEBPACK_IMPORTED_MODULE_4__NSIN_DrawingAssets_bill_of_materials_png___default.a,alt:"Bill of Materials",className:"w-full h-full object-contain"}),__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p",{className:"mt-2 text-white"},"The Bill of Materials of this Pneumatic System."))));};/* harmony default export */ __webpack_exports__["a"] = (NSIN_TechnicalDrawings);
 
 /***/ }),
 /* 368 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/cylinderarm_technical.e5e95bbb.png";
+module.exports = __webpack_require__.p + "static/media/pivotarm_technical.82dc64b3.png";
 
 /***/ }),
 /* 369 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/bill_of_materials.94e29288.png";
+module.exports = __webpack_require__.p + "static/media/pivotaxis_technical.de251dd3.png";
 
 /***/ }),
 /* 370 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/cylinderarm_technical.e5e95bbb.png";
+
+/***/ }),
+/* 371 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/bill_of_materials.94e29288.png";
+
+/***/ }),
+/* 372 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -34241,4 +34258,4 @@ var TechnicalDrawing=function TechnicalDrawing(_ref){var imageUrl=_ref.imageUrl,
 
 /***/ })
 /******/ ]);
-//# sourceMappingURL=main.08466edc.js.map
+//# sourceMappingURL=main.b5ce88f2.js.map
